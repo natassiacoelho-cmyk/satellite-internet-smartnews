@@ -1,0 +1,27 @@
+name: Update SmartNews Feed
+on:
+  schedule:
+    - cron: '0 * * * *' # Runs every hour
+  workflow_dispatch: # Allows you to run it manually for testing
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Run script
+        run: python build_feed.py
+      - name: Commit and Push
+        run: |
+          git config --global user.name "FeedBot"
+          git config --global user.email "bot@github.com"
+          git add smartnews.xml
+          git commit -m "Update SmartNews feed" || exit 0
+          git push

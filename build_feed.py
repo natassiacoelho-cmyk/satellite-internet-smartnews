@@ -5,7 +5,7 @@ import re
 # CONFIGURATION
 ORIGINAL_FEED_URL = "https://www.satelliteinternet.com/feed"
 LOGO_URL = "https://raw.githubusercontent.com/natassiacoelho-cmyk/satellite-internet-smartnews/main/satelliteinternet-logo_smartnews.png"
-GA_ID = "G-4RNELPQG75"  # Your verified GA4 ID
+GA_ID = "G-4RNELPQG75" 
 
 def generate_smartnews_feed():
     d = feedparser.parse(ORIGINAL_FEED_URL)
@@ -13,19 +13,34 @@ def generate_smartnews_feed():
     
     for entry in d.entries[:20]:
         try:
+            # Step 1: Fetch and Extract with "favor_recall" for Elementor pages
             downloaded = trafilatura.fetch_url(entry.link)
-            full_content = trafilatura.extract(downloaded, output_format='html', include_tables=True, include_images=True)
+            full_content = trafilatura.extract(
+                downloaded, 
+                output_format='html', 
+                include_tables=True, 
+                include_images=True,
+                favor_recall=True  # THIS CAPTURES THE FULL ELEMENTOR TEXT
+            )
+            
             content_body = full_content if full_content else entry.summary
             
-            # Find the first image for the thumbnail warning fix
+            # Step 2: Manually find the best image for the thumbnail
+            # We look for large images (ignoring tiny icons or .webp if possible)
             thumbnail_url = ""
-            img_match = re.search(r'src="([^"]+\.(?:jpg|jpeg|png|webp))"', content_body)
-            if img_match:
-                thumbnail_url = img_match.group(1)
-            
+            # Regex to find the first large-ish image link
+            img_matches = re.findall(r'src="([^"]+\.(?:jpg|jpeg|png))"', downloaded)
+            if img_matches:
+                # Filter out small UI elements or icons by looking for 'uploads' or specific patterns
+                for img in img_matches:
+                    if "uploads" in img or "wp-content" in img:
+                        thumbnail_url = img
+                        break
+
+            # Mandatory tag to resolve the 'item.media:thumbnail' warning
             media_tag = f'<media:thumbnail url="{thumbnail_url}" />' if thumbnail_url else ""
 
-            # GA4 analytics tag for SmartNews SmartFormat
+            # GA4 analytics tag
             analytics_tag = f"""<snf:analytics><![CDATA[
                 <script async src="https://www.googletagmanager.com/gtag/js?id={GA_ID}"></script>
                 <script>
@@ -36,6 +51,7 @@ def generate_smartnews_feed():
                 </script>
             ]]></snf:analytics>"""
 
+            # XML Safety
             content_body_safe = content_body.replace('&', '&amp;')
 
             articles_xml += f"""

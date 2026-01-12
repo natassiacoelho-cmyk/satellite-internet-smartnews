@@ -28,6 +28,6 @@ jobs:
           git config --global user.name "FeedBot"
           git config --global user.email "bot@github.com"
           git add smartnews.xml
-          git pull --rebase
+          git pull --rebase  # SYNC YOUR CHANGES
           git commit -m "Update SmartNews feed" || echo "No changes to commit"
           git push || echo "Nothing to push"

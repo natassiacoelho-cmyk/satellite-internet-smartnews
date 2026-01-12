@@ -9,19 +9,18 @@ LOGO_URL = "https://raw.githubusercontent.com/natassiacoelho-cmyk/satellite-inte
 GA_ID = "G-4RNELPQG75" 
 
 def generate_smartnews_feed():
-    # 1. Parse original feed
     d = feedparser.parse(ORIGINAL_FEED_URL)
     articles_xml = ""
     
-    # 2. Process up to 20 entries
     for entry in d.entries[:20]:
         try:
-            # Fetch raw HTML
+            # 1. Fetch raw HTML
             headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'}
             response = requests.get(entry.link, headers=headers, timeout=15)
             html_doc = response.text
 
-            # Try to get the BEST content first (Targeted)
+            # 2. Layered Extraction Strategy
+            # Layer A: Target the main article container from your source code
             full_content = trafilatura.extract(
                 html_doc, 
                 output_format='html', 
@@ -31,26 +30,35 @@ def generate_smartnews_feed():
                 target_xpath='//*[@id="main-content"]'
             )
             
-            # FALLBACK: If targeted extraction is too small or empty, use standard extraction
-            if not full_content or len(full_content) < 500:
-                full_content = trafilatura.extract(html_doc, output_format='html', include_tables=True, include_images=True, favor_recall=True)
+            # Layer B: If A is too small, try the Elementor specific widget container
+            if not full_content or len(full_content) < 800:
+                full_content = trafilatura.extract(
+                    html_doc,
+                    output_format='html',
+                    include_tables=True,
+                    include_images=True,
+                    target_xpath='//div[contains(@class, "elementor-widget-container")]'
+                )
 
-            # FINAL SAFETY: If scraping still returns nothing, use the original summary
-            # This ensures your XML file is NEVER empty.
-            content_body = full_content if (full_content and len(full_content) > 100) else entry.summary
-            
-            # Strip junk technical markers
+            # Layer C: Safety Fallback - Use the original feed's summary
+            # This PREVENTS the feed from being empty
+            if full_content and len(full_content) > 100:
+                content_body = full_content
+            else:
+                content_body = entry.summary
+
+            # Clean up junk data tags that Elementor leaves behind
             content_body = re.sub(r'data-widget="[^"]+"', '', content_body)
             content_body = re.sub(r'class="[^"]+"', '', content_body)
 
-            # Thumbnail finding
+            # 3. Find Thumbnail from Meta Tags (Ensures the image warning goes away)
             thumbnail_url = ""
             og_image = re.search(r'property="og:image" content="([^"]+)"', html_doc)
             if og_image:
                 thumbnail_url = og_image.group(1)
             media_tag = f'<media:thumbnail url="{thumbnail_url}" />' if thumbnail_url else ""
 
-            # Analytics
+            # 4. Analytics
             analytics_tag = f"""<snf:analytics><![CDATA[
                 <script>
                   (function(w,d,s,l,i){{w[l]=w[l]||[];w[l].push({{'gtm.start':
@@ -65,6 +73,7 @@ def generate_smartnews_feed():
                 </script>
             ]]></snf:analytics>"""
 
+            # XML Safety
             content_body_safe = content_body.replace('&', '&amp;')
 
             articles_xml += f"""
@@ -78,9 +87,9 @@ def generate_smartnews_feed():
             {analytics_tag}
         </item>"""
         except Exception as e:
-            print(f"Error processing {entry.link}: {e}")
+            print(f"Error on {entry.link}: {e}")
 
-    # 3. Assemble full feed
+    # 5. Build final XML string
     full_feed = f"""<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" 
      xmlns:content="http://purl.org/rss/1.0/modules/content/" 

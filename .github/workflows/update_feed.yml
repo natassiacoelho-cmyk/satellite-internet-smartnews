@@ -29,6 +29,5 @@ jobs:
           git config --global user.email "bot@github.com"
           git add smartnews.xml
           git pull --rebase
-          # This line prevents the error if there are no new articles
           git commit -m "Update SmartNews feed" || exit 0
           git push || exit 0

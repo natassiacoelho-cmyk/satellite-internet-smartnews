@@ -28,6 +28,7 @@ jobs:
           git config --global user.name "FeedBot"
           git config --global user.email "bot@github.com"
           git add smartnews.xml
-          git pull --rebase  # SYNC YOUR CHANGES
-          git commit -m "Update SmartNews feed" || echo "No changes to commit"
-          git push || echo "Nothing to push"
+          git pull --rebase
+          # This line prevents the error if there are no new articles
+          git commit -m "Update SmartNews feed" || exit 0
+          git push || exit 0

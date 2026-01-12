@@ -472,31 +472,5 @@
                 </script>
             ]]></snf:analytics>
         </item>
-        <item>
-            <title>Internet for Low-Income Families</title>
-            <link>https://www.satelliteinternet.com/resources/low-income-internet/</link>
-            <guid>https://www.satelliteinternet.com/resources/low-income-internet/</guid>
-            <pubDate>Tue, 09 Dec 2025 17:30:09 +0000</pubDate>
-            <content:encoded><![CDATA[<html>
-  <body>
-    <p>Internet speeds and availability are better than ever, but even the most basic connection can be too expensive for many U.S. households, especially satellite solutions for rural homes. To stay connected and take advantage of the internet's economic and educational benefits, qualifying families can access discounted internet service.</p>
-    <p>The Affordable Connectivity Program (ACP) was previously the best way to get a reduced internet bill ($30 off) from nearly any provider, but Congress has since run out of funding. Despite the ACP's expiration for the foreseeable future, there are other public and provider-driven options to assist families with their internet bills.</p>
-  </body>
-</html>]]></content:encoded>
-            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2022/12/Best-Rural-Internet.jpg" />
-            <snf:analytics><![CDATA[
-                <script>
-                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
-                  })(window,document,'script','dataLayer','G-4RNELPQG75');
-                  window.dataLayer = window.dataLayer || [];
-                  function gtag(){dataLayer.push(arguments);}
-                  gtag('js', new Date());
-                  gtag('config', 'G-4RNELPQG75');
-                </script>
-            ]]></snf:analytics>
-        </item>
     </channel>
 </rss>

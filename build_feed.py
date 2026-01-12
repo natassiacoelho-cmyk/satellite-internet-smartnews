@@ -1,40 +1,43 @@
 import feedparser
-from trafilatura import fetch_url, extract
+import trafilatura
 from feedgen.feed import FeedGenerator
-import time
 
-# Configuration
+# CONFIGURATION
+# Use the Raw GitHub URL for your logo to avoid the WordPress .webp issue
 ORIGINAL_FEED_URL = "https://www.satelliteinternet.com/feed"
 LOGO_URL = "https://raw.githubusercontent.com/natassiacoelho-cmyk/satellite-internet-smartnews/main/satelliteinternet-logo_smartnews.png"
 
 def generate_smartnews_feed():
-    # 1. Parse original feed
     d = feedparser.parse(ORIGINAL_FEED_URL)
     
     fg = FeedGenerator()
-    fg.load_extension('content')
-    # Add SmartNews Namespace
+    # Load the SmartNews extension
+    fg.load_extension('snf', atom=False, rss=True)
+    
     fg.title('SatelliteInternet.com')
     fg.link(href='https://www.satelliteinternet.com', rel='alternate')
-    fg.description('Satellite Internet Reviews and Guides')
+    fg.description('Your guide to satellite internet providers and news.')
     
-    # 2. Process each article
-    for entry in d.entries[:20]:  # Process last 20 articles
+    # Set the logo using the specific SmartNews tag
+    fg.snf.logo(LOGO_URL)
+
+    for entry in d.entries[:20]:
         fe = fg.add_entry()
         fe.title(entry.title)
         fe.link(href=entry.link)
-        fe.pubDate(entry.published)
         fe.guid(entry.link)
+        fe.pubDate(entry.published)
         
-        # Scrape full text from the actual webpage
-        downloaded = fetch_url(entry.link)
-        full_content = extract(downloaded, include_tables=True, include_images=True)
+        # Pull full content to bypass WordPress snippet limitation
+        downloaded = trafilatura.fetch_url(entry.link)
+        full_content = trafilatura.extract(downloaded, output_format='html', include_tables=True, include_images=True)
         
-        # Wrap in CDATA for SmartNews
-        content_html = f"<![CDATA[ {full_content} ]]>"
-        fe.content(content_html, type='html')
+        if full_content:
+            # Wrap in CDATA to ensure validation
+            fe.content(f"<![CDATA[{full_content}]]>", type='html')
+        else:
+            fe.content(f"<![CDATA[{entry.summary}]]>", type='html')
 
-    # 3. Output the XML
     fg.rss_file('smartnews.xml', pretty=True)
 
 if __name__ == "__main__":

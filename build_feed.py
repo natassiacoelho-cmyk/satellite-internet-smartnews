@@ -1,6 +1,7 @@
 import feedparser
 import trafilatura
 import re
+import requests
 
 # CONFIGURATION
 ORIGINAL_FEED_URL = "https://www.satelliteinternet.com/feed"
@@ -13,37 +14,46 @@ def generate_smartnews_feed():
     
     for entry in d.entries[:20]:
         try:
-            # Step 1: Fetch and Extract with "favor_recall" for Elementor pages
-            downloaded = trafilatura.fetch_url(entry.link)
+            # 1. Fetch raw HTML for thumbnail finding
+            headers = {'User-Agent': 'Mozilla/5.0'}
+            response = requests.get(entry.link, headers=headers, timeout=10)
+            html_doc = response.text
+
+            # 2. Extract content with recall mode for Elementor
             full_content = trafilatura.extract(
-                downloaded, 
+                html_doc, 
                 output_format='html', 
                 include_tables=True, 
                 include_images=True,
-                favor_recall=True  # THIS CAPTURES THE FULL ELEMENTOR TEXT
+                favor_recall=True 
             )
-            
             content_body = full_content if full_content else entry.summary
             
-            # Step 2: Manually find the best image for the thumbnail
-            # We look for large images (ignoring tiny icons or .webp if possible)
-            thumbnail_url = ""
-            # Regex to find the first large-ish image link
-            img_matches = re.findall(r'src="([^"]+\.(?:jpg|jpeg|png))"', downloaded)
-            if img_matches:
-                # Filter out small UI elements or icons by looking for 'uploads' or specific patterns
-                for img in img_matches:
-                    if "uploads" in img or "wp-content" in img:
-                        thumbnail_url = img
-                        break
+            # Clean Elementor junk tags
+            content_body = re.sub(r'data-widget="[^"]+"', '', content_body)
+            content_body = re.sub(r'class="[^"]+"', '', content_body)
 
-            # Mandatory tag to resolve the 'item.media:thumbnail' warning
+            # 3. Find thumbnail in Meta Tags (Reliable for Elementor)
+            thumbnail_url = ""
+            og_image = re.search(r'property="og:image" content="([^"]+)"', html_doc)
+            if og_image:
+                thumbnail_url = og_image.group(1)
+            else:
+                # Fallback to first image in body
+                img_match = re.search(r'src="([^"]+\.(?:jpg|jpeg|png))"', html_doc)
+                if img_match:
+                    thumbnail_url = img_match.group(1)
+
             media_tag = f'<media:thumbnail url="{thumbnail_url}" />' if thumbnail_url else ""
 
-            # GA4 analytics tag
+            # 4. SINGLE SCRIPT GA4 Analytics (Fixes "must have a single script" error)
             analytics_tag = f"""<snf:analytics><![CDATA[
-                <script async src="https://www.googletagmanager.com/gtag/js?id={GA_ID}"></script>
                 <script>
+                  (function(w,d,s,l,i){{w[l]=w[l]||[];w[l].push({{'gtm.start':
+                  new Date().getTime(),event:'gtm.js'}});var f=d.getElementsByTagName(s)[0],
+                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                  }})(window,document,'script','dataLayer','{GA_ID}');
                   window.dataLayer = window.dataLayer || [];
                   function gtag(){{dataLayer.push(arguments);}}
                   gtag('js', new Date());
@@ -51,7 +61,6 @@ def generate_smartnews_feed():
                 </script>
             ]]></snf:analytics>"""
 
-            # XML Safety
             content_body_safe = content_body.replace('&', '&amp;')
 
             articles_xml += f"""

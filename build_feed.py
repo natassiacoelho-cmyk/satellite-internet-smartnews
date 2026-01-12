@@ -14,37 +14,49 @@ def generate_smartnews_feed():
     
     for entry in d.entries[:20]:
         try:
-            # 1. Fetch raw HTML with a standard browser header
+            # 1. Fetch raw HTML
             headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'}
             response = requests.get(entry.link, headers=headers, timeout=15)
             html_doc = response.text
 
-            # 2. Targeted Extraction for SatelliteInternet.com
-            # We specifically look for the 'main-content' class identified in your source code
+            # 2. HYBRID EXTRACTION
+            # First, try the specific container we saw in your source code
             full_content = trafilatura.extract(
                 html_doc, 
                 output_format='html', 
                 include_tables=True, 
                 include_images=True,
-                favor_recall=True,
                 target_xpath='//article[contains(@class, "main-content")]'
             )
             
-            # Fallback: If targeted extraction fails, use the widest possible recall
-            if not full_content or len(full_content) < 1000:
+            # FALLBACK 1: If that's empty, try the Elementor specific container
+            if not full_content or len(full_content) < 500:
                 full_content = trafilatura.extract(
                     html_doc,
                     output_format='html',
+                    include_tables=True,
+                    include_images=True,
+                    target_xpath='//div[contains(@class, "elementor-widget-container")]'
+                )
+
+            # FALLBACK 2: If still empty, use standard "Recall" mode (wide net)
+            if not full_content or len(full_content) < 500:
+                full_content = trafilatura.extract(
+                    html_doc,
+                    output_format='html',
+                    include_tables=True,
+                    include_images=True,
                     favor_recall=True
                 )
 
-            content_body = full_content if full_content else entry.summary
+            # Final Safety: Use the original feed summary if all scraping fails
+            content_body = full_content if (full_content and len(full_content) > 100) else entry.summary
             
-            # Strip technical junk that breaks app styling
+            # Clean up junk tags
             content_body = re.sub(r'data-widget="[^"]+"', '', content_body)
             content_body = re.sub(r'class="[^"]+"', '', content_body)
 
-            # 3. Reliable Thumbnail Finding from Meta Tags
+            # 3. Thumbnail Finding
             thumbnail_url = ""
             og_image = re.search(r'property="og:image" content="([^"]+)"', html_doc)
             if og_image:
@@ -52,7 +64,7 @@ def generate_smartnews_feed():
             
             media_tag = f'<media:thumbnail url="{thumbnail_url}" />' if thumbnail_url else ""
 
-            # 4. Combined Single-Script GA4 Analytics for SmartNews Compliance
+            # 4. Analytics
             analytics_tag = f"""<snf:analytics><![CDATA[
                 <script>
                   (function(w,d,s,l,i){{w[l]=w[l]||[];w[l].push({{'gtm.start':

@@ -5,7 +5,7 @@ import time
 
 # Configuration
 ORIGINAL_FEED_URL = "https://www.satelliteinternet.com/feed"
-LOGO_URL = "https://www.satelliteinternet.com/app/uploads/2026/01/satelliteinternet-logo_smartnews.webp"
+LOGO_URL = "https://raw.githubusercontent.com/natassiacoelho-cmyk/satellite-internet-smartnews/main/satelliteinternet-logo_smartnews.png"
 
 def generate_smartnews_feed():
     # 1. Parse original feed

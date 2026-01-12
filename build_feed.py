@@ -7,7 +7,7 @@ ORIGINAL_FEED_URL = "https://www.satelliteinternet.com/feed"
 LOGO_URL = "https://raw.githubusercontent.com/natassiacoelho-cmyk/satellite-internet-smartnews/main/satelliteinternet-logo_smartnews.png"
 
 # TODO: Replace 'UA-XXXXXXXXX-X' with your actual Google Analytics ID if you have one
-GA_ID = "UA-XXXXXXXXX-X" 
+GA_ID = "G-4RNELPQG75" 
 
 def generate_smartnews_feed():
     d = feedparser.parse(ORIGINAL_FEED_URL)

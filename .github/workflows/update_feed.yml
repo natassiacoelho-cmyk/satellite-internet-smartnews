@@ -22,6 +22,7 @@ jobs:
         run: |
           git config --global user.name "FeedBot"
           git config --global user.email "bot@github.com"
+          git pull --rebase  # THIS IS THE FIX: It syncs your manual edits before pushing
           git add smartnews.xml
           git commit -m "Update SmartNews feed" || exit 0
           git push

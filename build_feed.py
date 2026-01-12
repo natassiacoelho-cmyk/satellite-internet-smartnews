@@ -5,9 +5,7 @@ import re
 # CONFIGURATION
 ORIGINAL_FEED_URL = "https://www.satelliteinternet.com/feed"
 LOGO_URL = "https://raw.githubusercontent.com/natassiacoelho-cmyk/satellite-internet-smartnews/main/satelliteinternet-logo_smartnews.png"
-
-# TODO: Replace 'UA-XXXXXXXXX-X' with your actual Google Analytics ID if you have one
-GA_ID = "G-4RNELPQG75" 
+GA_ID = "G-4RNELPQG75"  # Your verified GA4 ID
 
 def generate_smartnews_feed():
     d = feedparser.parse(ORIGINAL_FEED_URL)
@@ -19,28 +17,25 @@ def generate_smartnews_feed():
             full_content = trafilatura.extract(downloaded, output_format='html', include_tables=True, include_images=True)
             content_body = full_content if full_content else entry.summary
             
-            # 1. Try to find the first image URL to use as a thumbnail
+            # Find the first image for the thumbnail warning fix
             thumbnail_url = ""
             img_match = re.search(r'src="([^"]+\.(?:jpg|jpeg|png|webp))"', content_body)
             if img_match:
                 thumbnail_url = img_match.group(1)
             
-            # Build the thumbnail tag if an image was found
             media_tag = f'<media:thumbnail url="{thumbnail_url}" />' if thumbnail_url else ""
 
-            # 2. Add Analytics tracking (placeholder)
+            # GA4 analytics tag for SmartNews SmartFormat
             analytics_tag = f"""<snf:analytics><![CDATA[
+                <script async src="https://www.googletagmanager.com/gtag/js?id={GA_ID}"></script>
                 <script>
-                  (function(i,s,o,g,r,a,m){{i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){{
-                  (i[r].q=i[r].q||[]).push(arguments)}},i[r].l=1*new Date();a=s.createElement(o),
-                  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-                  }})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-                  ga('create', '{GA_ID}', 'auto');
-                  ga('send', 'pageview');
+                  window.dataLayer = window.dataLayer || [];
+                  function gtag(){{dataLayer.push(arguments);}}
+                  gtag('js', new Date());
+                  gtag('config', '{GA_ID}');
                 </script>
             ]]></snf:analytics>"""
 
-            # Clean ampersands for XML
             content_body_safe = content_body.replace('&', '&amp;')
 
             articles_xml += f"""

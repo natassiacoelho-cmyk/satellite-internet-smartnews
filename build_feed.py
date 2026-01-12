@@ -9,51 +9,48 @@ LOGO_URL = "https://raw.githubusercontent.com/natassiacoelho-cmyk/satellite-inte
 GA_ID = "G-4RNELPQG75" 
 
 def generate_smartnews_feed():
+    # 1. Parse original feed
     d = feedparser.parse(ORIGINAL_FEED_URL)
     articles_xml = ""
     
-    # Check if original feed is actually readable
-    if not d.entries:
-        print("Error: Source feed is empty or unreadable.")
-        return
-
+    # 2. Process up to 20 entries
     for entry in d.entries[:20]:
         try:
-            # 1. Fetch raw HTML with updated Browser User Agent
+            # Fetch raw HTML using Requests with a real browser ID
             headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'}
             response = requests.get(entry.link, headers=headers, timeout=15)
             html_doc = response.text
 
-            # 2. Aggressive Extraction
-            # Try specific Elementor path first
+            # Try Targeted Extraction first
             full_content = trafilatura.extract(
                 html_doc, 
                 output_format='html', 
                 include_tables=True, 
                 include_images=True,
-                favor_recall=True,
+                favor_recall=True, # Prioritize more content over "clean" content
                 target_xpath='//*[@id="main-content"]'
             )
             
-            # If that's empty, use standard recall mode
+            # FALLBACK 1: If targeted fails, try general extraction
             if not full_content or len(full_content) < 500:
                 full_content = trafilatura.extract(html_doc, output_format='html', include_tables=True, include_images=True, favor_recall=True)
 
-            # FINAL GUARANTEE: Use the original summary if all scraping fails
-            # This ensures your XML file is NEVER empty again.
+            # FALLBACK 2: If scraping still returns nothing, use the original summary
+            # This ensures your XML file is NEVER empty.
             content_body = full_content if (full_content and len(full_content) > 100) else entry.summary
             
-            # Clean ampersands for XML safety
-            content_body_safe = content_body.replace('&', '&amp;')
+            # Clean technical junk
+            content_body = re.sub(r'data-widget="[^"]+"', '', content_body)
+            content_body = re.sub(r'class="[^"]+"', '', content_body)
 
-            # Thumbnail Finding
+            # Thumbnail finding for the validator
             thumbnail_url = ""
             og_image = re.search(r'property="og:image" content="([^"]+)"', html_doc)
             if og_image:
                 thumbnail_url = og_image.group(1)
             media_tag = f'<media:thumbnail url="{thumbnail_url}" />' if thumbnail_url else ""
 
-            # Analytics (Single Script Compliance)
+            # Analytics
             analytics_tag = f"""<snf:analytics><![CDATA[
                 <script>
                   (function(w,d,s,l,i){{w[l]=w[l]||[];w[l].push({{'gtm.start':
@@ -67,6 +64,8 @@ def generate_smartnews_feed():
                   gtag('config', '{GA_ID}');
                 </script>
             ]]></snf:analytics>"""
+
+            content_body_safe = content_body.replace('&', '&amp;')
 
             articles_xml += f"""
         <item>

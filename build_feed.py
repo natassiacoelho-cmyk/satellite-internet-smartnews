@@ -9,48 +9,45 @@ LOGO_URL = "https://raw.githubusercontent.com/natassiacoelho-cmyk/satellite-inte
 GA_ID = "G-4RNELPQG75" 
 
 def generate_smartnews_feed():
-    # 1. Parse original feed
     d = feedparser.parse(ORIGINAL_FEED_URL)
     articles_xml = ""
     
-    # 2. Process up to 20 entries
+    # Check if original feed has entries
+    if not d.entries:
+        print("Error: Source feed entries are empty.")
+        return
+
     for entry in d.entries[:20]:
         try:
-            # Fetch raw HTML using Requests with a real browser ID
-            headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'}
+            # 1. Fetch raw HTML using a standard browser User-Agent to avoid being blocked
+            headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36'}
             response = requests.get(entry.link, headers=headers, timeout=15)
             html_doc = response.text
 
-            # Try Targeted Extraction first
+            # 2. Aggressive Extraction
             full_content = trafilatura.extract(
                 html_doc, 
                 output_format='html', 
                 include_tables=True, 
                 include_images=True,
-                favor_recall=True, # Prioritize more content over "clean" content
-                target_xpath='//*[@id="main-content"]'
+                favor_recall=True # Prioritize getting MORE content over "cleaner" content
             )
             
-            # FALLBACK 1: If targeted fails, try general extraction
-            if not full_content or len(full_content) < 500:
-                full_content = trafilatura.extract(html_doc, output_format='html', include_tables=True, include_images=True, favor_recall=True)
-
-            # FALLBACK 2: If scraping still returns nothing, use the original summary
-            # This ensures your XML file is NEVER empty.
+            # FINAL GUARANTEE: If scraping fails, use the original WordPress summary
+            # This ensures your XML file is NEVER empty again.
             content_body = full_content if (full_content and len(full_content) > 100) else entry.summary
             
-            # Clean technical junk
-            content_body = re.sub(r'data-widget="[^"]+"', '', content_body)
-            content_body = re.sub(r'class="[^"]+"', '', content_body)
+            # XML Safety for ampersands
+            content_body_safe = content_body.replace('&', '&amp;')
 
-            # Thumbnail finding for the validator
+            # 3. Find Thumbnail from Meta Tags (Fixes 'media:thumbnail is missing')
             thumbnail_url = ""
             og_image = re.search(r'property="og:image" content="([^"]+)"', html_doc)
             if og_image:
                 thumbnail_url = og_image.group(1)
             media_tag = f'<media:thumbnail url="{thumbnail_url}" />' if thumbnail_url else ""
 
-            # Analytics
+            # 4. Single-Script GA4 Analytics
             analytics_tag = f"""<snf:analytics><![CDATA[
                 <script>
                   (function(w,d,s,l,i){{w[l]=w[l]||[];w[l].push({{'gtm.start':
@@ -65,8 +62,6 @@ def generate_smartnews_feed():
                 </script>
             ]]></snf:analytics>"""
 
-            content_body_safe = content_body.replace('&', '&amp;')
-
             articles_xml += f"""
         <item>
             <title>{entry.title}</title>
@@ -78,9 +73,9 @@ def generate_smartnews_feed():
             {analytics_tag}
         </item>"""
         except Exception as e:
-            print(f"Error processing {entry.link}: {e}")
+            print(f"Error on {entry.link}: {e}")
 
-    # 3. Assemble full feed
+    # Build final XML
     full_feed = f"""<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" 
      xmlns:content="http://purl.org/rss/1.0/modules/content/" 

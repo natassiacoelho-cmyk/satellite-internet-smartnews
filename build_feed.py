@@ -14,39 +14,47 @@ def generate_smartnews_feed():
     
     for entry in d.entries[:20]:
         try:
-            # 1. Fetch raw HTML for thumbnail finding
+            # 1. Fetch raw HTML
             headers = {'User-Agent': 'Mozilla/5.0'}
-            response = requests.get(entry.link, headers=headers, timeout=10)
+            response = requests.get(entry.link, headers=headers, timeout=15)
             html_doc = response.text
 
-            # 2. Extract content with recall mode for Elementor
+            # 2. GREEDY EXTRACTION: We force it to include more "noise" to catch all of Elementor
+            # We also tell it specifically NOT to discard short blocks, which often happen in guides
             full_content = trafilatura.extract(
                 html_doc, 
                 output_format='html', 
                 include_tables=True, 
                 include_images=True,
-                favor_recall=True 
+                favor_recall=True,  # Prioritize getting MORE text over "cleaner" text
+                include_comments=False
             )
+            
+            # 3. Check for Truncation: If the content is too short (under 500 chars), 
+            # use a "brute force" method to grab all content in the main container.
+            if not full_content or len(full_content) < 800:
+                # This specifically targets standard WordPress/Elementor content areas
+                full_content = trafilatura.extract(
+                    html_doc,
+                    output_format='html',
+                    target_xpath='//div[contains(@class, "entry-content")] | //main'
+                )
+
             content_body = full_content if full_content else entry.summary
             
-            # Clean Elementor junk tags
+            # Clean up Elementor technical junk for a better app experience
             content_body = re.sub(r'data-widget="[^"]+"', '', content_body)
             content_body = re.sub(r'class="[^"]+"', '', content_body)
 
-            # 3. Find thumbnail in Meta Tags (Reliable for Elementor)
+            # 4. Thumbnail Finding
             thumbnail_url = ""
             og_image = re.search(r'property="og:image" content="([^"]+)"', html_doc)
             if og_image:
                 thumbnail_url = og_image.group(1)
-            else:
-                # Fallback to first image in body
-                img_match = re.search(r'src="([^"]+\.(?:jpg|jpeg|png))"', html_doc)
-                if img_match:
-                    thumbnail_url = img_match.group(1)
-
+            
             media_tag = f'<media:thumbnail url="{thumbnail_url}" />' if thumbnail_url else ""
 
-            # 4. SINGLE SCRIPT GA4 Analytics (Fixes "must have a single script" error)
+            # 5. Analytics
             analytics_tag = f"""<snf:analytics><![CDATA[
                 <script>
                   (function(w,d,s,l,i){{w[l]=w[l]||[];w[l].push({{'gtm.start':

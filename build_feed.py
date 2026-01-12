@@ -14,33 +14,23 @@ def generate_smartnews_feed():
     
     for entry in d.entries[:20]:
         try:
-            # 1. Fetch raw HTML
+            # 1. Fetch raw HTML with a browser-like signature
             headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'}
             response = requests.get(entry.link, headers=headers, timeout=15)
             html_doc = response.text
 
-            # 2. HYBRID EXTRACTION
-            # First, try the specific container we saw in your source code
+            # 2. HYBRID EXTRACTION: Targets your specific article container
             full_content = trafilatura.extract(
                 html_doc, 
                 output_format='html', 
                 include_tables=True, 
                 include_images=True,
-                target_xpath='//article[contains(@class, "main-content")]'
+                favor_recall=True,
+                target_xpath='//*[@id="main-content"]//div[contains(@class, "elementor-widget-container")]'
             )
             
-            # FALLBACK 1: If that's empty, try the Elementor specific container
-            if not full_content or len(full_content) < 500:
-                full_content = trafilatura.extract(
-                    html_doc,
-                    output_format='html',
-                    include_tables=True,
-                    include_images=True,
-                    target_xpath='//div[contains(@class, "elementor-widget-container")]'
-                )
-
-            # FALLBACK 2: If still empty, use standard "Recall" mode (wide net)
-            if not full_content or len(full_content) < 500:
+            # Fallback for pages where 'main-content' might be named differently
+            if not full_content or len(full_content) < 800:
                 full_content = trafilatura.extract(
                     html_doc,
                     output_format='html',
@@ -49,14 +39,14 @@ def generate_smartnews_feed():
                     favor_recall=True
                 )
 
-            # Final Safety: Use the original feed summary if all scraping fails
+            # Safety Net: Fallback to the original feed summary if scraping returns nothing
             content_body = full_content if (full_content and len(full_content) > 100) else entry.summary
             
-            # Clean up junk tags
+            # Clean up Elementor-specific technical markers
             content_body = re.sub(r'data-widget="[^"]+"', '', content_body)
             content_body = re.sub(r'class="[^"]+"', '', content_body)
 
-            # 3. Thumbnail Finding
+            # 3. Find Thumbnail from Meta Tags (Fixes 'media:thumbnail is missing')
             thumbnail_url = ""
             og_image = re.search(r'property="og:image" content="([^"]+)"', html_doc)
             if og_image:
@@ -64,7 +54,7 @@ def generate_smartnews_feed():
             
             media_tag = f'<media:thumbnail url="{thumbnail_url}" />' if thumbnail_url else ""
 
-            # 4. Analytics
+            # 4. SINGLE SCRIPT GA4 Analytics tracking
             analytics_tag = f"""<snf:analytics><![CDATA[
                 <script>
                   (function(w,d,s,l,i){{w[l]=w[l]||[];w[l].push({{'gtm.start':

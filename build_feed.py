@@ -8,17 +8,21 @@ LOGO_URL = "https://raw.githubusercontent.com/natassiacoelho-cmyk/satellite-inte
 
 def generate_smartnews_feed():
     d = feedparser.parse(ORIGINAL_FEED_URL)
-    
-    # Start building the XML string manually for better control
     articles_xml = ""
     
     for entry in d.entries[:20]:
-        # Scrape full content
-        downloaded = trafilatura.fetch_url(entry.link)
-        full_content = trafilatura.extract(downloaded, output_format='html', include_tables=True, include_images=True)
-        content_body = full_content if full_content else entry.summary
+        try:
+            # Scrape content
+            downloaded = trafilatura.fetch_url(entry.link)
+            full_content = trafilatura.extract(downloaded, output_format='html', include_tables=True, include_images=True)
+            
+            # Fallback if scraping fails
+            content_body = full_content if full_content else entry.summary
+            
+            # Clean special characters that break XML
+            content_body = content_body.replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;')
 
-        articles_xml += f"""
+            articles_xml += f"""
         <item>
             <title>{entry.title}</title>
             <link>{entry.link}</link>
@@ -26,12 +30,11 @@ def generate_smartnews_feed():
             <pubDate>{entry.published}</pubDate>
             <content:encoded><![CDATA[{content_body}]]></content:encoded>
         </item>"""
+        except Exception as e:
+            print(f"Skipping article due to error: {e}")
 
-    # Combine into the full SmartFormat RSS structure
     full_feed = f"""<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" 
-     xmlns:content="http://purl.org/rss/1.0/modules/content/" 
-     xmlns:snf="http://www.smartnews.be/snf">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:snf="http://www.smartnews.be/snf">
     <channel>
         <title>SatelliteInternet.com</title>
         <link>https://www.satelliteinternet.com</link>

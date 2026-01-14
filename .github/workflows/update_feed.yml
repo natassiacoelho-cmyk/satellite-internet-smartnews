@@ -11,6 +11,8 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0 
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -23,11 +25,12 @@ jobs:
       - name: Run script
         run: python build_feed.py
 
-- name: Commit and Push
+      - name: Force Sync and Push
         run: |
           git config --global user.name "FeedBot"
           git config --global user.email "bot@github.com"
-          git pull --rebase  # THIS IS THE FIX: It syncs your manual edits before pushing
           git add smartnews.xml
-          git commit -m "Update SmartNews feed" || exit 0
-          git push
+          # This forces Git to accept your manual edits before pushing the new file
+          git pull origin main --rebase --autostash
+          git commit -m "Automated Feed Update" || echo "No changes to commit"
+          git push origin main

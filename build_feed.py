@@ -2,7 +2,6 @@ import feedparser
 import trafilatura
 import re
 import requests
-from html import escape
 
 # CONFIGURATION
 ORIGINAL_FEED_URL = "https://www.satelliteinternet.com/feed"
@@ -23,14 +22,22 @@ def generate_smartnews_feed():
             response = requests.get(entry.link, headers=headers, timeout=15)
             html_doc = response.text
 
-            # 2. Scrape with Fallback
-            full_content = trafilatura.extract(html_doc, output_format='html', include_tables=True, include_images=True, favor_recall=True)
+            # 2. Scrape with Link Preservation
+            # Adding include_links=True ensures your RV guide hyperlinks pull through
+            full_content = trafilatura.extract(
+                html_doc, 
+                output_format='html', 
+                include_tables=True, 
+                include_images=True,
+                include_links=True,  # THIS FIXES THE PLAIN TEXT LINKS
+                favor_recall=True
+            )
+            
             content_body = full_content if (full_content and len(full_content) > 200) else entry.summary
             
-            # Clean technical junk and fix ampersands inside the CDATA
+            # Clean technical junk and fix ampersands for XML stability
             content_body = re.sub(r'data-widget="[^"]+"', '', content_body)
             content_body = re.sub(r'class="[^"]+"', '', content_body)
-            # Crucial: This fixes the "xmlParseEntityRef" error
             content_body = content_body.replace('&', '&amp;') 
 
             # 3. Find Thumbnail
@@ -40,7 +47,7 @@ def generate_smartnews_feed():
                 thumbnail_url = og_image.group(1)
             media_tag = f'<media:thumbnail url="{thumbnail_url.replace("&", "&amp;")}" />' if thumbnail_url else ""
 
-            # 4. Analytics (Single Script)
+            # 4. Analytics
             analytics_tag = f"""<snf:analytics><![CDATA[
                 <script>
                   (function(w,d,s,l,i){{w[l]=w[l]||[];w[l].push({{'gtm.start':
@@ -55,7 +62,6 @@ def generate_smartnews_feed():
                 </script>
 ]]></snf:analytics>"""
 
-            # Escape title for safety
             safe_title = entry.title.replace('&', '&amp;')
 
             articles_xml += f"""

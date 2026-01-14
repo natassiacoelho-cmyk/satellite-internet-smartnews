@@ -2,6 +2,7 @@ import feedparser
 import trafilatura
 import re
 import requests
+from html import escape
 
 # CONFIGURATION
 ORIGINAL_FEED_URL = "https://www.satelliteinternet.com/feed"
@@ -17,29 +18,29 @@ def generate_smartnews_feed():
 
     for entry in d.entries[:20]:
         try:
-            # 1. Fetch HTML with a browser-like signature
+            # 1. Fetch HTML
             headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'}
             response = requests.get(entry.link, headers=headers, timeout=15)
             html_doc = response.text
 
-            # 2. Scrape with Fallback logic
+            # 2. Scrape with Fallback
             full_content = trafilatura.extract(html_doc, output_format='html', include_tables=True, include_images=True, favor_recall=True)
-            
-            # THE SAFETY NET: Use full content if found, otherwise use original summary
             content_body = full_content if (full_content and len(full_content) > 200) else entry.summary
             
-            # Clean technical junk
+            # Clean technical junk and fix ampersands inside the CDATA
             content_body = re.sub(r'data-widget="[^"]+"', '', content_body)
             content_body = re.sub(r'class="[^"]+"', '', content_body)
+            # Crucial: This fixes the "xmlParseEntityRef" error
+            content_body = content_body.replace('&', '&amp;') 
 
             # 3. Find Thumbnail
             thumbnail_url = ""
             og_image = re.search(r'property="og:image" content="([^"]+)"', html_doc)
             if og_image:
                 thumbnail_url = og_image.group(1)
-            media_tag = f'<media:thumbnail url="{thumbnail_url}" />' if thumbnail_url else ""
+            media_tag = f'<media:thumbnail url="{thumbnail_url.replace("&", "&amp;")}" />' if thumbnail_url else ""
 
-            # 4. Single-Script GA4 Analytics
+            # 4. Analytics (Single Script)
             analytics_tag = f"""<snf:analytics><![CDATA[
                 <script>
                   (function(w,d,s,l,i){{w[l]=w[l]||[];w[l].push({{'gtm.start':
@@ -52,17 +53,18 @@ def generate_smartnews_feed():
                   gtag('js', new Date());
                   gtag('config', '{GA_ID}');
                 </script>
-            ]]></snf:analytics>"""
+]]></snf:analytics>"""
 
-            content_body_safe = content_body.replace('&', '&amp;')
+            # Escape title for safety
+            safe_title = entry.title.replace('&', '&amp;')
 
             articles_xml += f"""
         <item>
-            <title>{entry.title}</title>
+            <title>{safe_title}</title>
             <link>{entry.link}</link>
             <guid>{entry.link}</guid>
             <pubDate>{entry.published}</pubDate>
-            <content:encoded><![CDATA[{content_body_safe}]]></content:encoded>
+            <content:encoded><![CDATA[<div>{content_body}</div>]]></content:encoded>
             {media_tag}
             {analytics_tag}
         </item>"""

@@ -23,11 +23,11 @@ jobs:
       - name: Run script
         run: python build_feed.py
 
-      - name: Commit and Push
+- name: Commit and Push
         run: |
           git config --global user.name "FeedBot"
           git config --global user.email "bot@github.com"
+          git pull --rebase  # THIS IS THE FIX: It syncs your manual edits before pushing
           git add smartnews.xml
-          git pull --rebase
           git commit -m "Update SmartNews feed" || exit 0
-          git push || exit 0
+          git push

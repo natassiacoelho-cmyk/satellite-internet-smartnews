@@ -10,6 +10,32 @@
         <snf:logo><url>https://raw.githubusercontent.com/natassiacoelho-cmyk/satellite-internet-smartnews/main/satelliteinternet-logo_smartnews.png</url></snf:logo>
         
         <item>
+            <title>Starlink Starts 2026 With MAX and More New Plans</title>
+            <link>https://www.satelliteinternet.com/resources/starlink-max-100-mbps-plans/</link>
+            <guid>https://www.satelliteinternet.com/resources/starlink-max-100-mbps-plans/</guid>
+            <pubDate>Wed, 14 Jan 2026 23:46:54 +0000</pubDate>
+            <content:encoded><![CDATA[<div><html>
+  <body>
+    <p><a href="https://www.satelliteinternet.com/providers/starlink/">Starlink</a> has revamped its <a href="https://www.satelliteinternet.com/resources/starlink-vs-hughesnet-vs-viasat/">residential satellite internet</a> plans with new names, a new tier, and new extras for more value. In addition to renaming its Residential and Lite plans to Residential MAX and Residential 200 Mbps, respectively, it has reintroduced a 100 Mbps plan in select regions for $50 per month. All three plans include unlimited data.</p>
+    <p>In addition, Starlink has also enhanced its introductory Roam plan with more data for longer use.</p>
+  </body>
+</html></div>]]></content:encoded>
+            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2026/01/G-p_c0OWcAAbRAi-e1768435159269.webp" />
+            <snf:analytics><![CDATA[
+                <script>
+                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                  })(window,document,'script','dataLayer','G-4RNELPQG75');
+                  window.dataLayer = window.dataLayer || [];
+                  function gtag(){dataLayer.push(arguments);}
+                  gtag('js', new Date());
+                  gtag('config', 'G-4RNELPQG75');
+                </script>
+]]></snf:analytics>
+        </item>
+        <item>
             <title>Starlink for RVs: A Complete Starlink Roam Review</title>
             <link>https://www.satelliteinternet.com/resources/starlink-roam-review/</link>
             <guid>https://www.satelliteinternet.com/resources/starlink-roam-review/</guid>
@@ -402,45 +428,6 @@
   </body>
 </html></div>]]></content:encoded>
             <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2024/12/IMG_9931-copy.webp" />
-            <snf:analytics><![CDATA[
-                <script>
-                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
-                  })(window,document,'script','dataLayer','G-4RNELPQG75');
-                  window.dataLayer = window.dataLayer || [];
-                  function gtag(){dataLayer.push(arguments);}
-                  gtag('js', new Date());
-                  gtag('config', 'G-4RNELPQG75');
-                </script>
-]]></snf:analytics>
-        </item>
-        <item>
-            <title>How Much Will Amazon Leo Cost?</title>
-            <link>https://www.satelliteinternet.com/resources/how-much-will-amazon-leo-cost/</link>
-            <guid>https://www.satelliteinternet.com/resources/how-much-will-amazon-leo-cost/</guid>
-            <pubDate>Tue, 16 Dec 2025 23:52:30 +0000</pubDate>
-            <content:encoded><![CDATA[<div><html>
-  <body>
-    <p>Will Amazon Leo be able to compete with Starlink, which has discounted its equipment and service several times?</p>
-    <h1>How Much Will Amazon Leo Cost?</h1>
-    <graphic src="https://www.satelliteinternet.com/app/uploads/2025/12/hugoreveal-brand-aurora-1.webp"/>
-    <p>An early first look at Amazon Leo's Ultra dish that will directly compete with Starlink's own satellite internet equipment. | Image by Amazon</p>
-    <p><a href="https://www.satelliteinternet.com/providers/amazon-leo/">Amazon Leo is an upcoming satellite internet provider</a> that will directly compete with <a href="https://www.satelliteinternet.com/providers/starlink/">Starlink</a> and other rural internet companies. How much Amazon's success will depend, in part, on the price, which has not officially been announced. Amazon Leo, formerly known as Project Kuiper, has previously remarked that it will be competitively priced upon release, without specifying a price range. That statement has since been removed from its website. </p>
-    <p>While we don’t yet know how Amazon Leo's pricing structure will work, <a href="https://www.satelliteinternet.com/resources/project-kuiper-vs-starlink/">given their similarities</a>, we can examine Starlink's history for clues about how Amazon may price its service. Starlink took an unorthodox approach to its internet service by <a href="https://www.satelliteinternet.com/resources/starlink-satellite-dish/">selling its equipment directly</a> to the customer, rather than leasing it. It’s unclear whether Amazon will take a similar approach, but given the portable nature of its devices, we lean towards the retailer adopting an upfront purchasing approach. </p>
-    <h2>What can Starlink tell us about Amazon Leo's pricing?</h2>
-    <p>Starlink launched in 2021 for those who pre-ordered a dish for $599. Starlink would eventually reduce the price of its Standard dish from $499 to $349 in early 2025. Starlink’s portable solution, Starlink Mini, launched in 2024 at $499 and has since been reduced to $299. Furthermore, the enterprise-level dish, High-Performance dish, is currently $1,999.</p>
-    <p>Starlink charges $80 to $120 monthly for its Residential service. Pricing for this plan has been consistent, with <a href="https://www.satelliteinternet.com/resources/best-starlink-deals/">Starlink occasionally discounting it in regions</a> where there's excess bandwidth. Inversely, Starlink sometimes adds a congestion charge in areas where the network is at capacity. As Amazon builds out its satellite internet constellation, pricing may fluctuate as it carefully onboards customers and balances its own bandwidth.</p>
-    <h3>Will I have to pay to be the first to try Amazon Leo?</h3>
-    <p>There's a good chance Amazon Leo will start accepting its first customers from the waiting list. When Starlink first started, customers on the waiting list needed to pay a $90 deposit to eventually get the first dishes. Amazon Leo could do something similar, such as accepting deposits or preorders for its first round of dishes for a consumer beta test.</p>
-    <h3>Will Amazon Leo be included with Amazon Prime?</h3>
-    <p>This is a definite possibility, though it’s more likely to be an add-on subscription. We know Amazon likes to keep its many services under the umbrella of a single Prime account, so it’s not out of the realm of possibility that Leo would be part of that ecosystem. Whether or not being a Prime member will include a discount or first dibs on the rollout of Leo is anyone’s guess.</p>
-    <h3>When will we know the pricing of Amazon Leo?</h3>
-    <p>Amazon Leo’s latest marketing push indicates that it's still determined to begin service in Q1 of 2026. However, it's still unclear to what extent the initial launch will be and whether it will even include consumers, since its new website has placed much emphasis on enterprise.</p>
-  </body>
-</html></div>]]></content:encoded>
-            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2025/12/hugoreveal-brand-aurora-1.webp" />
             <snf:analytics><![CDATA[
                 <script>
                   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':

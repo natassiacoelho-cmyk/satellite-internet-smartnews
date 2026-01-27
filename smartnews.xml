@@ -10,6 +10,35 @@
         <snf:logo><url>https://raw.githubusercontent.com/natassiacoelho-cmyk/satellite-internet-smartnews/main/satelliteinternet-logo_smartnews.png</url></snf:logo>
         
         <item>
+            <title>Starlink Congestion Charge Up to $1,500. When Will Capacity Increase?</title>
+            <link>https://www.satelliteinternet.com/resources/starlink-congestion-surcharge/</link>
+            <guid>https://www.satelliteinternet.com/resources/starlink-congestion-surcharge/</guid>
+            <pubDate>Tue, 27 Jan 2026 17:29:32 +0000</pubDate>
+            <content:encoded><![CDATA[<div><html>
+  <body>
+    <p><a href="https://www.satelliteinternet.com/providers/starlink/">Starlink</a> continues to charge a demand surcharge for new Residential customers in select regions to control network congestion, but many buyers are shocked that the one-time fee in their area can be up to $1,500. Several potential customers <a href="https://www.reddit.com/r/Starlink/comments/1qm6hin/1500_for_demand_surcharge_remote_alaska_fairbanks/">reported on social media</a> about the hefty surcharge. </p>
+    <p>The $1,500 surcharge is appearing in cities across Alaska, where internet options are few and far between, especially much-sought-after fiber services. So, it's understandable that Starlink is a popular option in the region, with few reliable choices.</p>
+    <p>Meanwhile, other locations that previously had surcharges of up to $1,000, such as the Pacific Northwest, have seen them drop to $500, which is still a high price for satellite internet service.</p>
+    <p>Before the congestion charges, Starlink was “Sold Out” in several regions, and buyers were placed on a waitlist with a deposit. The Pacific Northwest and the Atlantic Southeast have frequently been subject to Starlink's network congestion rules.</p>
+    <p>The waitlists were recently lifted in several regions in favor of <a href="https://www.satelliteinternet.com/starlink-congestion-fee-doubles-in-several-cities/">one-time congestion charges</a>, though they could reach $250 for many. Now that North Carolina, Oregon, and Washington are no longer marked as sold out, customers can purchase Starlink, but with a large one-time fee.</p>
+  </body>
+</html></div>]]></content:encoded>
+            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2024/12/IMG_9548-copy.webp" />
+            <snf:analytics><![CDATA[
+                <script>
+                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                  })(window,document,'script','dataLayer','G-4RNELPQG75');
+                  window.dataLayer = window.dataLayer || [];
+                  function gtag(){dataLayer.push(arguments);}
+                  gtag('js', new Date());
+                  gtag('config', 'G-4RNELPQG75');
+                </script>
+]]></snf:analytics>
+        </item>
+        <item>
             <title>Starlink Roadmap 2026: When is Gigabit Speed Arriving?</title>
             <link>https://www.satelliteinternet.com/resources/starlink-2-gigabit-speeds-available-soon/</link>
             <guid>https://www.satelliteinternet.com/resources/starlink-2-gigabit-speeds-available-soon/</guid>
@@ -422,37 +451,6 @@
   </body>
 </html></div>]]></content:encoded>
             <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2026/01/Screenshot-2026-01-06-162849.webp" />
-            <snf:analytics><![CDATA[
-                <script>
-                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
-                  })(window,document,'script','dataLayer','G-4RNELPQG75');
-                  window.dataLayer = window.dataLayer || [];
-                  function gtag(){dataLayer.push(arguments);}
-                  gtag('js', new Date());
-                  gtag('config', 'G-4RNELPQG75');
-                </script>
-]]></snf:analytics>
-        </item>
-        <item>
-            <title>Cheapest Satellite Internet Plans of 2026 (Under $50/Mo)</title>
-            <link>https://www.satelliteinternet.com/resources/cheapest-satellite-internet-plans/</link>
-            <guid>https://www.satelliteinternet.com/resources/cheapest-satellite-internet-plans/</guid>
-            <pubDate>Tue, 06 Jan 2026 17:30:04 +0000</pubDate>
-            <content:encoded><![CDATA[<div><html>
-  <body>
-    <div  ><p>Starlink’s budget home internet plan is Residential Lite. For $80 per month, you can get a pared-down version of Starlink’s regular Residential plan, which offers lower-priority bandwidth but still delivers download speeds of up to 200Mbps. The catch is that Starlink Residential Lite is not available everywhere and is only accessible to those living in non-congested areas of Starlink’s network. While it continues to improve its network bandwidth, there are still select areas, especially heavily populated metropolitan areas, where a cheaper plan is not available, and Starlink may charge a congestion fee.</p>
-<p>The most significant barrier to getting Starlink's affordable plan is the upfront hardware cost. The hardware most recommended for home internet, the Standard Starlink dish's regular price is $349. Starlink rents its dishes at no cost in select regions, but it’s unclear which regions specifically. </p>
-</div>
-    <div  ><p>Starlink has also rolled out an even more affordable $40-per-month plan, capped at 100 Mbps. This plan has even less availability and is only accessible in select rural areas, though it may expand to more regions as Starlink increases bandwidth. Starlink doesn’t list where the plan is available, so customers need to check its website to see if their address is in one of these regions.</p>
-</div>
-    <div  ><p>Starlink does have a cheaper plan on its Roam line of packages. It's $50 per month for 100GB of data. However, Starlink strongly discourages using a Roam package as a home internet solution, as it's meant for travel. If Starlink detects that you’re using a Roam package at a single location for a certain number of days (typically 60), it may, at its discretion, charge you a fee or require you to change or cancel your plan. It’s not recommended to use Roam as home internet, as it’s also deprioritized behind Residential plans.</p>
-</div>
-  </body>
-</html></div>]]></content:encoded>
-            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2021/08/Pair-of-Satellite-Dishes.jpeg" />
             <snf:analytics><![CDATA[
                 <script>
                   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':

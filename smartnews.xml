@@ -10,6 +10,36 @@
         <snf:logo><url>https://raw.githubusercontent.com/natassiacoelho-cmyk/satellite-internet-smartnews/main/satelliteinternet-logo_smartnews.png</url></snf:logo>
         
         <item>
+            <title>Starlink vs. Viasat: Best Satellite Internet in 2026</title>
+            <link>https://www.satelliteinternet.com/resources/starlink-vs-viasat/</link>
+            <guid>https://www.satelliteinternet.com/resources/starlink-vs-viasat/</guid>
+            <pubDate>Thu, 29 Jan 2026 17:00:05 +0000</pubDate>
+            <content:encoded><![CDATA[<div><html>
+  <body>
+    <p>Starlink and Viasat will be at the top of your search if you're trying to choose a satellite internet provider. While Starlink is the frontrunner in terms of speed and convenience, Viasat may be a more affordable option with decent speeds. I found this out myself after using both providers for several months. I also interviewed several current and former customers.</p>
+    <p>Starlink offers the fastest speeds and lowest latency among all satellite ISPs. However, Starlink's hands-off support approach may turn off some customers, and you have to pay extra upfront for Starlink hardware.</p>
+    <p>"With Starlink, I'm able to do everything I need: online gaming and video conferencing," said Starlink customer Jason Astel.</p>
+    <p>In early 2024, Viasat completely revamped its internet plans, consolidating them into a single offering called Unleashed. This offering offers unlimited data and no contract. While Viasat has download speeds on par with most providers, it's held back by the high latency inherent in its satellite technology and higher monthly price.</p>
+    <p>"When it's tuned well, it's very reasonable," said former Viasat customer Jim Olsen.</p>
+    <p>I tested Starlink and Viasat at my family cabin in rural Utah to compare the satellite internet providers. What I found was surprising.</p>
+  </body>
+</html></div>]]></content:encoded>
+            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2024/11/si-starlink-vs-viasat.webp" />
+            <snf:analytics><![CDATA[
+                <script>
+                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                  })(window,document,'script','dataLayer','G-4RNELPQG75');
+                  window.dataLayer = window.dataLayer || [];
+                  function gtag(){dataLayer.push(arguments);}
+                  gtag('js', new Date());
+                  gtag('config', 'G-4RNELPQG75');
+                </script>
+]]></snf:analytics>
+        </item>
+        <item>
             <title>Starlink Congestion Charge Up to $1,500. When Will Capacity Increase?</title>
             <link>https://www.satelliteinternet.com/resources/starlink-congestion-surcharge/</link>
             <guid>https://www.satelliteinternet.com/resources/starlink-congestion-surcharge/</guid>
@@ -404,53 +434,6 @@
   </body>
 </html></div>]]></content:encoded>
             <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2025/02/IMG_9362-copy.webp" />
-            <snf:analytics><![CDATA[
-                <script>
-                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
-                  })(window,document,'script','dataLayer','G-4RNELPQG75');
-                  window.dataLayer = window.dataLayer || [];
-                  function gtag(){dataLayer.push(arguments);}
-                  gtag('js', new Date());
-                  gtag('config', 'G-4RNELPQG75');
-                </script>
-]]></snf:analytics>
-        </item>
-        <item>
-            <title>Everything We Know About Amazon Leo’s Mobile Satellite Internet</title>
-            <link>https://www.satelliteinternet.com/resources/amazon-leo-mobile/</link>
-            <guid>https://www.satelliteinternet.com/resources/amazon-leo-mobile/</guid>
-            <pubDate>Tue, 06 Jan 2026 23:10:07 +0000</pubDate>
-            <content:encoded><![CDATA[<div><html>
-  <body>
-    <p>Amazon is aiming to introduce its satellite internet solution for travelers, RVs, and nomads</p>
-    <h1>Everything We Know About Amazon Leo’s Mobile Satellite Internet</h1>
-    <graphic src="https://www.satelliteinternet.com/app/uploads/2026/01/Screenshot-2026-01-06-162849-1024x646.webp"/>
-    <p>A rendering of the Amazon Leo Nano dish, a direct competitor to Starlink's popular Mini dish for portable satellite internet. | Image by Amazon</p>
-    <p><a href="https://www.satelliteinternet.com/providers/amazon-leo/">Amazon Leo (formerly known as Project Kuiper)</a> is a low Earth orbit (LEO) satellite internet service aiming to directly compete with <a href="https://www.satelliteinternet.com/providers/starlink/">Starlink</a>, offering high-speed internet nearly anywhere in the world, including while traveling. </p>
-    <p>The retail and web service giant is entering the internet industry with its own satellite-based solution, leveraging a planned constellation of 3,200 satellites. What’s noteworthy about this endeavor</p>
-    <h2>What is Amazon Leo’s plan for mobile internet?</h2>
-    <p>When Starlink first debuted in 2021, it was only a fixed-location satellite internet service, but it made waves with its <a href="https://www.satelliteinternet.com/resources/starlink-roam-review/">Roam service</a>, which launched about a year later. It allowed customers to take their Starlink dishes on the road with them and get speedy, reliable internet access from their campers, vans, or anywhere they could get a clear view of the sky. </p>
-    <p>Now, Amazon Leo is hoping to be the second satellite internet service to match Starlink's mobile capabilities, with its own network and hardware.</p>
-    <h2>Amazon Leo hardware comparison</h2>
-    <p>Amazon Leo kicked off its rebrand announcement by revealing the three dishes it will launch its service with. Each dish directly corresponds to three of Starlink’s primary hardware offerings: a Standard dish for residential and mobile use, the Mini for even greater portability, and a High-performance version for business.</p>
-    <graphic src="https://www.satelliteinternet.com/app/uploads/2025/09/Screenshot-2025-11-13-155124-1024x402.webp"/>
-    <p>The Amazon Leo Pro is likely to be the go-to choice for home internet use, but it can also be used on the go like the Starlink Standard. It’s an 11” by 11” square dish capable of download speeds up to 400 Mbps.</p>
-    <p>If you don’t need as much speed and want an even more portable dish, the Nano is Amazon Leo’s answer to <a href="https://www.satelliteinternet.com/resources/starlink-mini-review/">Starlink’s popular Mini dish</a>. It’s a 7” by 7” dish with download speeds up to 100 Mbps. </p>
-    <p>Finally, there’s the Amazon Leo Ultra, which is being marketed for business use. It can definitely be mobile, since it can be fitted to trucks, trains, planes, and ships. It’s also capable of 1 Gbps download speeds and improved upload speeds, as businesses need. Pricing hasn't been announced yet, but it’s certainly going to be the most expensive. To compare, Starlink’s own High-Performance dish costs $1,999.</p>
-    <h2>How much will Amazon Leo cost?</h2>
-    <p>Amazon Leo has not announced pricing details, including how it will break down its service and hardware costs. It’s even unclear whether Amazon Leo plans to follow Starlink’s model of requiring upfront hardware costs or to lease its equipment, as most other internet providers do, a practice Starlink has begun in select markets.</p>
-    <p>The only details Amazon provided are that it will be “priced competitively,” so it’s reasonable to assume it will be priced similarly to Starlink.</p>
-    <p>Top speeds not guaranteed during peak hours<br/>*Plan not available in all regions</p>
-    <h2>What makes Amazon Leo's mobile service different from Starlink’s?</h2>
-    <p>Amazon Leo clearly shares many similarities with Starlink internet, but many details remain unknown, making it hard to contrast the two at present. They're both made possible by a constellation of thousands of LEO satellites.</p>
-    <p>Starlink is already well established, with nearly 10,000 satellites already launched, which has led to considerable improvements to its overall performance. Amazon Leo’s initial goal is 3,200 satellites, but it hasn’t ruled out more in the future. As of the beginning of 2026, Amazon still has a long way to go to reach this milestone.</p>
-    <p>A key difference Amazon boasts is its satellites' ability to create a global mesh to boost transmission speeds and reduce latency. According to Amazon, its optical inter-satellite link (OISL) technology can sustain consistent transmission speeds, meaning that its first wave of satellites will be ready to link up upon launch. It also claims it will leverage Amazon Web Services (AWS) to further increase speeds.</p>
-  </body>
-</html></div>]]></content:encoded>
-            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2026/01/Screenshot-2026-01-06-162849.webp" />
             <snf:analytics><![CDATA[
                 <script>
                   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':

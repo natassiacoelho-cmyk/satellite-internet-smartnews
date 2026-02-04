@@ -10,6 +10,51 @@
         <snf:logo><url>https://raw.githubusercontent.com/natassiacoelho-cmyk/satellite-internet-smartnews/main/satelliteinternet-logo_smartnews.png</url></snf:logo>
         
         <item>
+            <title>How Fast Is Amazon Leo? Speed, Latency, and Starlink Comparison</title>
+            <link>https://www.satelliteinternet.com/resources/amazon-leo-speed/</link>
+            <guid>https://www.satelliteinternet.com/resources/amazon-leo-speed/</guid>
+            <pubDate>Wed, 04 Feb 2026 20:08:42 +0000</pubDate>
+            <content:encoded><![CDATA[<div><html>
+  <body>
+    <p>Formerly known under the codename <a href="https://www.satelliteinternet.com/providers/amazon-leo/">Project Kuiper, Amazon Leo</a> is evolving from vision to an authentic internet solution. As it develops its satellite constellation, Amazon has reportedly begun testing its system with a select few businesses. While performance reports haven't been made public, Amazon Leo claims that 1 gigabit-per-second download speeds are possible with its technology.</p>
+    <h1>How Fast Is Amazon Leo? Speed, Latency, and Starlink Comparison</h1>
+    <graphic src="https://www.satelliteinternet.com/app/uploads/2026/02/G8JnhABWwAIs95P.webp"/>
+    <p>A United Launch Alliance Atlas V rocket undergoing preparations to launch a batch of Amazon Leo satellites. Amazon needs dozens more launches to reach its milestones to provide reliable internet service. | Image by United Launch Alliance</p>
+    <h2>The new space race to gigabit satellite internet</h2>
+    <p>Amazon Leo is targeting 100Mbps to 1Gbps download speeds once it's widely available. However, it’s not alone in this race for fiber-like speeds via satellite. <a href="https://www.satelliteinternet.com/providers/starlink/">SpaceX's Starlink</a>, already available nearly anywhere in the U.S., is upgrading its network to support gigabit speeds. While Amazon Leo is racing to deploy its satellites into orbit, SpaceX is competing to <a href="https://www.satelliteinternet.com/resources/starlink-2-gigabit-speeds-available-soon/">launch its next-generation satellites</a>, which depend on the success of the company's newest rocket, Starship. Given these milestones each company is racing to reach, the first to offer 1Gbps internet speed on a wide scale could be either.</p>
+    <h2>Can Amazon Leo deliver on its promises of high-speed internet?</h2>
+    <p>While many details about how <a href="https://www.satelliteinternet.com/resources/how-much-will-amazon-leo-cost/">Amazon Leo's pay structure</a> would work remain unclear, it announced three hardware kits with varying download speeds and use cases.</p>
+    <graphic src="https://www.satelliteinternet.com/app/uploads/2025/09/Screenshot-2025-11-13-155124-1024x402.webp"/>
+    <p>Amazon announced that Leo's home equipment will come in three varieties with very different use cases. | Image by Amazon</p>
+    <p>Amazon Leo claims that its mid-tier satellite internet service, designed for residential use, will deliver up to 400Mbps and aims to offer even faster download speeds in the future. That's already faster than what Viasat or Hughesnet offer, and 400Mbps would give even Starlink's speedy internet service a run for its money in its current stage.</p>
+    <p>Panos Panay, a lead at Amazon's Devices &amp;amp; Services, demonstrated one gigabit download speed using the Amazon Leo Ultra dish in early September. This test was conducted with a single terminal connected to the network, albeit without the hundreds of thousands of other terminals Amazon plans to deploy.</p>
+    <p>One advantage Amazon claims for delivering higher speeds is its integration with the company's Amazon Web Services (AWS), a cloud service used by thousands of the largest websites and companies, including streaming services, social media, and work apps. This integration will allegedly make using these services faster through Amazon Leo. Another possible advantage for pricing is the</p>
+    <h2>Will Amazon Leo be worth the wait, while Starlink is available now?</h2>
+    <p>Amazon Leo has ambitious goals for high-speed internet at launch. It’s hard to imagine that 1Gbps download speeds will be immediately available when the service launches, especially given Starlink’s history and the progress it has made to get to where it is now.</p>
+    <graphic src="https://www.satelliteinternet.com/app/uploads/2026/02/Screenshot-2026-02-04-130109-1024x551.webp"/>
+    <p>A chart demonstrating the rise of Starlink's median download speed and decrease of latency in the U.S. between 2022 and mid-2025. | Image by Starlink</p>
+    <p>Over the past few years, Starlink's speed and latency have increased dramatically, from a median download speed of 55Mbps in 2022 to nearly 200Mbps by the end of 2025. This is due in part to advances in the company's satellite technology and the rapid increase in SpaceX rocket launches. Another thing Starlink has had to contend with and still is today is network capacity.</p>
+    <p>When it first launched, only a limited number of customers could acquire Starlink, while others were put on a waitlist. Currently, Starlink controls capacity by adjusting hardware and service prices across regions. Currently, Amazon Leo is conducting <a href="https://www.satelliteinternet.com/resources/amazon-leo-beta/">limited beta testing</a> with undisclosed enterprises, and it’s likely that the first consumers to get their hands on it will also be limited, especially since Amazon is nowhere close to its goal of 3,200 satellites. </p>
+    <p>Top speeds not guaranteed during peak hours<br/>*Plan not available in all regions</p>
+    <p>Starlink remains the best option for high-speed internet in rural areas and for travel, although depending on the region, customers will be paying more or less for home internet. Only time will tell when Amazon Leo will arrive and if it will be a <a href="https://www.satelliteinternet.com/resources/project-kuiper-vs-starlink/">real competitor to Starlink</a> and <a href="https://www.satelliteinternet.com/resources/high-speed-internet-for-rural-areas/">other rural internet providers</a>.</p>
+  </body>
+</html></div>]]></content:encoded>
+            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2026/02/G8JnhABWwAIs95P.webp" />
+            <snf:analytics><![CDATA[
+                <script>
+                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                  })(window,document,'script','dataLayer','G-4RNELPQG75');
+                  window.dataLayer = window.dataLayer || [];
+                  function gtag(){dataLayer.push(arguments);}
+                  gtag('js', new Date());
+                  gtag('config', 'G-4RNELPQG75');
+                </script>
+]]></snf:analytics>
+        </item>
+        <item>
             <title>Starlink vs. Viasat: Best Satellite Internet in 2026</title>
             <link>https://www.satelliteinternet.com/resources/starlink-vs-viasat/</link>
             <guid>https://www.satelliteinternet.com/resources/starlink-vs-viasat/</guid>
@@ -407,33 +452,6 @@
   </body>
 </html></div>]]></content:encoded>
             <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2024/12/Screenshot-2025-07-23-171906.webp" />
-            <snf:analytics><![CDATA[
-                <script>
-                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
-                  })(window,document,'script','dataLayer','G-4RNELPQG75');
-                  window.dataLayer = window.dataLayer || [];
-                  function gtag(){dataLayer.push(arguments);}
-                  gtag('js', new Date());
-                  gtag('config', 'G-4RNELPQG75');
-                </script>
-]]></snf:analytics>
-        </item>
-        <item>
-            <title>How to Sell or Buy a Used Starlink Kit in 2026: A Step-by-Step Guide</title>
-            <link>https://www.satelliteinternet.com/resources/sell-or-buy-used-starlink/</link>
-            <guid>https://www.satelliteinternet.com/resources/sell-or-buy-used-starlink/</guid>
-            <pubDate>Wed, 07 Jan 2026 19:25:46 +0000</pubDate>
-            <content:encoded><![CDATA[<div><html>
-  <body>
-    <p>It’s simple to buy or sell a used <a href="https://www.satelliteinternet.com/providers/starlink/">Starlink</a> kit, but there are a few steps you need to follow. One thing that sets Starlink apart from any other <a href="https://www.satelliteinternet.com/providers/">satellite internet provider</a> is that its hardware is transferable to a different owner. Customers can sell their equipment when they no longer need it to recoup their investment, which is excellent for people who want a Starlink kit but want to save money by buying one used.</p>
-    <p>I decided to swap out my <a href="https://www.satelliteinternet.com/resources/starlink-standard-vs-mini/">Standard Starlink dish for the Starlink Mini</a> since I mainly use it seasonally and would like to take it with me when traveling. A friend of mine was willing to trade.</p>
-    <p>Giving a Starlink kit to another user isn’t as simple as handing it over. You need to follow these instructions to transfer the kit; otherwise, it won’t work, and the recipient will be stuck with inoperable Starlink equipment.</p>
-  </body>
-</html></div>]]></content:encoded>
-            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2025/02/IMG_9362-copy.webp" />
             <snf:analytics><![CDATA[
                 <script>
                   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':

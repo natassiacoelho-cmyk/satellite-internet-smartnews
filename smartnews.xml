@@ -10,6 +10,32 @@
         <snf:logo><url>https://raw.githubusercontent.com/natassiacoelho-cmyk/satellite-internet-smartnews/main/satelliteinternet-logo_smartnews.png</url></snf:logo>
         
         <item>
+            <title>How to Use the Starlink App: Guide to Settings, Features, and Setup</title>
+            <link>https://www.satelliteinternet.com/resources/starlink-app-review/</link>
+            <guid>https://www.satelliteinternet.com/resources/starlink-app-review/</guid>
+            <pubDate>Thu, 05 Mar 2026 23:01:33 +0000</pubDate>
+            <content:encoded><![CDATA[<div><html>
+  <body>
+    <p>The Starlink app isn’t just a "nice-to-have" accessory; it’s the brain of your satellite internet system. Whether you’re setting up a new Gen 3 Standard dish or managing a Starlink Mini on a remote mountain pass, the app is your primary tool for configuration, troubleshooting, and performance monitoring.</p>
+    <p>With the major 2026.01.0 update, SpaceX overhauled the interface to be snappier and more intuitive, though some long-time users might find a few familiar settings have moved. Here is everything you need to know to get the most out of the Starlink app in 2026.</p>
+  </body>
+</html></div>]]></content:encoded>
+            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2024/10/Screenshot-2026-03-05-161045.webp" />
+            <snf:analytics><![CDATA[
+                <script>
+                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                  })(window,document,'script','dataLayer','G-4RNELPQG75');
+                  window.dataLayer = window.dataLayer || [];
+                  function gtag(){dataLayer.push(arguments);}
+                  gtag('js', new Date());
+                  gtag('config', 'G-4RNELPQG75');
+                </script>
+]]></snf:analytics>
+        </item>
+        <item>
             <title>Best RV Internet Options (2026): Starlink and T-Mobile Compared</title>
             <link>https://www.satelliteinternet.com/resources/get-satellite-internet-for-your-rv/</link>
             <guid>https://www.satelliteinternet.com/resources/get-satellite-internet-for-your-rv/</guid>
@@ -482,33 +508,6 @@
   </body>
 </html></div>]]></content:encoded>
             <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2024/06/iStock-2165069453.webp" />
-            <snf:analytics><![CDATA[
-                <script>
-                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
-                  })(window,document,'script','dataLayer','G-4RNELPQG75');
-                  window.dataLayer = window.dataLayer || [];
-                  function gtag(){dataLayer.push(arguments);}
-                  gtag('js', new Date());
-                  gtag('config', 'G-4RNELPQG75');
-                </script>
-]]></snf:analytics>
-        </item>
-        <item>
-            <title>Amazon Leo to Double Network Size, But Needs More Time to Launch</title>
-            <link>https://www.satelliteinternet.com/resources/amazon-leo-to-double-network-size-but-needs-more-time-to-launch/</link>
-            <guid>https://www.satelliteinternet.com/resources/amazon-leo-to-double-network-size-but-needs-more-time-to-launch/</guid>
-            <pubDate>Wed, 18 Feb 2026 23:39:27 +0000</pubDate>
-            <content:encoded><![CDATA[<div><html>
-  <body>
-    <p><a href="https://www.satelliteinternet.com/providers/amazon-leo/">Amazon Leo</a>, the upcoming Starlink satellite internet competitor, doubles down on its plan for a far-reaching satellite network. The company received approval from the Federal Communications Commission (FCC) to add about 4,000 more satellites to its already ambitious plans for 3,200 satellites,<a href="https://x.com/Amazonleo/status/2021309850710351947?s=20"> according to Amazon</a>. What it has yet to hear about from the agency is a request to extend a July deadline to launch at least half of its satellites this year.</p>
-    <p>Amazon would like more time to get its fleet up and running, requesting a deadline extension to 2028 to meet the milestone. As of February 2026, Amazon has launched 200 satellites and has admitted it's unlikely to meet the goal of 1,600 by July 30, realistically expecting to reach 700 by then.</p>
-    <p>It cites “unforeseeable launch delays” and issues beyond Amazon Leo’s control, such as a shortage of near-term launch availability. Amazon requests an extension or an outright waiver of the rule, given the progress it has made. <a href="https://www.fcc.gov/licensing-databases/licensing">The FCC sets deadlines</a> for certain telecommunication rollouts to prevent companies from essentially “squatting” on valuable spectrum licenses. </p>
-  </body>
-</html></div>]]></content:encoded>
-            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2026/02/Amazon-Arianespace-launch-e1771458820395.webp" />
             <snf:analytics><![CDATA[
                 <script>
                   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':

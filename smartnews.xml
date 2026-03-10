@@ -10,6 +10,38 @@
         <snf:logo><url>https://raw.githubusercontent.com/natassiacoelho-cmyk/satellite-internet-smartnews/main/satelliteinternet-logo_smartnews.png</url></snf:logo>
         
         <item>
+            <title>Starlink Grounds General Aviation Community with Restrictions and Price Hikes</title>
+            <link>https://www.satelliteinternet.com/resources/starlink-in-motion-speed-limit-backlash/</link>
+            <guid>https://www.satelliteinternet.com/resources/starlink-in-motion-speed-limit-backlash/</guid>
+            <pubDate>Tue, 10 Mar 2026 17:05:19 +0000</pubDate>
+            <content:encoded><![CDATA[<div><html>
+  <body>
+    <div  ><p>The aviation pricing may seem fair from the perspective of a typical user, considering it's aimed at businesses and individuals who own private planes. Still, the new plans have sparked outrage in the general aviation industry and community. When so many were able to use the general Roam, Standby Mode, and Priority plans on their aircraft, the price spike has been enough for some to quit Starlink altogether.</p>
+<p>"I've been a big Starlink fan- even used it in my aircraft. The new aviation tariffs ($250–$1000/month only 20GB) basically price private pilots out," <a href="https://x.com/ClemensJWalter/status/2031390140338262480?s=20">one customer posted on X</a>. "Starlink could have become the connectivity standard for general aviation. Why shut that door?"</p>
+<p>The change was enough to quickly prompt a response from the Aircraft Owners and Pilots Association (AOPA), <a href="https://download.aopa.org/advocacy/2026/2026-03-09_Starlink_General-Aviation.pdf?_gl=1*16i6n88*_gcl_au*NTU4MzY3MTY4LjE3NzMwOTQwMTI.*_ga*MjgxNjI0NTAzLjE3NzMwOTQwMTM.*_ga_SM42H3BVW5*czE3NzMwOTQwMTIkbzEkZzAkdDE3NzMwOTQwMTckajU1JGwwJGgyNjY5MDgwNzI.">which sent a letter to SpaceX</a>, asking the satellite internet company to reverse course and develop a new pricing framework that's more fair to private aircraft owners and small businesses. </p>
+<p>Even a <a href="http://change.org">change.org</a> petition was started, which quickly gathered thousands of signatures, appealing to Starlink to restore affordable pricing for general aviation, noting that Starlink has been a boon for pilots, not just for convenience but also for safety.</p>
+<p>"A 4x increase in price overnight without warning is insane," wrote one petition signer. "Starlink added a layer of safety in general aviation that was unprecedented, and now they are pricing it so only billionaires can afford it. I spent $400 on a dish that is now useless. Be fair to us GA pilots!"</p>
+<p>Starlink's adjustments have also affected customers on the ground, with one <a href="https://www.reddit.com/r/Starlink/comments/1rk56ls/starlink_on_the_autobahn/">Reddit user remarking</a> that they can no longer use their Starlink on the world-famous German Autobahn highway, which has no speed limits in most sections. </p>
+<p>The change of no longer permitting Standby Mode to be used in-motion also affects consumers and businesses who used it as a backup internet service while traveling in rural areas. It’s a $5-per-month plan that lets Starlink be used with a slower but reliable connection. The new pricing structures and plan changes may affect only a minority of customers, but thus far, Starlink has been the only or most affordable solution for reliable, high-speed internet in those situations. </p>
+</div>
+  </body>
+</html></div>]]></content:encoded>
+            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2026/03/iStock-2246422415.webp" />
+            <snf:analytics><![CDATA[
+                <script>
+                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                  })(window,document,'script','dataLayer','G-4RNELPQG75');
+                  window.dataLayer = window.dataLayer || [];
+                  function gtag(){dataLayer.push(arguments);}
+                  gtag('js', new Date());
+                  gtag('config', 'G-4RNELPQG75');
+                </script>
+]]></snf:analytics>
+        </item>
+        <item>
             <title>How to Use the Starlink App: Guide to Settings, Features, and Setup</title>
             <link>https://www.satelliteinternet.com/resources/starlink-app-review/</link>
             <guid>https://www.satelliteinternet.com/resources/starlink-app-review/</guid>
@@ -481,33 +513,6 @@
 </body>
 </html></div>]]></content:encoded>
             <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2026/01/Screenshot-2026-01-06-162849.webp" />
-            <snf:analytics><![CDATA[
-                <script>
-                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
-                  })(window,document,'script','dataLayer','G-4RNELPQG75');
-                  window.dataLayer = window.dataLayer || [];
-                  function gtag(){dataLayer.push(arguments);}
-                  gtag('js', new Date());
-                  gtag('config', 'G-4RNELPQG75');
-                </script>
-]]></snf:analytics>
-        </item>
-        <item>
-            <title>The Best Internet for Truckers: Stay Connected on the Long Haul</title>
-            <link>https://www.satelliteinternet.com/resources/internet-for-truckers/</link>
-            <guid>https://www.satelliteinternet.com/resources/internet-for-truckers/</guid>
-            <pubDate>Thu, 19 Feb 2026 15:19:55 +0000</pubDate>
-            <content:encoded><![CDATA[<div><html>
-  <body>
-    <p>When you're hauling freight across state lines, your truck is more than just a vehicle. It's your office, your living room, and your bedroom. But as every driver knows, staying connected while parked at a remote rest area or a crowded truck stop is often a struggle.</p>
-    <p>Public Wi-Fi is notoriously unreliable, and standard phone hotspots usually hit data caps just when you're settling in for a movie. Fortunately, mobile technology has finally caught up with the trucking lifestyle. Between high-speed satellite and nationwide 5G networks, you have better options than ever before.</p>
-    <p>We've rounded up the best internet solutions for truckers to help you stream, video chat with family, and manage your logs without the constant fear of a "No Signal" bar.</p>
-  </body>
-</html></div>]]></content:encoded>
-            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2024/06/iStock-2165069453.webp" />
             <snf:analytics><![CDATA[
                 <script>
                   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':

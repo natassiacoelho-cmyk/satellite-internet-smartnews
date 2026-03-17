@@ -10,6 +10,32 @@
         <snf:logo><url>https://raw.githubusercontent.com/natassiacoelho-cmyk/satellite-internet-smartnews/main/satelliteinternet-logo_smartnews.png</url></snf:logo>
         
         <item>
+            <title>SpaceX Drops the Ceiling: How Starlink’s Orbital Shift Will Boost Performance</title>
+            <link>https://www.satelliteinternet.com/resources/starlink-lowers-satellite-orbit-distance/</link>
+            <guid>https://www.satelliteinternet.com/resources/starlink-lowers-satellite-orbit-distance/</guid>
+            <pubDate>Tue, 17 Mar 2026 20:29:35 +0000</pubDate>
+            <content:encoded><![CDATA[<div><html>
+  <body>
+    <p><a href="https://www.satelliteinternet.com/providers/starlink/">Starlink's high-speed, low-latency internet service</a> is made possible by its satellite constellation's close proximity to the globe, so much so that on dark nights, the satellites can be seen with the naked eye above us. Now, low Earth orbit (LEO) satellites will be even closer thanks to a massive reconfiguration that lowers the orbits of a portion of them.</p>
+    <p>About 4,400 satellites will move from an orbiting altitude of 341 miles to 298 miles. <a href="https://x.com/planet4589/status/2031906605948662177?s=20">According to satellite tracker Jonathan McDowell</a>, over 1,600 satellites have already begun the descent as of March 2026. Starlink officials have explained that this move is a safety measure, but it also carries bonuses for users, including faster speeds, lower latency, and better reliability.</p>
+  </body>
+</html></div>]]></content:encoded>
+            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2026/03/Starlink-satellite-launch.webp" />
+            <snf:analytics><![CDATA[
+                <script>
+                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                  })(window,document,'script','dataLayer','G-4RNELPQG75');
+                  window.dataLayer = window.dataLayer || [];
+                  function gtag(){dataLayer.push(arguments);}
+                  gtag('js', new Date());
+                  gtag('config', 'G-4RNELPQG75');
+                </script>
+]]></snf:analytics>
+        </item>
+        <item>
             <title>The Best Starlink Deals, Discounts, and Promotions</title>
             <link>https://www.satelliteinternet.com/resources/best-starlink-deals/</link>
             <guid>https://www.satelliteinternet.com/resources/best-starlink-deals/</guid>
@@ -482,38 +508,6 @@
   </body>
 </html></div>]]></content:encoded>
             <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2025/06/Screenshot-2025-06-18-143142.webp" />
-            <snf:analytics><![CDATA[
-                <script>
-                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
-                  })(window,document,'script','dataLayer','G-4RNELPQG75');
-                  window.dataLayer = window.dataLayer || [];
-                  function gtag(){dataLayer.push(arguments);}
-                  gtag('js', new Date());
-                  gtag('config', 'G-4RNELPQG75');
-                </script>
-]]></snf:analytics>
-        </item>
-        <item>
-            <title>5G from Space: Starlink Mobile Promises Global Broadband for Every Smartphone</title>
-            <link>https://www.satelliteinternet.com/resources/direct-to-cell-is-now-starlink-mobile/</link>
-            <guid>https://www.satelliteinternet.com/resources/direct-to-cell-is-now-starlink-mobile/</guid>
-            <pubDate>Tue, 03 Mar 2026 19:05:52 +0000</pubDate>
-            <content:encoded><![CDATA[<div><html>
-  <body>
-    <div  ><p>The current plan is to expand the Direct-to-Cell satellite constellation to up to 15,000 units of its V2 satellites, pending regulatory approval. These new satellites have improved data throughput, allowing for more connections per satellite. It will also rely on mid-band spectrum purchased by Starlink from satellite competitor EchoStar, a deal scheduled to close sometime in 2027. This additional spectrum is said to allow Starlink Mobile to be compatible with more mobile phone models, without the need to modify them. </p>
-<p>The current Direct-to-Cell fleet is up to about 650. <a href="https://www.satelliteinternet.com/resources/we-test-t-mobile-starlink-beta/">Our reviewers tried out T-Satellite</a> when it was first introduced in 2025 and found it usable, but nowhere near the speeds of a 5G network, and prone to failing to send text messages. This latest network upgrade aims to reach speeds up to 150Mbps and reach more customers than ever.</p>
-<p>Relying on seamless integration through partnerships, Starlink is hoping to attract more customers for use cases beyond emergency texting, positioning itself as a complement to major carriers rather than just a niche tool. The target customers include more enterprises, enabling remote work, logistics, fleet management, and additional IoT use cases. </p>
-<p>In a video on the website, Chad Gibbs, VP of Starlink Mobile, demonstrated network improvements by making a video call in an area without terrestrial network service, which appeared very high quality. The networks are aiming to allow for seamless transitions between satellite and terrestrial connections.</p>
-</div>
-    <div  ><p>For now, Starlink Mobile will not be a standalone service and will continue partnering with other carriers to supplement their networks. Starlink is continuing to make deals with international carriers to make Starlink Mobile more widely available as it plans to launch its next-generation satellites with the new Starship rocket, currently in development.</p>
-<p>In this space, Starlink Mobile only has a few competitors. <a href="https://www.satelliteinternet.com/providers/ast-spacemobile/">AST SpaceMobile</a> is also racing to get its service up and running, partnering with AT&amp;amp;T and Verizon to support their networks and offer seamless cell connections.  AST SpaceMobile may launch as early as later this year.</p>
-</div>
-  </body>
-</html></div>]]></content:encoded>
-            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2026/03/starlinkMobile_beam_d-e1772564907402.webp" />
             <snf:analytics><![CDATA[
                 <script>
                   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':

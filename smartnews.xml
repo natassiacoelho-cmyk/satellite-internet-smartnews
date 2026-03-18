@@ -10,6 +10,32 @@
         <snf:logo><url>https://raw.githubusercontent.com/natassiacoelho-cmyk/satellite-internet-smartnews/main/satelliteinternet-logo_smartnews.png</url></snf:logo>
         
         <item>
+            <title>A Guide to Setting Up Guest Wi-Fi on Starlink and T-Mobile</title>
+            <link>https://www.satelliteinternet.com/resources/how-to-set-up-guest-wi-fi/</link>
+            <guid>https://www.satelliteinternet.com/resources/how-to-set-up-guest-wi-fi/</guid>
+            <pubDate>Wed, 18 Mar 2026 20:45:03 +0000</pubDate>
+            <content:encoded><![CDATA[<div><html>
+  <body>
+    <p>When you host friends or family, or guests renting your home via Airbnb, the first thing they usually ask for is the Wi-Fi password. Businesses, even rural ones, would also benefit by offering customers free Wi-Fi access. Handing over your primary network credentials is a bit like giving a house guest a master key that opens every door, including your filing cabinets and safe. By setting up a guest Wi-Fi network, you create a digital "waiting room" that provides internet access without exposing your private data, smart home devices, or shared folders to outside hardware.</p>
+    <p>Modern internet service providers like Starlink and T-Mobile have streamlined mobile apps that make network management feel more like using a smartphone than configuring a server. Whether you are using a high-speed satellite or a 5G gateway, here is how you can draw a hard line between your personal data and your visitors’ devices.</p>
+  </body>
+</html></div>]]></content:encoded>
+            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2025/03/iStock-1929430043.webp" />
+            <snf:analytics><![CDATA[
+                <script>
+                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                  })(window,document,'script','dataLayer','G-4RNELPQG75');
+                  window.dataLayer = window.dataLayer || [];
+                  function gtag(){dataLayer.push(arguments);}
+                  gtag('js', new Date());
+                  gtag('config', 'G-4RNELPQG75');
+                </script>
+]]></snf:analytics>
+        </item>
+        <item>
             <title>SpaceX Drops the Ceiling: How Starlink’s Orbital Shift Will Boost Performance</title>
             <link>https://www.satelliteinternet.com/resources/starlink-lowers-satellite-orbit-distance/</link>
             <guid>https://www.satelliteinternet.com/resources/starlink-lowers-satellite-orbit-distance/</guid>
@@ -461,36 +487,6 @@
   </body>
 </html></div>]]></content:encoded>
             <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2026/01/iStock-2207465273.webp" />
-            <snf:analytics><![CDATA[
-                <script>
-                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
-                  })(window,document,'script','dataLayer','G-4RNELPQG75');
-                  window.dataLayer = window.dataLayer || [];
-                  function gtag(){dataLayer.push(arguments);}
-                  gtag('js', new Date());
-                  gtag('config', 'G-4RNELPQG75');
-                </script>
-]]></snf:analytics>
-        </item>
-        <item>
-            <title>Starlink vs. Viasat: How Do LEO and GEO Satellite Internet Compare?</title>
-            <link>https://www.satelliteinternet.com/resources/starlink-vs-viasat/</link>
-            <guid>https://www.satelliteinternet.com/resources/starlink-vs-viasat/</guid>
-            <pubDate>Thu, 05 Mar 2026 17:00:05 +0000</pubDate>
-            <content:encoded><![CDATA[<div><html>
-  <body>
-    <p>Starlink and Viasat will be at the top of your search if you're trying to choose a satellite internet provider. While Starlink is the frontrunner in terms of speed and convenience, Viasat may be a more affordable option with decent speeds. I found this out myself after using both providers for several months. I also interviewed several current and former customers.</p>
-    <p>Starlink offers the fastest speeds and lowest latency among all satellite ISPs. However, Starlink's hands-off support approach may turn off some customers, and you have to pay extra upfront for Starlink hardware.</p>
-    <p>"With Starlink, I'm able to do everything I need: online gaming and video conferencing," said Starlink customer Jason Astel.</p>
-    <p>In early 2024, Viasat completely revamped its internet plans, consolidating them into a single offering called Unleashed. This offering offers unlimited data and no contract. While Viasat has download speeds on par with most providers, it's held back by the high latency inherent in its satellite technology and higher monthly price.</p>
-    <p>"When it's tuned well, it's very reasonable," said former Viasat customer Jim Olsen.</p>
-    <p>I tested Starlink and Viasat at my family cabin in rural Utah to compare the satellite internet providers. What I found was surprising.</p>
-  </body>
-</html></div>]]></content:encoded>
-            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2024/11/si-starlink-vs-viasat.webp" />
             <snf:analytics><![CDATA[
                 <script>
                   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':

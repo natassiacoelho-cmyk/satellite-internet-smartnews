@@ -10,6 +10,32 @@
         <snf:logo><url>https://raw.githubusercontent.com/natassiacoelho-cmyk/satellite-internet-smartnews/main/satelliteinternet-logo_smartnews.png</url></snf:logo>
         
         <item>
+            <title>The Importance of Upload Speed for Satellite Internet</title>
+            <link>https://www.satelliteinternet.com/resources/upload-speed-satellite-internet/</link>
+            <guid>https://www.satelliteinternet.com/resources/upload-speed-satellite-internet/</guid>
+            <pubDate>Thu, 26 Mar 2026 19:28:11 +0000</pubDate>
+            <content:encoded><![CDATA[<div><html>
+  <body>
+    <p>When advertising internet plans, providers typically only mention their download speeds. While fast download speeds are most important to the average household, a good upload speed is also essential for more use cases than you realize. Have you noticed that it takes longer to upload a file than to download one? Or maybe your coworkers notice that your video calls are laggy and you have to repeat yourself constantly? Your upload speed could be the culprit.</p>
+    <p>This guide breaks down why upload speeds matter, how they interact with latency, and how to optimize your setup for work and play.</p>
+  </body>
+</html></div>]]></content:encoded>
+            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2024/10/homepage-photos-troubleshooting-e1728420179336.webp" />
+            <snf:analytics><![CDATA[
+                <script>
+                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                  })(window,document,'script','dataLayer','G-4RNELPQG75');
+                  window.dataLayer = window.dataLayer || [];
+                  function gtag(){dataLayer.push(arguments);}
+                  gtag('js', new Date());
+                  gtag('config', 'G-4RNELPQG75');
+                </script>
+]]></snf:analytics>
+        </item>
+        <item>
             <title>Choosing Your Rural Internet: Starlink vs. High-Speed Wired Connections Like Spectrum</title>
             <link>https://www.satelliteinternet.com/resources/satellite-internet-vs-cable-internet/</link>
             <guid>https://www.satelliteinternet.com/resources/satellite-internet-vs-cable-internet/</guid>
@@ -448,33 +474,6 @@
   </body>
 </html></div>]]></content:encoded>
             <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2025/03/PXL_20250305_204707533-cropped-png.webp" />
-            <snf:analytics><![CDATA[
-                <script>
-                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
-                  })(window,document,'script','dataLayer','G-4RNELPQG75');
-                  window.dataLayer = window.dataLayer || [];
-                  function gtag(){dataLayer.push(arguments);}
-                  gtag('js', new Date());
-                  gtag('config', 'G-4RNELPQG75');
-                </script>
-]]></snf:analytics>
-        </item>
-        <item>
-            <title>How to Transfer Internet Service: Moving Internet Service Guide</title>
-            <link>https://www.satelliteinternet.com/resources/how-to-move-internet-service/</link>
-            <guid>https://www.satelliteinternet.com/resources/how-to-move-internet-service/</guid>
-            <pubDate>Tue, 17 Mar 2026 15:13:32 +0000</pubDate>
-            <content:encoded><![CDATA[<div><html>
-  <body>
-    <p>Whether you’re packing up for a new off-grid homestead or just relocating across the county, moving is stressful enough without having to worry about whether you’ll have a reliable connection when you start unpacking.</p>
-    <p>Knowing exactly how to transfer your internet service—especially when you rely on satellite internet providers like Starlink, Viasat, or Hughesnet—will give you peace of mind from day one at your new home.</p>
-    <p>Different internet service providers (ISPs) have different rules for relocating. Some require you to return old equipment, while others let you update your address with a few taps on your smartphone. If you plan ahead, you can make the entire internet transfer process smooth and low-cost. Here is your complete 2026 guide to moving your satellite internet service.</p>
-  </body>
-</html></div>]]></content:encoded>
-            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2023/07/iStock-2168843644.webp" />
             <snf:analytics><![CDATA[
                 <script>
                   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':

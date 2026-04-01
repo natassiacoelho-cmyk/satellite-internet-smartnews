@@ -10,6 +10,32 @@
         <snf:logo><url>https://raw.githubusercontent.com/natassiacoelho-cmyk/satellite-internet-smartnews/main/satelliteinternet-logo_smartnews.png</url></snf:logo>
         
         <item>
+            <title>The Best Starlink Deals and Promotions: Now Starting at $35 Per Month</title>
+            <link>https://www.satelliteinternet.com/resources/best-starlink-deals/</link>
+            <guid>https://www.satelliteinternet.com/resources/best-starlink-deals/</guid>
+            <pubDate>Wed, 01 Apr 2026 16:00:14 +0000</pubDate>
+            <content:encoded><![CDATA[<div><html>
+  <body>
+    <p>Starlink satellite internet is one of the fastest-growing providers of high-speed internet access for rural and mobile users. Its low latency and wide availability make it sought after for dozens of use cases, but it’s notably been expensive to obtain.</p>
+    <p>Thankfully, as Starlink has grown, it has frequently offered more and more special discounts and promotions to bring its hardware and service to more people. We monitor and report on ongoing Starlink deals, which are compiled below.</p>
+  </body>
+</html></div>]]></content:encoded>
+            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2025/03/unnamed-2.webp" />
+            <snf:analytics><![CDATA[
+                <script>
+                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                  })(window,document,'script','dataLayer','G-4RNELPQG75');
+                  window.dataLayer = window.dataLayer || [];
+                  function gtag(){dataLayer.push(arguments);}
+                  gtag('js', new Date());
+                  gtag('config', 'G-4RNELPQG75');
+                </script>
+]]></snf:analytics>
+        </item>
+        <item>
             <title>The Ultimate Guide to Direct-to-Cell Satellite Phone Service: iPhone, T-Satellite, and AST SpaceMobile</title>
             <link>https://www.satelliteinternet.com/resources/satellite-phone-service/</link>
             <guid>https://www.satelliteinternet.com/resources/satellite-phone-service/</guid>
@@ -415,32 +441,6 @@
   </body>
 </html></div>]]></content:encoded>
             <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2023/08/Starlink-Mobility-Review-featured.jpg" />
-            <snf:analytics><![CDATA[
-                <script>
-                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
-                  })(window,document,'script','dataLayer','G-4RNELPQG75');
-                  window.dataLayer = window.dataLayer || [];
-                  function gtag(){dataLayer.push(arguments);}
-                  gtag('js', new Date());
-                  gtag('config', 'G-4RNELPQG75');
-                </script>
-]]></snf:analytics>
-        </item>
-        <item>
-            <title>A Guide to Setting Up Guest Wi-Fi on Starlink and T-Mobile</title>
-            <link>https://www.satelliteinternet.com/resources/how-to-set-up-guest-wi-fi/</link>
-            <guid>https://www.satelliteinternet.com/resources/how-to-set-up-guest-wi-fi/</guid>
-            <pubDate>Wed, 18 Mar 2026 20:45:03 +0000</pubDate>
-            <content:encoded><![CDATA[<div><html>
-  <body>
-    <p>When you host friends or family, or guests renting your home via Airbnb, the first thing they usually ask for is the Wi-Fi password. Businesses, even rural ones, would also benefit by offering customers free Wi-Fi access. Handing over your primary network credentials is a bit like giving a house guest a master key that opens every door, including your filing cabinets and safe. By setting up a guest Wi-Fi network, you create a digital "waiting room" that provides internet access without exposing your private data, smart home devices, or shared folders to outside hardware.</p>
-    <p>Modern internet service providers like Starlink and T-Mobile have streamlined mobile apps that make network management feel more like using a smartphone than configuring a server. Whether you are using a high-speed satellite or a 5G gateway, here is how you can draw a hard line between your personal data and your visitors’ devices.</p>
-  </body>
-</html></div>]]></content:encoded>
-            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2025/03/iStock-1929430043.webp" />
             <snf:analytics><![CDATA[
                 <script>
                   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':

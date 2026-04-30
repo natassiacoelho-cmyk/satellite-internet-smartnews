@@ -37,6 +37,32 @@
 ]]></snf:analytics>
         </item>
         <item>
+            <title>Starlink Direct to Cell &amp; T-Satellite Guide [2026]</title>
+            <link>https://www.satelliteinternet.com/resources/starlink-direct-to-cell/</link>
+            <guid>https://www.satelliteinternet.com/resources/starlink-direct-to-cell/</guid>
+            <pubDate>Thu, 30 Apr 2026 18:00:43 +0000</pubDate>
+            <content:encoded><![CDATA[<div><html>
+  <body>
+    <p>Mobile dead zones are quickly becoming a thing of the past thanks to innovations of direct-to-device satellite coverage, currently being spearheaded by Starlink. Since the commercial launch of T-Satellite in July 2025, the partnership between T-Mobile and SpaceX has transitioned from a high-tech experiment into a valuable feature for those who venture off the beaten path.</p>
+    <p>But the story doesn't stop with T-Mobile. Starlink’s "Direct to Cell" ambitions are scaling at a pace that could change mobile technology as we know it. With recent FCC approval for thousands of new, higher-powered satellites and a growing list of international carrier partners, SpaceX is setting up a global network for both broadband internet and mobile connectivity. Recent trademark filings for "Starlink Mobile" suggest that the company may soon move beyond partnerships to launch its own independent mobile service.</p>
+  </body>
+</html></div>]]></content:encoded>
+            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2024/12/Screenshot-2025-07-23-171906.webp" />
+            <snf:analytics><![CDATA[
+                <script>
+                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                  })(window,document,'script','dataLayer','G-4RNELPQG75');
+                  window.dataLayer = window.dataLayer || [];
+                  function gtag(){dataLayer.push(arguments);}
+                  gtag('js', new Date());
+                  gtag('config', 'G-4RNELPQG75');
+                </script>
+]]></snf:analytics>
+        </item>
+        <item>
             <title>AT&amp;T Expands Access Program to Internet Air: A 5G Lifeline for Rural Homes</title>
             <link>https://www.satelliteinternet.com/resources/att-expands-access-program-to-5g-internet-air/</link>
             <guid>https://www.satelliteinternet.com/resources/att-expands-access-program-to-5g-internet-air/</guid>
@@ -413,32 +439,6 @@
   </body>
 </html></div>]]></content:encoded>
             <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2025/09/si-starlink-mini-at-beach-featured.webp" />
-            <snf:analytics><![CDATA[
-                <script>
-                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
-                  })(window,document,'script','dataLayer','G-4RNELPQG75');
-                  window.dataLayer = window.dataLayer || [];
-                  function gtag(){dataLayer.push(arguments);}
-                  gtag('js', new Date());
-                  gtag('config', 'G-4RNELPQG75');
-                </script>
-]]></snf:analytics>
-        </item>
-        <item>
-            <title>T-Mobile 5G Backup vs. Starlink Standby Mode: Which Backup Plan is Worth the Cost?</title>
-            <link>https://www.satelliteinternet.com/resources/t-mobile-backup-internet-vs-starlink-standby-mode/</link>
-            <guid>https://www.satelliteinternet.com/resources/t-mobile-backup-internet-vs-starlink-standby-mode/</guid>
-            <pubDate>Wed, 08 Apr 2026 16:50:36 +0000</pubDate>
-            <content:encoded><![CDATA[<div><html>
-  <body>
-    <p>When you work from home or manage a small business in a rural area, a dropped internet connection is more than just a minor annoyance. A sudden outage can disrupt vital video meetings, halt customer transactions, and result in lost revenue. An internet backup plan offers a critical safety net. Having redundant internet connections ensures you stay online even when your primary provider goes dark.</p>
-    <p>Two popular backup options for rural residents are <a href="https://www.satelliteinternet.com/resources/t-mobile-5g-backup-internet-review/">T-Mobile 5G Backup Internet</a> and <a href="https://www.satelliteinternet.com/resources/starlink-standby-mode-back-up-internet/">Starlink Standby Mod</a>e. Both services offer unique advantages and a few notable drawbacks. In this guide, we will explore both services to help you decide if securing a backup internet plan is truly worth the monthly cost.</p>
-  </body>
-</html></div>]]></content:encoded>
-            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2023/07/iStock-2199120603.webp" />
             <snf:analytics><![CDATA[
                 <script>
                   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':

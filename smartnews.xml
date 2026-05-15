@@ -10,6 +10,32 @@
         <snf:logo><url>https://raw.githubusercontent.com/natassiacoelho-cmyk/satellite-internet-smartnews/main/satelliteinternet-logo_smartnews.png</url></snf:logo>
         
         <item>
+            <title>T-Mobile RV Internet in 2026: AWAY Plans, Hotspots &amp; T-Satellite</title>
+            <link>https://www.satelliteinternet.com/resources/t-mobile-internet-for-rv/</link>
+            <guid>https://www.satelliteinternet.com/resources/t-mobile-internet-for-rv/</guid>
+            <pubDate>Fri, 15 May 2026 18:05:22 +0000</pubDate>
+            <content:encoded><![CDATA[<div><html>
+  <body>
+    <p>Staying connected on the road can be a challenge for RV travelers and modern nomads. While satellite internet has traditionally been the go-to option for reliable off-grid access, cellular providers like T-Mobile are changing the game. In 2026, where you get cell service—and even where you don't—you can get T-Mobile internet for your RV.</p>
+    <p>T-Mobile's newest solutions include their AWAY service and the Starlink-powered T-Satellite. Let's explore your best options, keeping in mind the key factors of reliability, price, speed, and gear.</p>
+  </body>
+</html></div>]]></content:encoded>
+            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2024/01/Starlink-for-RVs-featured-1.jpg" />
+            <snf:analytics><![CDATA[
+                <script>
+                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                  })(window,document,'script','dataLayer','G-4RNELPQG75');
+                  window.dataLayer = window.dataLayer || [];
+                  function gtag(){dataLayer.push(arguments);}
+                  gtag('js', new Date());
+                  gtag('config', 'G-4RNELPQG75');
+                </script>
+]]></snf:analytics>
+        </item>
+        <item>
             <title>Starlink Unveils an Affordable 300GB Plan for Summer Travel</title>
             <link>https://www.satelliteinternet.com/resources/starlink-300gb-roam-plan/</link>
             <guid>https://www.satelliteinternet.com/resources/starlink-300gb-roam-plan/</guid>
@@ -407,36 +433,6 @@
   </body>
 </html></div>]]></content:encoded>
             <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2026/04/si-stats-and-facts-featured-image.webp" />
-            <snf:analytics><![CDATA[
-                <script>
-                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
-                  })(window,document,'script','dataLayer','G-4RNELPQG75');
-                  window.dataLayer = window.dataLayer || [];
-                  function gtag(){dataLayer.push(arguments);}
-                  gtag('js', new Date());
-                  gtag('config', 'G-4RNELPQG75');
-                </script>
-]]></snf:analytics>
-        </item>
-        <item>
-            <title>AT&amp;T Expands Access Program to Internet Air: A 5G Lifeline for Rural Homes</title>
-            <link>https://www.satelliteinternet.com/resources/att-expands-access-program-to-5g-internet-air/</link>
-            <guid>https://www.satelliteinternet.com/resources/att-expands-access-program-to-5g-internet-air/</guid>
-            <pubDate>Tue, 28 Apr 2026 21:46:09 +0000</pubDate>
-            <content:encoded><![CDATA[<div><html>
-  <body>
-    <div  ><p>This expansion is a massive win for rural communities that sit on the wrong side of the digital divide. In many remote areas, wired home internet, such as fiber, simply has not reached rural communities, leaving families without the reliable connection needed for remote work or online schooling. </p>
-<p>AT&amp;amp;T Internet Air bypasses the need for cables or a professional installer, allowing you to get online with a simple self-installation process that takes under 15 minutes. Supported by recent mid-band spectrum enhancements, this 5G connection delivers impressive bandwidth and low latency, making it a true satellite killer for rural homes that need responsive internet for streaming, gaming, and video conferencing.</p>
-</div>
-    <div  ><p>This expansion is a massive win for rural communities that sit firmly on the wrong side of the digital divide. In many remote areas, wired home internet, such as fiber, simply has not reached rural communities, leaving families without the reliable connection needed for remote work or online schooling. </p>
-<p>AT&amp;amp;T Internet Air bypasses the need for cables or a professional installer, allowing you to get online with a simple self-installation process that takes under 15 minutes. Supported by recent mid-band spectrum enhancements, this 5G connection delivers impressive bandwidth and low latency, making it a true satellite killer for rural homes that need responsive internet for streaming, gaming, and video conferencing.</p>
-</div>
-  </body>
-</html></div>]]></content:encoded>
-            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2024/10/si-att-review.webp" />
             <snf:analytics><![CDATA[
                 <script>
                   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':

@@ -10,6 +10,35 @@
         <snf:logo><url>https://raw.githubusercontent.com/natassiacoelho-cmyk/satellite-internet-smartnews/main/satelliteinternet-logo_smartnews.png</url></snf:logo>
         
         <item>
+            <title>Best Internet for Boats: Starlink Roam vs. Maritime &amp; 5G Alternatives</title>
+            <link>https://www.satelliteinternet.com/resources/satellite-internet-for-boats/</link>
+            <guid>https://www.satelliteinternet.com/resources/satellite-internet-for-boats/</guid>
+            <pubDate>Thu, 21 May 2026 19:22:57 +0000</pubDate>
+            <content:encoded><![CDATA[<div><html>
+  <body>
+    <div  ><p>As much as we love dedicated satellite hotspots, the smartphones already in our pockets are quickly becoming capable satellite communicators on their own. If you’re boating just outside of cell range, these built-in direct-to-device features are excellent, hassle-free backups.</p>
+<p>Apple iPhone Satellite Features Starting with the iPhone 14 lineup, Apple revolutionized mobile safety by introducing built-in satellite connectivity via the Globalstar network. If you are entirely outside of traditional cellular and Wi-Fi coverage, your iPhone can connect directly to a moving satellite (provided you have a clear view of the sky). With the recent iOS 18 update, this suite of features now includes Emergency SOS, Messages via satellite (for texting friends off the grid), and Find My via satellite. It takes a little longer to send a text this way, but as a built-in safety net, it’s an incredible value.</p>
+<p>Starlink Direct to Cell (T-Satellite) The mobile industry is also seeing a massive shift toward carrier-provided satellite networks, spearheaded by SpaceX’s Starlink. Through a partnership with T-Mobile, Starlink recently launched T-Satellite, which uses specialized direct-to-cell satellites that act like orbiting cell towers.</p>
+<p>If you sail out of terrestrial cell range, your phone can automatically connect to Starlink to send SMS texts, use WhatsApp, and access essential navigation and weather apps. T-Satellite is included on T-Mobile’s top-tier Experience Beyond plan, but it's also available as a $10/month add-on for other T-Mobile users—and surprisingly, even compatible AT&amp;amp;T and Verizon customers with an open, unlocked eSIM slot. While it won't give you the broadband speeds of a mounted Starlink Roam dish, it's a game-changer for keeping your personal phone connected on the water.</p>
+</div>
+  </body>
+</html></div>]]></content:encoded>
+            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2021/03/internet-on-boats.jpg" />
+            <snf:analytics><![CDATA[
+                <script>
+                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                  })(window,document,'script','dataLayer','G-4RNELPQG75');
+                  window.dataLayer = window.dataLayer || [];
+                  function gtag(){dataLayer.push(arguments);}
+                  gtag('js', new Date());
+                  gtag('config', 'G-4RNELPQG75');
+                </script>
+]]></snf:analytics>
+        </item>
+        <item>
             <title>How to Get Reliable Internet While Backpacking: The Ultimate Starlink Mini Guide</title>
             <link>https://www.satelliteinternet.com/resources/starlink-internet-backpacking/</link>
             <guid>https://www.satelliteinternet.com/resources/starlink-internet-backpacking/</guid>
@@ -406,34 +435,6 @@
   </body>
 </html></div>]]></content:encoded>
             <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2026/05/iStock-2192656258.webp" />
-            <snf:analytics><![CDATA[
-                <script>
-                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
-                  })(window,document,'script','dataLayer','G-4RNELPQG75');
-                  window.dataLayer = window.dataLayer || [];
-                  function gtag(){dataLayer.push(arguments);}
-                  gtag('js', new Date());
-                  gtag('config', 'G-4RNELPQG75');
-                </script>
-]]></snf:analytics>
-        </item>
-        <item>
-            <title>Starlink Roadmap 2026: More Changes For More Speed and Capacity</title>
-            <link>https://www.satelliteinternet.com/resources/starlink-roadmap-gigabyte-internet/</link>
-            <guid>https://www.satelliteinternet.com/resources/starlink-roadmap-gigabyte-internet/</guid>
-            <pubDate>Tue, 05 May 2026 20:57:45 +0000</pubDate>
-            <content:encoded><![CDATA[<div><html>
-  <body>
-    <p><a href="https://www.satelliteinternet.com/providers/starlink/">Starlink</a> claims download speeds of over 1 gigabit per second are coming soon, with the goal to debut them sometime in 2026. Starlink has already taken the world by storm with its <a href="https://www.satelliteinternet.com/providers/">satellite internet</a> technology and has no plans to stop advancing its service until it is indistinguishable from traditional ISPs. </p>
-    <p>In addition to faster speeds, Starlink is also aiming to improve capacity, and the Federal Communications Commission (FCC) has cleared the way for Starlink to power up its dishes to access higher speeds and capacity. In April, the agency voted to rewrite decades-old spectrum-sharing rules, concluding that the latest satellite technology can operate with fewer restrictions without harming other satellite signals.</p>
-    <p>SpaceX is launching more satellites to expand its constellation up to 15,000, which, as of publication, sits at over 10,000. New technology will also drive the expansion, with a third-generation satellite expected to launch soon, but this will depend on SpaceX's Starship being ready for mass deployment this year.</p>
-    <p>Starlink residential customers in the U.S. can currently expect download speeds between 100 and 400Mbps, depending on their location. According to Starlink's speed map, users on Priority plans can reach speeds above 400Mbps.</p>
-  </body>
-</html></div>]]></content:encoded>
-            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2025/01/Screenshot-2025-01-06-160239-png.webp" />
             <snf:analytics><![CDATA[
                 <script>
                   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':

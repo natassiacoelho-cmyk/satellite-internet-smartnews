@@ -10,6 +10,32 @@
         <snf:logo><url>https://raw.githubusercontent.com/natassiacoelho-cmyk/satellite-internet-smartnews/main/satelliteinternet-logo_smartnews.png</url></snf:logo>
         
         <item>
+            <title>Blue Origin Explosion Upends Launch Strategy for Amazon Leo</title>
+            <link>https://www.satelliteinternet.com/resources/blue-origin-explosion-amazon-leo-delays/</link>
+            <guid>https://www.satelliteinternet.com/resources/blue-origin-explosion-amazon-leo-delays/</guid>
+            <pubDate>Wed, 03 Jun 2026 16:55:45 +0000</pubDate>
+            <content:encoded><![CDATA[<div><html>
+  <body>
+    <p><a href="https://www.satelliteinternet.com/providers/amazon-leo/">Amazon Leo</a> faces a major setback after the unexpected explosion of Blue Origin's New Glenn rocket on May 28 during a static test fire at its Florida launch pad. Blue Origin is calling the incident an anomaly. Still, the New Glenn is likely grounded for an extended period while a thorough investigation is conducted and the launch pad, which was severely damaged, is rebuilt. </p>
+    <p>It's a setback for all space companies expecting to launch their satellites on the New Glenn, but especially for Amazon Leo, which had planned to launch its low-Earth orbit satellites on 24 Blue Origin flights over the next couple of years. The New Glenn can carry 48 Amazon Leo satellites, bringing the total to 1,152, which will need another means of getting to space.</p>
+  </body>
+</html></div>]]></content:encoded>
+            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2026/06/HJVyH6UXIAYyidw-e1780506876590.webp" />
+            <snf:analytics><![CDATA[
+                <script>
+                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                  })(window,document,'script','dataLayer','G-4RNELPQG75');
+                  window.dataLayer = window.dataLayer || [];
+                  function gtag(){dataLayer.push(arguments);}
+                  gtag('js', new Date());
+                  gtag('config', 'G-4RNELPQG75');
+                </script>
+]]></snf:analytics>
+        </item>
+        <item>
             <title>Frontier vs. Spectrum</title>
             <link>https://www.satelliteinternet.com/resources/frontier-vs-spectrum/</link>
             <guid>https://www.satelliteinternet.com/resources/frontier-vs-spectrum/</guid>
@@ -387,34 +413,6 @@
   </body>
 </html></div>]]></content:encoded>
             <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2026/05/HIEShkdX0AA5Txa.webp" />
-            <snf:analytics><![CDATA[
-                <script>
-                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
-                  })(window,document,'script','dataLayer','G-4RNELPQG75');
-                  window.dataLayer = window.dataLayer || [];
-                  function gtag(){dataLayer.push(arguments);}
-                  gtag('js', new Date());
-                  gtag('config', 'G-4RNELPQG75');
-                </script>
-]]></snf:analytics>
-        </item>
-        <item>
-            <title>Internet for Seniors</title>
-            <link>https://www.satelliteinternet.com/resources/internet-for-seniors/</link>
-            <guid>https://www.satelliteinternet.com/resources/internet-for-seniors/</guid>
-            <pubDate>Tue, 12 May 2026 14:33:26 +0000</pubDate>
-            <content:encoded><![CDATA[<div><html>
-  <body>
-    <p>Finding the right internet service can feel like a chore, especially if you or your loved ones live in a rural area or a senior living community. While many internet service providers (ISPs) don't typically offer senior-specific discounts, there are still some fantastic, simple-to-use options out there.</p>
-    <p>Depending on your financial situation and internet habits, you don't have to settle for the sluggish, complicated internet of the past. Today's modern rural internet solutions focus heavily on making things easy: straightforward billing, plug-and-play setups, and helpful customer service.</p>
-    <p>Based on my research, I recommend <a href="https://www.satelliteinternet.com/providers/starlink/">Starlink</a>, <a href="https://www.satelliteinternet.com/providers/t-mobile/">T-Mobile 5G Home Internet</a>, and <a href="https://www.satelliteinternet.com/providers/earthlink-5g-home-internet/">EarthLink 5G Wireless Internet</a> to keep you connected with your family and your wallet happy.</p>
-    <p>Let's take a closer look at our recommendations for the best internet options for seniors and their caretakers.</p>
-  </body>
-</html></div>]]></content:encoded>
-            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2025/08/iStock-1359550143.webp" />
             <snf:analytics><![CDATA[
                 <script>
                   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':

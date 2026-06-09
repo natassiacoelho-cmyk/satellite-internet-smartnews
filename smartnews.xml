@@ -10,6 +10,33 @@
         <snf:logo><url>https://raw.githubusercontent.com/natassiacoelho-cmyk/satellite-internet-smartnews/main/satelliteinternet-logo_smartnews.png</url></snf:logo>
         
         <item>
+            <title>Starlink Confirms Next-Generation Dishes are Launching Soon</title>
+            <link>https://www.satelliteinternet.com/resources/new-starlink-mini/</link>
+            <guid>https://www.satelliteinternet.com/resources/new-starlink-mini/</guid>
+            <pubDate>Tue, 09 Jun 2026 15:29:00 +0000</pubDate>
+            <content:encoded><![CDATA[<div><html>
+  <body>
+    <p>SpaceX has confirmed a new set of next-generation Starlink dishes, which are expected to launch soon. <a href="https://x.com/SpaceX/status/2064099405758906727">In a presentation featuring SpaceX CEO Elon Musk</a>, he confirmed that they are ramping up production of new satellite terminals, which he showed off. The dishes look much smaller and more portable, with one resembling the Standard dish but smaller. </p>
+    <p>Starlink may have left breadcrumbs revealing features of a new <a href="https://www.satelliteinternet.com/providers/starlink/starlink-mini-review/">Mini dish</a>, including a built-in battery and a more versatile way to power/charge it. According to a <a href="https://www.pcmag.com/news/firmware-hints-at-new-starlink-dish-with-built-in-battery-usb-c-port">PCMag</a> report citing a computer science research team, a recent Starlink firmware update reveals new code hinting at upcoming features. The research team points out that the new code indicates the presence of battery and USB-C power sources. <br/>If this rumored product is released this summer, it would be two years since the original Starlink Mini's release, which immediately exploded in popularity among travelers, RVers, and campers demanding a high-speed internet solution.</p>
+    <p>Musk didn't reveal any concrete details about the upcoming products, such as price or rumored features, but as SpaceX prepares for a massive IPO this summer, it seems like the right time for new versions to hype up both customers and investors.</p>
+  </body>
+</html></div>]]></content:encoded>
+            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2025/05/roam_c_casestudy_travel_2.webp" />
+            <snf:analytics><![CDATA[
+                <script>
+                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                  })(window,document,'script','dataLayer','G-4RNELPQG75');
+                  window.dataLayer = window.dataLayer || [];
+                  function gtag(){dataLayer.push(arguments);}
+                  gtag('js', new Date());
+                  gtag('config', 'G-4RNELPQG75');
+                </script>
+]]></snf:analytics>
+        </item>
+        <item>
             <title>Starlink Roam vs T-Mobile AWAY: Real Off-Grid Tests</title>
             <link>https://www.satelliteinternet.com/resources/starlink-roam-vs-t-mobile-away/</link>
             <guid>https://www.satelliteinternet.com/resources/starlink-roam-vs-t-mobile-away/</guid>
@@ -316,39 +343,6 @@
   </body>
 </html></div>]]></content:encoded>
             <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2025/03/unnamed-2.webp" />
-            <snf:analytics><![CDATA[
-                <script>
-                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
-                  })(window,document,'script','dataLayer','G-4RNELPQG75');
-                  window.dataLayer = window.dataLayer || [];
-                  function gtag(){dataLayer.push(arguments);}
-                  gtag('js', new Date());
-                  gtag('config', 'G-4RNELPQG75');
-                </script>
-]]></snf:analytics>
-        </item>
-        <item>
-            <title>Starlink Rumors: Is a New Mini Dish with a Built-In Battery on the Horizon?</title>
-            <link>https://www.satelliteinternet.com/resources/new-starlink-mini/</link>
-            <guid>https://www.satelliteinternet.com/resources/new-starlink-mini/</guid>
-            <pubDate>Wed, 27 May 2026 16:29:00 +0000</pubDate>
-            <content:encoded><![CDATA[<div><html>
-  <body>
-    <div  ><p>The potential for a built-in battery would be a major upgrade. Figuring out <a href="https://www.satelliteinternet.com/resources/how-to-power-the-starlink-mini/">how to power the Starlink Mini</a> is currently the biggest challenge for off-grid users. While the dish is incredibly energy-efficient, drawing just 20 to 40 watts during active use, compared to the Standard dish, which uses a 50-foot direct current (DC) cable and a standard wall power supply, drawing 75 to 100 watts.</p>
-<p>To take the Mini off the grid, you need a high-capacity portable power bank designed to charge laptops. The dish requires a 100W power source that outputs exactly 20V and 5A. A robust power bank (like the Anker 737) can yield about three hours of active use.</p>
-<p>In addition, Starlink requires a specific power delivery profile to maintain a connection. You will need to purchase the official 16-foot USB-C cable directly from Starlink, as generic third-party cables often fail to deliver the required wattage.</p>
-<p>If you're working from the road, Starlink sells a $45 Mini Car Adaptor that plugs directly into a vehicle's 12V-24V auxiliary outlet (cigarette lighter).</p>
-<p>For longer trips, users can link their power banks to portable solar panels to create a self-sustaining power loop. Additionally, the market has seen a rise in third-party battery accessories that clip directly onto the back of the dish, acting as a specialized base to eliminate dangling cables.</p>
-</div>
-    <div  ><p>A built-in battery for the Starlink Mini makes it even more versatile for its core market of mobile internet users. It bypasses many of the pain points of powering the dish, letting you take just the dish and use it on the go without an external battery, power cables, or needing to be close to a power outlet. A great upgrade for those who hike and backpack in the backcountry. </p>
-<p>What's yet to be determined and what will factor into its success is how long a fully charged battery will last, and if the dish will have limited performance to optimize battery life.</p>
-</div>
-  </body>
-</html></div>]]></content:encoded>
-            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2025/05/roam_c_casestudy_travel_2.webp" />
             <snf:analytics><![CDATA[
                 <script>
                   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':

@@ -10,6 +10,32 @@
         <snf:logo><url>https://raw.githubusercontent.com/natassiacoelho-cmyk/satellite-internet-smartnews/main/satelliteinternet-logo_smartnews.png</url></snf:logo>
         
         <item>
+            <title>FCC Grants Amazon Leo a Lifeline on Satellite Rollout</title>
+            <link>https://www.satelliteinternet.com/resources/fcc-grants-amazon-leo-extension/</link>
+            <guid>https://www.satelliteinternet.com/resources/fcc-grants-amazon-leo-extension/</guid>
+            <pubDate>Tue, 09 Jun 2026 19:27:46 +0000</pubDate>
+            <content:encoded><![CDATA[<div><html>
+  <body>
+    <p><a href="https://www.satelliteinternet.com/providers/amazon-leo/">Amazon Leo</a> got some good news this week following a series of setbacks to its satellite internet rollout. The Federal Communications Commission (FCC) has granted a limited waiver to Amazon Leo, allowing the company to bypass its July 30, 2026, deadline to launch 50 percent of its first-generation satellite fleet (1,616 satellites). However, the extension comes with a caveat. The FCC will temporarily demote the spectral priority of any Amazon Leo satellites launched after the July 2026 deadline until the company reaches the original milestone, to incentivize the company to accelerate its deployment. </p>
+    <p>Earlier this year, Amazon admitted it would fall far short of its 1,600-satellite milestone, projecting it would reach only about 700 operational satellites by July. As of June 2026, it has just over 300 satellites in orbit. Amazon requested the waiver earlier this year and blamed the delays on unforeseen delays outside its control.</p>
+  </body>
+</html></div>]]></content:encoded>
+            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2026/06/HJfyZf1WgAE5G_G-e1781034030629.webp" />
+            <snf:analytics><![CDATA[
+                <script>
+                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                  })(window,document,'script','dataLayer','G-4RNELPQG75');
+                  window.dataLayer = window.dataLayer || [];
+                  function gtag(){dataLayer.push(arguments);}
+                  gtag('js', new Date());
+                  gtag('config', 'G-4RNELPQG75');
+                </script>
+]]></snf:analytics>
+        </item>
+        <item>
             <title>Starlink Rentals Go From Free to $10 Per Month</title>
             <link>https://www.satelliteinternet.com/resources/starlink-rental/</link>
             <guid>https://www.satelliteinternet.com/resources/starlink-rental/</guid>
@@ -482,32 +508,6 @@
   </body>
 </html></div>]]></content:encoded>
             <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2024/07/roam_c_hero_m-e1726078758732.jpg" />
-            <snf:analytics><![CDATA[
-                <script>
-                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
-                  })(window,document,'script','dataLayer','G-4RNELPQG75');
-                  window.dataLayer = window.dataLayer || [];
-                  function gtag(){dataLayer.push(arguments);}
-                  gtag('js', new Date());
-                  gtag('config', 'G-4RNELPQG75');
-                </script>
-]]></snf:analytics>
-        </item>
-        <item>
-            <title>T-Mobile RV Internet in 2026: AWAY Plans, Hotspots &amp; T-Satellite</title>
-            <link>https://www.satelliteinternet.com/resources/t-mobile-internet-for-rv/</link>
-            <guid>https://www.satelliteinternet.com/resources/t-mobile-internet-for-rv/</guid>
-            <pubDate>Fri, 15 May 2026 18:05:22 +0000</pubDate>
-            <content:encoded><![CDATA[<div><html>
-  <body>
-    <p>Staying connected on the road can be a challenge for RV travelers and modern nomads. While satellite internet has traditionally been the go-to option for reliable off-grid access, cellular providers like T-Mobile are changing the game. In 2026, where you get cell service—and even where you don't—you can get T-Mobile internet for your RV.</p>
-    <p>T-Mobile's newest solutions include their AWAY service and the Starlink-powered T-Satellite. Let's explore your best options, keeping in mind the key factors of reliability, price, speed, and gear.</p>
-  </body>
-</html></div>]]></content:encoded>
-            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2024/01/Starlink-for-RVs-featured-1.jpg" />
             <snf:analytics><![CDATA[
                 <script>
                   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':

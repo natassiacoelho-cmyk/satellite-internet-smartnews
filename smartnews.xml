@@ -10,6 +10,32 @@
         <snf:logo><url>https://raw.githubusercontent.com/natassiacoelho-cmyk/satellite-internet-smartnews/main/satelliteinternet-logo_smartnews.png</url></snf:logo>
         
         <item>
+            <title>SpaceX Has Gone Public. Here’s What It Actually Means for Your Starlink</title>
+            <link>https://www.satelliteinternet.com/resources/spacex-ipo-starlink/</link>
+            <guid>https://www.satelliteinternet.com/resources/spacex-ipo-starlink/</guid>
+            <pubDate>Fri, 12 Jun 2026 15:19:02 +0000</pubDate>
+            <content:encoded><![CDATA[<div><html>
+  <body>
+    <p>After months of anticipation, SpaceX, parent company of Starlink, is publicly traded. Its initial public offering (IPO) debuted Friday, priced at $135 per share, so now just about anyone can own a piece of the rocket, satellite, defense, and AI giant. At a $1.75 trillion valuation, it's reportedly the largest IPO in history, fueling the company's many lofty ambitions.</p>
+    <p>The change from privately owned to public means alot for the aerospace and AI industries, but what it means for current Starlink customers and shoppers is not as clear. However, the company's business plan may hide the roadmap. It's also clear that nothing is going to change for customers in the immediate future.</p>
+  </body>
+</html></div>]]></content:encoded>
+            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2026/06/HKntRzXXoAAHxUG-e1781277630832.webp" />
+            <snf:analytics><![CDATA[
+                <script>
+                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                  })(window,document,'script','dataLayer','G-4RNELPQG75');
+                  window.dataLayer = window.dataLayer || [];
+                  function gtag(){dataLayer.push(arguments);}
+                  gtag('js', new Date());
+                  gtag('config', 'G-4RNELPQG75');
+                </script>
+]]></snf:analytics>
+        </item>
+        <item>
             <title>Starlink Professional Installations: Price and Availability</title>
             <link>https://www.satelliteinternet.com/resources/starlink-professional-installation-available/</link>
             <guid>https://www.satelliteinternet.com/resources/starlink-professional-installation-available/</guid>
@@ -470,33 +496,6 @@
   </body>
 </html></div>]]></content:encoded>
             <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2025/03/unnamed-2.webp" />
-            <snf:analytics><![CDATA[
-                <script>
-                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
-                  })(window,document,'script','dataLayer','G-4RNELPQG75');
-                  window.dataLayer = window.dataLayer || [];
-                  function gtag(){dataLayer.push(arguments);}
-                  gtag('js', new Date());
-                  gtag('config', 'G-4RNELPQG75');
-                </script>
-]]></snf:analytics>
-        </item>
-        <item>
-            <title>How to Get Cell Service and Internet in National Parks (2026)</title>
-            <link>https://www.satelliteinternet.com/resources/cell-service-in-national-parks/</link>
-            <guid>https://www.satelliteinternet.com/resources/cell-service-in-national-parks/</guid>
-            <pubDate>Thu, 21 May 2026 21:00:52 +0000</pubDate>
-            <content:encoded><![CDATA[<div><html>
-  <body>
-    <p>You're typically off the grid when you venture into one of the United States' many gorgeous National Parks. However, if you need a reliable connection, most importantly for safety, but for entertainment at the campsite or checking work email on a long weekend, the game has completely changed.</p>
-    <p>Thanks to a massive revolution in space-based networks, you no longer have to rely solely on traditional terrestrial cell towers to stay connected in the wilderness. The future of off-grid communication is already here, driven by two major innovations: direct-to-device (D2D) satellite coverage that turns your everyday smartphone into an emergency satellite phone, and highly portable satellite internet options that bring high-speed Wi-Fi straight to your campsite.</p>
-    <p>While finding a standard cell signal with a top-tier provider like Verizon or T-Mobile is still great (and we've mapped out the best terrestrial coverage spots in your favorite parks below), you now have incredibly powerful backups. Whether you're a weekend hiker wanting the safety of satellite SOS in a dead zone or a full-time RVer looking to stream movies under the stars, here is everything you need to know about staying connected in the wild.</p>
-  </body>
-</html></div>]]></content:encoded>
-            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2025/03/iStock-186914927-e1779404284709.webp" />
             <snf:analytics><![CDATA[
                 <script>
                   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':

@@ -10,6 +10,34 @@
         <snf:logo><url>https://raw.githubusercontent.com/natassiacoelho-cmyk/satellite-internet-smartnews/main/satelliteinternet-logo_smartnews.png</url></snf:logo>
         
         <item>
+            <title>Viasat vs. T-Mobile 5G Home Internet</title>
+            <link>https://www.satelliteinternet.com/resources/viasat-vs-t-mobile-home-internet/</link>
+            <guid>https://www.satelliteinternet.com/resources/viasat-vs-t-mobile-home-internet/</guid>
+            <pubDate>Tue, 16 Jun 2026 16:30:01 +0000</pubDate>
+            <content:encoded><![CDATA[<div><html>
+  <body>
+    <p>Viasat has been a staple of rural internet for years. Thanks to its use of satellites, it doesn’t require any cables or other infrastructure and is available to 99% of the U.S. However, satellite internet has some issues. Namely, it can be expensive and a little slow.</p>
+    <p>Both Viasat and T-Mobile 5G Home Internet are pushing to connect rural America, but they use entirely different technologies to do it. The short answer: If you can get T-Mobile 5G Home Internet, you should. It's faster and cheaper, with less equipment hassle.</p>
+    <p>However, Viasat remains an essential safety net. Because it uses geostationary satellites, it works almost anywhere with a clear view of the Southern sky—making it the go-to for deeply remote areas where cell towers don't reach.</p>
+    <p>How do Viasat and T-Mobile Home Internet compare? In this article, we’ll run through all the details and find out exactly which one is right for you.</p>
+  </body>
+</html></div>]]></content:encoded>
+            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2024/01/Verizon-LTE-Home-Internet-featured.jpg" />
+            <snf:analytics><![CDATA[
+                <script>
+                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                  })(window,document,'script','dataLayer','G-4RNELPQG75');
+                  window.dataLayer = window.dataLayer || [];
+                  function gtag(){dataLayer.push(arguments);}
+                  gtag('js', new Date());
+                  gtag('config', 'G-4RNELPQG75');
+                </script>
+]]></snf:analytics>
+        </item>
+        <item>
             <title>SpaceX Has Gone Public. Here’s What It Actually Means for Your Starlink</title>
             <link>https://www.satelliteinternet.com/resources/spacex-ipo-starlink/</link>
             <guid>https://www.satelliteinternet.com/resources/spacex-ipo-starlink/</guid>
@@ -449,53 +477,6 @@
   </body>
 </html></div>]]></content:encoded>
             <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2020/07/How-to-Troubleshoot-Internet.jpg" />
-            <snf:analytics><![CDATA[
-                <script>
-                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
-                  })(window,document,'script','dataLayer','G-4RNELPQG75');
-                  window.dataLayer = window.dataLayer || [];
-                  function gtag(){dataLayer.push(arguments);}
-                  gtag('js', new Date());
-                  gtag('config', 'G-4RNELPQG75');
-                </script>
-]]></snf:analytics>
-        </item>
-        <item>
-            <title>Starlink 2026 Price Increase: New Costs for Residential and Roam Customers</title>
-            <link>https://www.satelliteinternet.com/resources/starlink-2026-price-increase/</link>
-            <guid>https://www.satelliteinternet.com/resources/starlink-2026-price-increase/</guid>
-            <pubDate>Thu, 28 May 2026 17:03:54 +0000</pubDate>
-            <content:encoded><![CDATA[<div><html>
-  <body>
-    <p>UPDATE: Starlink sent an update to new customers who signed up during one of the promotion periods, clarifying that their promotional pricing will not change. It will revert to the regular pricing after the promotion period.</p>
-    <h1>Starlink 2026 Price Increase: New Costs for Residential and Roam Customers</h1>
-    <graphic src="https://www.satelliteinternet.com/app/uploads/2025/03/unnamed-2-1024x549.webp"/>
-    <p>For the first time in many years, Starlink is increasing the regular price of most of its plans by $5 to $10 per month. | Image by Starlink</p>
-    <p>Over the past year, Starlink has aggressively discounted its services, making its low-latency satellite internet the most affordable it's ever been. So, it's a surprise that the provider has seemingly reversed course and hit both current and new customers with price increases across nearly all of its plans.</p>
-    <p>Starlink will increase both its Residential and Roam plans, with its cheapest Residential 100 Mbps plan going from $50 to $55 per month and its Residential MAX going from $120 to $130 per month. That's an extra $120 per year for those with the favored MAX plan.</p>
-    <h2>What's the new monthly pricing?</h2>
-    <ul>
-      <li>Residential MAX: $120 → $130</li>
-      <li>Residential 200 Mbps: $80 → $85</li>
-      <li>Residential 100 Mbps: $50 → $55</li>
-      <li>Standby Mode: $5 → $10</li>
-      <li>Roam Unlimited $165 → $175</li>
-      <li>Roam 300GB $80→ $80</li>
-      <li>Roam 100GB $50 → $155</li>
-    </ul>
-    <p>The new pricing affects not only new customers signing up, but also current customers, starting with their June 2026 billing date. Customers with inactive accounts will also need to start with the new pricing if they choose to reactivate.</p>
-    <h2>Why the sudden pricing change?</h2>
-    <p>Customers shared an email from Starlink explaining the price change, which left most users dismayed.</p>
-    <p>"Starlink is rapidly increasing network capacity, expanding coverage, and improving reliability to deliver faster, more consistent connectivity for our customers," the email reads. "Pricing has remained unchanged for most Residential customers for the past several years, and strong demand for Starlink reflects the valued customers continue to see in the service. This adjustment supports ongoing improvements and investment in affordable, high-performance products and services as global operating costs continue to rise."</p>
-    <p>Starlink is far from the only ISP that's raised prices, citing rising operational costs and the economic environment, and it's true that the price for its plans, namely the Residential MAX and Roam Unlimited, have remained unchanged for multiple years.</p>
-    <p>SatelliteInternet.com has noted that the lower 100 Mbps and 200 Mbps plans have become more widely available, likely in an attempt to retain customers turned off by the new pricing for the MAX plan.</p>
-    <p>With Starlink continuing its march toward its lofty ambitions, including the development and testing of its Starship spacecraft, more of its next-generation satellites, orbital data center plans, and what's said to be the largest IPO in history, it makes sense that SpaceX would want to increase revenue to invest in these endeavors.</p>
-  </body>
-</html></div>]]></content:encoded>
-            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2025/03/unnamed-2.webp" />
             <snf:analytics><![CDATA[
                 <script>
                   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':

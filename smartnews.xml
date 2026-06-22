@@ -10,6 +10,33 @@
         <snf:logo><url>https://raw.githubusercontent.com/natassiacoelho-cmyk/satellite-internet-smartnews/main/satelliteinternet-logo_smartnews.png</url></snf:logo>
         
         <item>
+            <title>2026 RV Connectivity Report: Survey Reveals Surprising Mobile Internet Trends on the Road</title>
+            <link>https://www.satelliteinternet.com/resources/rv-connectivity-report-survey-mobile-internet-trends/</link>
+            <guid>https://www.satelliteinternet.com/resources/rv-connectivity-report-survey-mobile-internet-trends/</guid>
+            <pubDate>Mon, 22 Jun 2026 17:45:41 +0000</pubDate>
+            <content:encoded><![CDATA[<div><html>
+  <body>
+    <p>Getting away from the city and exploring the beautiful, rugged places of the U.S. has long been a national pastime. Whether in an RV, a van, or a tent, camping used to mean becoming completely disconnected from most of the world, but now it's become easier than ever to bring the World Wide Web along for the ride. Now more than ever, it's become harder to disconnect, whether for reasons of safety or entertainment.</p>
+    <p>So how are campers connecting, why are they connecting, and what are the biggest obstacles for those who wish to stay connected? We examine the different types of traveling internet users, including weekend warriors, seasonal RVers, and even those living the nomadic lifestyle.</p>
+    <p>It's clear that the safety/emergency use case is loud and consistent. Unprompted, dozens of respondents mentioned the internet primarily as a safety tool — not entertainment. Phrases like "dead zones are scary," "it's for emergencies," and "some places where safety is not guaranteed," were common among respondents.</p>
+  </body>
+</html></div>]]></content:encoded>
+            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2026/06/featured-image.webp" />
+            <snf:analytics><![CDATA[
+                <script>
+                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                  })(window,document,'script','dataLayer','G-4RNELPQG75');
+                  window.dataLayer = window.dataLayer || [];
+                  function gtag(){dataLayer.push(arguments);}
+                  gtag('js', new Date());
+                  gtag('config', 'G-4RNELPQG75');
+                </script>
+]]></snf:analytics>
+        </item>
+        <item>
             <title>Starlink vs. Fiber: Which is Better for Your Home in 2026?</title>
             <link>https://www.satelliteinternet.com/resources/starlink-vs-fiber/</link>
             <guid>https://www.satelliteinternet.com/resources/starlink-vs-fiber/</guid>
@@ -445,32 +472,6 @@
   </body>
 </html></div>]]></content:encoded>
             <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2025/04/PXL_20250430_215224398.NIGHT-EDIT-e1747864917179.webp" />
-            <snf:analytics><![CDATA[
-                <script>
-                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
-                  })(window,document,'script','dataLayer','G-4RNELPQG75');
-                  window.dataLayer = window.dataLayer || [];
-                  function gtag(){dataLayer.push(arguments);}
-                  gtag('js', new Date());
-                  gtag('config', 'G-4RNELPQG75');
-                </script>
-]]></snf:analytics>
-        </item>
-        <item>
-            <title>Blue Origin Explosion Upends Launch Strategy for Amazon Leo</title>
-            <link>https://www.satelliteinternet.com/resources/blue-origin-explosion-amazon-leo-delays/</link>
-            <guid>https://www.satelliteinternet.com/resources/blue-origin-explosion-amazon-leo-delays/</guid>
-            <pubDate>Wed, 03 Jun 2026 16:55:45 +0000</pubDate>
-            <content:encoded><![CDATA[<div><html>
-  <body>
-    <p><a href="https://www.satelliteinternet.com/providers/amazon-leo/">Amazon Leo</a> faces a major setback after the unexpected explosion of Blue Origin's New Glenn rocket on May 28 during a static test fire at its Florida launch pad. Blue Origin is calling the incident an anomaly. Still, the New Glenn is likely grounded for an extended period while a thorough investigation is conducted and the launch pad, which was severely damaged, is rebuilt. </p>
-    <p>It's a setback for all space companies expecting to launch their satellites on the New Glenn, but especially for Amazon Leo, which had planned to launch its low-Earth orbit satellites on 24 Blue Origin flights over the next couple of years. The New Glenn can carry 48 Amazon Leo satellites, bringing the total to 1,152, which will need another means of getting to space.</p>
-  </body>
-</html></div>]]></content:encoded>
-            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2026/06/HJVyH6UXIAYyidw-e1780506876590.webp" />
             <snf:analytics><![CDATA[
                 <script>
                   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':

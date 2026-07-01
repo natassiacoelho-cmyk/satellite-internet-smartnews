@@ -10,6 +10,41 @@
         <snf:logo><url>https://raw.githubusercontent.com/natassiacoelho-cmyk/satellite-internet-smartnews/main/satelliteinternet-logo_smartnews.png</url></snf:logo>
         
         <item>
+            <title>SpaceX Brings Huge Starlink Discounts to Memphis Amid Data Center Controversy</title>
+            <link>https://www.satelliteinternet.com/resources/starlink-discount-memphis-data-center/</link>
+            <guid>https://www.satelliteinternet.com/resources/starlink-discount-memphis-data-center/</guid>
+            <pubDate>Wed, 01 Jul 2026 22:35:48 +0000</pubDate>
+            <content:encoded><![CDATA[<div><html>
+  <body>
+    <p>Live in Memphis, Tennessee, or Southaven, Mississippi? <a href="https://www.satelliteinternet.com/providers/starlink/">Interested in Starlink</a>? You can now get a free dish and half-off residential plans, courtesy of SpaceX. Current Starlink customers in the region will have this discount automatically applied to their accounts. This only applies to home internet, not to Starlink Roam plans. </p>
+    <h1>SpaceX Brings Huge Starlink Discounts to Memphis Amid Data Center Controversy</h1>
+    <graphic src="https://www.satelliteinternet.com/app/uploads/2026/07/MemphisCommunityDiscount-1024x576.webp"/>
+    <p>Residents of Memphis, Tenn., and Southaven, Miss., in the highlighted region qualify for a free Starlink kit and a discounted internet plan. | Image by Amazon</p>
+    <h2>Why a discount for Memphis and Southaven?</h2>
+    <p><a href="https://x.com/xAIMemphis/status/2072009696119022017">XAI Memphis' X account</a> announced the surprise promotion. There was no specific reason given for the deal except "As SpaceX continues to invest in the area, SpaceX is offering our neighbors in the Memphis area no upfront hardware costs on Residential Starlink kits for new customers and a discount on home internet service plans for both new and existing customers."</p>
+    <p>Memphis and Southaven are home to xAI's Colossus data centers, which are now all part of SpaceX. The discount could be considered a form of synergy between the two newly merged companies. The incentive comes at a time when data centers across the country are facing scrutiny from neighboring communities that criticize the space they occupy and the noise and pollution from on-site generators. xAI is facing a lawsuit from the <a href="https://www.selc.org/press-release/civil-rights-group-sues-xai-for-illegal-pollution-from-data-center-power-plant/">Southern Environmental Law Center (SELC)</a>, which claims that its data centers' gas-powered turbines violate the law. </p>
+    <p>While Starlink is typically marketed for rural areas with few internet options, this discount applies to a metropolitan area with several options, including fiber. It's not hard to perceive the special discount for Memphis residents as an attempt to build goodwill toward the community.</p>
+    <h2>How does the Starlink discount work?</h2>
+    <p>The discount is automatically applied at checkout on the website to the purchase of a new Starlink kit with a monthly plan. The discount is said to apply to the next bill for current customers, according to Starlink. <a href="https://starlink.com/support/article/7030ecc8-fae9-8765-bc27-51d0bd88e51a?srsltid=AfmBOorltljhdCgdRygSP8TgU1aYraQMf5-GrnRzZEsptbYIIUKY9C1Y">A support page</a> doesn't indicate how long the promotion will be available or whether the discount is limited-time or permanent. </p>
+    <p>Keep in mind the restrictions for the promotion. The discount is location-locked, so you'll be unable to simply order a free Starlink in the discount region and take it elsewhere. If it's activated at a different address, you'll be billed the full amount by Starlink.</p>
+  </body>
+</html></div>]]></content:encoded>
+            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2026/07/MemphisCommunityDiscount.webp" />
+            <snf:analytics><![CDATA[
+                <script>
+                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                  })(window,document,'script','dataLayer','G-4RNELPQG75');
+                  window.dataLayer = window.dataLayer || [];
+                  function gtag(){dataLayer.push(arguments);}
+                  gtag('js', new Date());
+                  gtag('config', 'G-4RNELPQG75');
+                </script>
+]]></snf:analytics>
+        </item>
+        <item>
             <title>Starlink Mobile: Everything We Know About SpaceX’s Satellite Cell Service</title>
             <link>https://www.satelliteinternet.com/resources/starlink-mobile/</link>
             <guid>https://www.satelliteinternet.com/resources/starlink-mobile/</guid>
@@ -330,33 +365,6 @@
   </body>
 </html></div>]]></content:encoded>
             <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2024/12/IMG_9548-copy.webp" />
-            <snf:analytics><![CDATA[
-                <script>
-                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
-                  })(window,document,'script','dataLayer','G-4RNELPQG75');
-                  window.dataLayer = window.dataLayer || [];
-                  function gtag(){dataLayer.push(arguments);}
-                  gtag('js', new Date());
-                  gtag('config', 'G-4RNELPQG75');
-                </script>
-]]></snf:analytics>
-        </item>
-        <item>
-            <title>Starlink Confirms Next-Generation Dishes are Launching Soon</title>
-            <link>https://www.satelliteinternet.com/resources/new-starlink-mini/</link>
-            <guid>https://www.satelliteinternet.com/resources/new-starlink-mini/</guid>
-            <pubDate>Tue, 09 Jun 2026 15:29:00 +0000</pubDate>
-            <content:encoded><![CDATA[<div><html>
-  <body>
-    <p>SpaceX has confirmed a new set of next-generation Starlink dishes, which are expected to launch soon. <a href="https://x.com/SpaceX/status/2064099405758906727">In a presentation featuring SpaceX CEO Elon Musk</a>, he confirmed that they are ramping up production of new satellite terminals, which he showed off. The dishes look much smaller and more portable, with one resembling the Standard dish but smaller. </p>
-    <p>Starlink may have left breadcrumbs revealing features of a new <a href="https://www.satelliteinternet.com/providers/starlink/starlink-mini-review/">Mini dish</a>, including a built-in battery and a more versatile way to power/charge it. According to a <a href="https://www.pcmag.com/news/firmware-hints-at-new-starlink-dish-with-built-in-battery-usb-c-port">PCMag</a> report citing a computer science research team, a recent Starlink firmware update reveals new code hinting at upcoming features. The research team points out that the new code indicates the presence of battery and USB-C power sources. <br/>If this rumored product is released this summer, it would be two years since the original Starlink Mini's release, which immediately exploded in popularity among travelers, RVers, and campers demanding a high-speed internet solution.</p>
-    <p>Musk didn't reveal any concrete details about the upcoming products, such as price or rumored features, but as SpaceX prepares for a massive IPO this summer, it seems like the right time for new versions to hype up both customers and investors.</p>
-  </body>
-</html></div>]]></content:encoded>
-            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2025/05/roam_c_casestudy_travel_2.webp" />
             <snf:analytics><![CDATA[
                 <script>
                   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':

@@ -10,6 +10,45 @@
         <snf:logo><url>https://raw.githubusercontent.com/natassiacoelho-cmyk/satellite-internet-smartnews/main/satelliteinternet-logo_smartnews.png</url></snf:logo>
         
         <item>
+            <title>Starlink V5 Specs Revealed: What to Expect from the Newest Dish</title>
+            <link>https://www.satelliteinternet.com/resources/starlink-v5-dish/</link>
+            <guid>https://www.satelliteinternet.com/resources/starlink-v5-dish/</guid>
+            <pubDate>Tue, 14 Jul 2026 20:48:11 +0000</pubDate>
+            <content:encoded><![CDATA[<div><html>
+  <body>
+    <p>The new V5 dish may also be followed soon by a new Starlink Mini model.</p>
+    <h1>Starlink V5 Specs Revealed: What to Expect from the Newest Dish</h1>
+    <graphic src="https://www.satelliteinternet.com/app/uploads/2026/07/Starlink_Standard_4_5_Comparison-1024x576.webp"/>
+    <p>The Standard V4 Starlink dish (left) compared to the newly announced V5 dish (right). The smaller dish is more energy efficient and may replace the V4 and the primary residential equipment for Starlink customers. | Image by Starlink</p>
+    <p>Starlink has released the newest version of its satellite internet equipment, dubbed the Starlink V5. The fifth generation of its personal terminals is significantly smaller, lighter, and more power-efficient. <a href="https://www.satelliteinternet.com/resources/new-starlink-mini/">We got a sneak peek</a> of the dish at a Starlink event hosted by CEO Elon Musk, where he showed off two new dishes, one of which is the V5. </p>
+    <h2>What to expect from the Starlink V5</h2>
+    <p>At nearly half the size of the preceding <a href="https://www.satelliteinternet.com/resources/starlink-standard-vs-mini/">V4 dish and slightly bigger than the Starlink Mini</a>, it's even more portable and easier to set up on your own. Its dimensions are 15.12 in by 12.05 in, and it weighs 2.4 lbs. However, according to available specifications, the trade-offs are slightly slower speeds and the loss of in-motion usage. </p>
+    <p>Peak download speed is up to 375 Mbps, compared to the 400+ Mbps the V4 is rated for. This is likely due to reduced power consumption. If the V5 is to be the new standard dish for residential use, it's likely cheaper for Starlink to manufacture, which has been attempting to raise revenue since its summer IPO.</p>
+    <p>The V5 dish is bundled with a pipe adapter for home installation and the Starlink Router Mini, which is less powerful than the standard Gen 3 router, but also smaller. It's currently available in select areas, but will get a wider release as more are manufactured, according to Starlink. While it's listed as currently available, no pricing for this dish without the rental option has been confirmed. <a href="http://satelliteinternet.com">SatelliteInternet.com</a> will update this once it's confirmed.</p>
+    <p>To see if the new Starlink V5 is available for purchase in your area, check your address with Starlink below. It may also be available to rent for $10 per month.</p>
+    <p>Top speeds not guaranteed during peak hours<br/>*Plan not available in all regions</p>
+    <h2>What to know about the rumored battery-powered Starlink Mini</h2>
+    <p>The V5 dish may not be the only upcoming product. Starlink has left breadcrumbs revealing a massive upgrade to its ultra-portable internet solution: <a href="https://www.satelliteinternet.com/providers/starlink/starlink-mini-review/">a new Mini dish</a> featuring a built-in battery and USB-C power support. Based on recent firmware code spotted by a computer science research team, SpaceX appears to be developing a truly wireless version of its popular travel dish.</p>
+    <p>If released, a built-in battery would be a game-changer for off-grid users, bypassing the current model's biggest pain point: power. Right now, taking the Mini off the grid requires a specialized 100W portable power bank with an exact 20V/5A output and an official 16-foot USB-C cable just to maintain a stable connection. A self-contained unit would eliminate external batteries and dangling cables, making it the ultimate tool for hikers, RVers, and backcountry campers.</p>
+    <p>While Starlink hasn't officially announced the new dish, the company is notorious for quietly dropping updates and immediately putting them on sale. If it hits the market, the main factor determining its success will be how long a fully charged battery lasts in the wild.</p>
+  </body>
+</html></div>]]></content:encoded>
+            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2026/07/Starlink_Standard_4_5_Comparison.webp" />
+            <snf:analytics><![CDATA[
+                <script>
+                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                  })(window,document,'script','dataLayer','G-4RNELPQG75');
+                  window.dataLayer = window.dataLayer || [];
+                  function gtag(){dataLayer.push(arguments);}
+                  gtag('js', new Date());
+                  gtag('config', 'G-4RNELPQG75');
+                </script>
+]]></snf:analytics>
+        </item>
+        <item>
             <title>Starlink Confirms Next-Generation Dishes are Launching Soon</title>
             <link>https://www.satelliteinternet.com/resources/new-starlink-mini/</link>
             <guid>https://www.satelliteinternet.com/resources/new-starlink-mini/</guid>
@@ -394,32 +433,6 @@
   </body>
 </html></div>]]></content:encoded>
             <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2024/01/Verizon-LTE-Home-Internet-featured.jpg" />
-            <snf:analytics><![CDATA[
-                <script>
-                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
-                  })(window,document,'script','dataLayer','G-4RNELPQG75');
-                  window.dataLayer = window.dataLayer || [];
-                  function gtag(){dataLayer.push(arguments);}
-                  gtag('js', new Date());
-                  gtag('config', 'G-4RNELPQG75');
-                </script>
-]]></snf:analytics>
-        </item>
-        <item>
-            <title>SpaceX Has Gone Public. Here’s What It Actually Means for Your Starlink</title>
-            <link>https://www.satelliteinternet.com/resources/spacex-ipo-starlink/</link>
-            <guid>https://www.satelliteinternet.com/resources/spacex-ipo-starlink/</guid>
-            <pubDate>Fri, 12 Jun 2026 15:19:02 +0000</pubDate>
-            <content:encoded><![CDATA[<div><html>
-  <body>
-    <p>After months of anticipation, SpaceX, parent company of Starlink, is publicly traded. Its initial public offering (IPO) debuted Friday, priced at $135 per share, so now just about anyone can own a piece of the rocket, satellite, defense, and AI giant. At a $1.75 trillion valuation, it's reportedly the largest IPO in history, fueling the company's many lofty ambitions.</p>
-    <p>The change from privately owned to public means alot for the aerospace and AI industries, but what it means for current Starlink customers and shoppers is not as clear. However, the company's business plan may hide the roadmap. It's also clear that nothing is going to change for customers in the immediate future.</p>
-  </body>
-</html></div>]]></content:encoded>
-            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2026/06/HKntRzXXoAAHxUG-e1781277630832.webp" />
             <snf:analytics><![CDATA[
                 <script>
                   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':

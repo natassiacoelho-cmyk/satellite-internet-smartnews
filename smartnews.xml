@@ -49,6 +49,32 @@
 ]]></snf:analytics>
         </item>
         <item>
+            <title>Starlink Mini vs. Standard (2026): Price, Speed &amp; Which to Buy</title>
+            <link>https://www.satelliteinternet.com/resources/starlink-standard-vs-mini/</link>
+            <guid>https://www.satelliteinternet.com/resources/starlink-standard-vs-mini/</guid>
+            <pubDate>Tue, 14 Jul 2026 17:19:49 +0000</pubDate>
+            <content:encoded><![CDATA[<div><html>
+  <body>
+    <p><a href="https://www.satelliteinternet.com/resources/starlink-mini-review/">The Starlink Mini</a> is SpaceX's <a href="https://www.satelliteinternet.com/resources/starlink-satellite-dish/">satellite internet dish</a>, engineered to be lightweight and portable. Released in early 2024, the Starlink Mini is about half the size of the Standard and much lighter. It's engineered to be as portable as possible, making it easy to take on the go.  </p>
+    <p>The <a href="https://www.satelliteinternet.com/providers/starlink/">Starlink Standard</a> kit is actually the third iteration of the <a href="https://www.satelliteinternet.com/resources/starlink-vs-hughesnet-vs-viasat/">satellite internet provider's</a> hardware. It replaced the Standard Actuated kit with a more straightforward design that doesn't require the motorized stand. It is larger and more powerful than the Mini, designed to achieve higher speeds in stationary use. The Starlink Mini is ideal for portability and can be used on the go, but it's more expensive and less powerful than the Standard. In this guide, we'll break down all the key differences between the Starlink Standard and the Starlink Mini. </p>
+  </body>
+</html></div>]]></content:encoded>
+            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2024/12/IMG_9931-copy.webp" />
+            <snf:analytics><![CDATA[
+                <script>
+                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                  })(window,document,'script','dataLayer','G-4RNELPQG75');
+                  window.dataLayer = window.dataLayer || [];
+                  function gtag(){dataLayer.push(arguments);}
+                  gtag('js', new Date());
+                  gtag('config', 'G-4RNELPQG75');
+                </script>
+]]></snf:analytics>
+        </item>
+        <item>
             <title>Starlink Confirms Next-Generation Dishes are Launching Soon</title>
             <link>https://www.satelliteinternet.com/resources/new-starlink-mini/</link>
             <guid>https://www.satelliteinternet.com/resources/new-starlink-mini/</guid>
@@ -405,34 +431,6 @@
   </body>
 </html></div>]]></content:encoded>
             <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2024/11/si-starlink-vs-viasat.webp" />
-            <snf:analytics><![CDATA[
-                <script>
-                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
-                  })(window,document,'script','dataLayer','G-4RNELPQG75');
-                  window.dataLayer = window.dataLayer || [];
-                  function gtag(){dataLayer.push(arguments);}
-                  gtag('js', new Date());
-                  gtag('config', 'G-4RNELPQG75');
-                </script>
-]]></snf:analytics>
-        </item>
-        <item>
-            <title>Viasat vs. T-Mobile 5G Home Internet</title>
-            <link>https://www.satelliteinternet.com/resources/viasat-vs-t-mobile-home-internet/</link>
-            <guid>https://www.satelliteinternet.com/resources/viasat-vs-t-mobile-home-internet/</guid>
-            <pubDate>Tue, 16 Jun 2026 16:30:01 +0000</pubDate>
-            <content:encoded><![CDATA[<div><html>
-  <body>
-    <p>Viasat has been a staple of rural internet for years. Thanks to its use of satellites, it doesn’t require any cables or other infrastructure and is available to 99% of the U.S. However, satellite internet has some issues. Namely, it can be expensive and a little slow.</p>
-    <p>Both Viasat and T-Mobile 5G Home Internet are pushing to connect rural America, but they use entirely different technologies to do it. The short answer: If you can get T-Mobile 5G Home Internet, you should. It's faster and cheaper, with less equipment hassle.</p>
-    <p>However, Viasat remains an essential safety net. Because it uses geostationary satellites, it works almost anywhere with a clear view of the Southern sky—making it the go-to for deeply remote areas where cell towers don't reach.</p>
-    <p>How do Viasat and T-Mobile Home Internet compare? In this article, we’ll run through all the details and find out exactly which one is right for you.</p>
-  </body>
-</html></div>]]></content:encoded>
-            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2024/01/Verizon-LTE-Home-Internet-featured.jpg" />
             <snf:analytics><![CDATA[
                 <script>
                   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':

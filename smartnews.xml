@@ -10,6 +10,33 @@
         <snf:logo><url>https://raw.githubusercontent.com/natassiacoelho-cmyk/satellite-internet-smartnews/main/satelliteinternet-logo_smartnews.png</url></snf:logo>
         
         <item>
+            <title>Starlink Confirms Next-Generation Dishes are Launching Soon</title>
+            <link>https://www.satelliteinternet.com/resources/new-starlink-mini/</link>
+            <guid>https://www.satelliteinternet.com/resources/new-starlink-mini/</guid>
+            <pubDate>Tue, 14 Jul 2026 15:29:00 +0000</pubDate>
+            <content:encoded><![CDATA[<div><html>
+  <body>
+    <p>SpaceX has confirmed a new set of next-generation Starlink dishes, which are expected to launch soon. <a href="https://x.com/SpaceX/status/2064099405758906727">In a presentation featuring SpaceX CEO Elon Musk</a>, he confirmed that they are ramping up production of new satellite terminals, which he showed off. The dishes look much smaller and more portable, with one resembling the Standard dish but smaller. </p>
+    <p>Starlink may have left breadcrumbs revealing features of a new <a href="https://www.satelliteinternet.com/providers/starlink/starlink-mini-review/">Mini dish</a>, including a built-in battery and a more versatile way to power/charge it. According to a <a href="https://www.pcmag.com/news/firmware-hints-at-new-starlink-dish-with-built-in-battery-usb-c-port">PCMag</a> report citing a computer science research team, a recent Starlink firmware update reveals new code hinting at upcoming features. The research team points out that the new code indicates the presence of battery and USB-C power sources. <br/>If this rumored product is released this summer, it would be two years since the original Starlink Mini's release, which immediately exploded in popularity among travelers, RVers, and campers demanding a high-speed internet solution.</p>
+    <p>Musk didn't reveal any concrete details about the upcoming products, such as price or rumored features, but as SpaceX prepares for a massive IPO this summer, it seems like the right time for new versions to hype up both customers and investors.</p>
+  </body>
+</html></div>]]></content:encoded>
+            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2025/05/roam_c_casestudy_travel_2.webp" />
+            <snf:analytics><![CDATA[
+                <script>
+                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                  })(window,document,'script','dataLayer','G-4RNELPQG75');
+                  window.dataLayer = window.dataLayer || [];
+                  function gtag(){dataLayer.push(arguments);}
+                  gtag('js', new Date());
+                  gtag('config', 'G-4RNELPQG75');
+                </script>
+]]></snf:analytics>
+        </item>
+        <item>
             <title>Can You Use Starlink Mini While Driving? We Tested It</title>
             <link>https://www.satelliteinternet.com/resources/starlink-mini-while-driving/</link>
             <guid>https://www.satelliteinternet.com/resources/starlink-mini-while-driving/</guid>
@@ -393,32 +420,6 @@
   </body>
 </html></div>]]></content:encoded>
             <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2026/06/HKntRzXXoAAHxUG-e1781277630832.webp" />
-            <snf:analytics><![CDATA[
-                <script>
-                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
-                  })(window,document,'script','dataLayer','G-4RNELPQG75');
-                  window.dataLayer = window.dataLayer || [];
-                  function gtag(){dataLayer.push(arguments);}
-                  gtag('js', new Date());
-                  gtag('config', 'G-4RNELPQG75');
-                </script>
-]]></snf:analytics>
-        </item>
-        <item>
-            <title>Starlink Professional Installations: Price and Availability</title>
-            <link>https://www.satelliteinternet.com/resources/starlink-professional-installation-available/</link>
-            <guid>https://www.satelliteinternet.com/resources/starlink-professional-installation-available/</guid>
-            <pubDate>Thu, 11 Jun 2026 18:00:58 +0000</pubDate>
-            <content:encoded><![CDATA[<div><html>
-  <body>
-    <p><a href="https://www.satelliteinternet.com/providers/starlink/">Starlink</a> has long been known as a completely self-installed internet service. All you need is the equipment and the mobile app to set up the dish and connect to the internet. Starlink is designed so you can set it up outside and get online out of the box, but if you're looking for a more permanent, rooftop installation, things get a bit more complicated.</p>
-    <p>Rooftop setups require specific mounts, cable routing, and tools. If you're hesitant to drill holes in your walls or climb up on your roof for safety reasons, you're not alone. The good news is that Starlink now offers professional installation across the United States through a third-party.</p>
-  </body>
-</html></div>]]></content:encoded>
-            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2025/06/Screenshot-2025-06-18-143142.webp" />
             <snf:analytics><![CDATA[
                 <script>
                   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':

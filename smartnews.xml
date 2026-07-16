@@ -10,6 +10,33 @@
         <snf:logo><url>https://raw.githubusercontent.com/natassiacoelho-cmyk/satellite-internet-smartnews/main/satelliteinternet-logo_smartnews.png</url></snf:logo>
         
         <item>
+            <title>Can I Travel Internationally With Starlink? Roam’s New 2026 Travel Policy Explained</title>
+            <link>https://www.satelliteinternet.com/resources/starlink-roam-international-travel-policy/</link>
+            <guid>https://www.satelliteinternet.com/resources/starlink-roam-international-travel-policy/</guid>
+            <pubDate>Thu, 16 Jul 2026 22:42:02 +0000</pubDate>
+            <content:encoded><![CDATA[<div><html>
+  <body>
+    <p><a href="https://www.satelliteinternet.com/providers/starlink/starlink-roam-review/">Starlink Roam</a> is one of the most versatile ways to get high-speed internet nearly anywhere in the world, but its limitations since launch have been unclear and inconsistent. Starlink has cemented its Roam policy for international travel, so this is our guide for what you can and cannot do when traveling abroad with Starlink.</p>
+    <p>The most important things to know are that only the Roam Unlimited plan supports international travel, that there is a 30-day limit on usage outside your home country, and that a new identity verification is required.</p>
+    <p>This policy is effective immediately for new customers and will go into effect for existing customers on August 17, 2026.</p>
+  </body>
+</html></div>]]></content:encoded>
+            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2025/09/si-starlink-mini-at-beach-featured.webp" />
+            <snf:analytics><![CDATA[
+                <script>
+                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                  })(window,document,'script','dataLayer','G-4RNELPQG75');
+                  window.dataLayer = window.dataLayer || [];
+                  function gtag(){dataLayer.push(arguments);}
+                  gtag('js', new Date());
+                  gtag('config', 'G-4RNELPQG75');
+                </script>
+]]></snf:analytics>
+        </item>
+        <item>
             <title>Starlink V5 Has Arrived. Here’s How to Get The Newest Dish</title>
             <link>https://www.satelliteinternet.com/resources/starlink-v5-dish/</link>
             <guid>https://www.satelliteinternet.com/resources/starlink-v5-dish/</guid>
@@ -404,34 +431,6 @@
   </body>
 </html></div>]]></content:encoded>
             <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2025/06/Screenshot-2025-06-18-143142.webp" />
-            <snf:analytics><![CDATA[
-                <script>
-                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
-                  })(window,document,'script','dataLayer','G-4RNELPQG75');
-                  window.dataLayer = window.dataLayer || [];
-                  function gtag(){dataLayer.push(arguments);}
-                  gtag('js', new Date());
-                  gtag('config', 'G-4RNELPQG75');
-                </script>
-]]></snf:analytics>
-        </item>
-        <item>
-            <title>Starlink vs. Viasat: How Do LEO and GEO Satellite Internet Compare?</title>
-            <link>https://www.satelliteinternet.com/resources/starlink-vs-viasat/</link>
-            <guid>https://www.satelliteinternet.com/resources/starlink-vs-viasat/</guid>
-            <pubDate>Thu, 18 Jun 2026 16:00:05 +0000</pubDate>
-            <content:encoded><![CDATA[<div><html>
-  <body>
-    <p>Starlink and Viasat will be at the top of your search if you're trying to choose a satellite internet provider. While Starlink is the frontrunner for speed and convenience, Viasat may be a more affordable option with decent speeds. I found this out myself after using both providers for several months. I also interviewed several current and former customers.</p>
-    <p>Starlink offers the fastest speeds and lowest latency among all satellite ISPs. However, Starlink's hands-off support approach may turn off some customers, and you have to pay extra upfront for Starlink hardware.</p>
-    <p>Viasat has flexible plans for budget-conscious, low-usage customers and for those who need unlimited data and high download speeds. While Viasat has download speeds on par with most providers, it's held back by the high latency inherent in its satellite technology and higher monthly price.</p>
-    <p>I tested Starlink and Viasat at my family cabin in rural Utah to compare the satellite internet providers. What I found was surprising.</p>
-  </body>
-</html></div>]]></content:encoded>
-            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2024/11/si-starlink-vs-viasat.webp" />
             <snf:analytics><![CDATA[
                 <script>
                   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':

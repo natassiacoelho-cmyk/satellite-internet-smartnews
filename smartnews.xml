@@ -10,6 +10,58 @@
         <snf:logo><url>https://raw.githubusercontent.com/natassiacoelho-cmyk/satellite-internet-smartnews/main/satelliteinternet-logo_smartnews.png</url></snf:logo>
         
         <item>
+            <title>Starlink Mini vs. Standard (2026): Price, Speed &amp; Which to Buy</title>
+            <link>https://www.satelliteinternet.com/resources/starlink-standard-vs-mini/</link>
+            <guid>https://www.satelliteinternet.com/resources/starlink-standard-vs-mini/</guid>
+            <pubDate>Tue, 21 Jul 2026 17:19:49 +0000</pubDate>
+            <content:encoded><![CDATA[<div><html>
+  <body>
+    <p><a href="https://www.satelliteinternet.com/resources/starlink-mini-review/">The Starlink Mini</a> is SpaceX's <a href="https://www.satelliteinternet.com/resources/starlink-satellite-dish/">satellite internet dish</a>, engineered to be lightweight and portable. Released in early 2024, the Starlink Mini is about half the size of the Standard and much lighter. It's engineered to be as portable as possible, making it easy to take on the go.  </p>
+    <p>The <a href="https://www.satelliteinternet.com/providers/starlink/">Starlink Standard</a> kit is actually the third iteration of the <a href="https://www.satelliteinternet.com/resources/starlink-vs-hughesnet-vs-viasat/">satellite internet provider's</a> hardware. It replaced the Standard Actuated kit with a more straightforward design that doesn't require the motorized stand. It is larger and more powerful than the Mini, designed to achieve higher speeds in stationary use. The Starlink Mini is ideal for portability and can be used on the go, but it's more expensive and less powerful than the Standard. In this guide, we'll break down all the key differences between the Starlink Standard and the Starlink Mini. </p>
+  </body>
+</html></div>]]></content:encoded>
+            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2024/12/IMG_9931-copy.webp" />
+            <snf:analytics><![CDATA[
+                <script>
+                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                  })(window,document,'script','dataLayer','G-4RNELPQG75');
+                  window.dataLayer = window.dataLayer || [];
+                  function gtag(){dataLayer.push(arguments);}
+                  gtag('js', new Date());
+                  gtag('config', 'G-4RNELPQG75');
+                </script>
+]]></snf:analytics>
+        </item>
+        <item>
+            <title>Starlink Satellite Dish Guide: What Dish Do I Have?</title>
+            <link>https://www.satelliteinternet.com/resources/starlink-satellite-dish/</link>
+            <guid>https://www.satelliteinternet.com/resources/starlink-satellite-dish/</guid>
+            <pubDate>Tue, 21 Jul 2026 16:00:10 +0000</pubDate>
+            <content:encoded><![CDATA[<div><html>
+  <body>
+    <p><a href="https://www.satelliteinternet.com/providers/starlink/">Starlink</a> hardware comes in several variations, so it can sometimes be confusing when you’re interested in signing up but don’t know what equipment you need for your specific use case. We’ll discuss the different plans we recommend for what dishes. Brand-new Starlink kits are expensive, so you need to be sure you’re getting the right one. However, there are also many aftermarket kits for sale that are older models and will serve your needs while saving you money. </p>
+    <p>We’ll explain what Starlink kits are available, how to tell them apart, and which are best suited for all use cases.</p>
+  </body>
+</html></div>]]></content:encoded>
+            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2023/08/Starlink-Mobility-Review-featured.jpg" />
+            <snf:analytics><![CDATA[
+                <script>
+                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                  })(window,document,'script','dataLayer','G-4RNELPQG75');
+                  window.dataLayer = window.dataLayer || [];
+                  function gtag(){dataLayer.push(arguments);}
+                  gtag('js', new Date());
+                  gtag('config', 'G-4RNELPQG75');
+                </script>
+]]></snf:analytics>
+        </item>
+        <item>
             <title>Starlink Changes Course With Rentals Going Back to $0</title>
             <link>https://www.satelliteinternet.com/resources/starlink-rental/</link>
             <guid>https://www.satelliteinternet.com/resources/starlink-rental/</guid>
@@ -84,7 +136,7 @@
     <graphic src="https://www.satelliteinternet.com/app/uploads/2026/07/Starlink_Standard_4_5_Comparison-1024x576.webp"/>
     <p>The Standard V4 Starlink dish (left) compared to the newly announced V5 dish (right). The smaller dish is more energy efficient for Starlink customers on a lower-speed plan. | Image by Starlink</p>
     <p>Starlink has released the newest version of its satellite internet equipment, dubbed the Starlink V5. The fifth generation of its personal terminals is significantly smaller, lighter, and more power-efficient. <a href="https://www.satelliteinternet.com/resources/new-starlink-mini/">We got a sneak peek</a> of the dish at a Starlink event hosted by CEO Elon Musk, where he showed off two new dishes, one of which is the V5. </p>
-    <p>The dish is available for rental in select areas on the 100Mbps Residential plan for $10 per month.</p>
+    <p>The dish is available for rental in select areas on the 100Mbps Residential plan ($55/mo.) for no extra cost.</p>
     <h2>What's the difference between Starlink V4 and V5?</h2>
     <p>At nearly half the size of the preceding <a href="https://www.satelliteinternet.com/resources/starlink-standard-vs-mini/">V4 dish and slightly bigger than the Starlink Mini</a>, it's even more portable and easier to set up on your own. Its dimensions are 15.12 in by 12.05 in, and it weighs 2.4 lbs. However, according to available specifications, the trade-offs are slightly slower speeds and the loss of in-motion usage. </p>
     <p>Peak download speed is up to 375 Mbps, compared to the 400+ Mbps the V4 is rated for. This is likely due to reduced power consumption (from 75-100 Watts to 35-50 Watts). If the V5 is to be the new standard dish for residential use, it's likely cheaper for Starlink to manufacture, which has been attempting to raise revenue since its summer IPO.</p>
@@ -98,32 +150,6 @@
   </body>
 </html></div>]]></content:encoded>
             <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2026/07/Starlink_Standard_4_5_Comparison.webp" />
-            <snf:analytics><![CDATA[
-                <script>
-                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
-                  })(window,document,'script','dataLayer','G-4RNELPQG75');
-                  window.dataLayer = window.dataLayer || [];
-                  function gtag(){dataLayer.push(arguments);}
-                  gtag('js', new Date());
-                  gtag('config', 'G-4RNELPQG75');
-                </script>
-]]></snf:analytics>
-        </item>
-        <item>
-            <title>Starlink Mini vs. Standard (2026): Price, Speed &amp; Which to Buy</title>
-            <link>https://www.satelliteinternet.com/resources/starlink-standard-vs-mini/</link>
-            <guid>https://www.satelliteinternet.com/resources/starlink-standard-vs-mini/</guid>
-            <pubDate>Tue, 14 Jul 2026 17:19:49 +0000</pubDate>
-            <content:encoded><![CDATA[<div><html>
-  <body>
-    <p><a href="https://www.satelliteinternet.com/resources/starlink-mini-review/">The Starlink Mini</a> is SpaceX's <a href="https://www.satelliteinternet.com/resources/starlink-satellite-dish/">satellite internet dish</a>, engineered to be lightweight and portable. Released in early 2024, the Starlink Mini is about half the size of the Standard and much lighter. It's engineered to be as portable as possible, making it easy to take on the go.  </p>
-    <p>The <a href="https://www.satelliteinternet.com/providers/starlink/">Starlink Standard</a> kit is actually the third iteration of the <a href="https://www.satelliteinternet.com/resources/starlink-vs-hughesnet-vs-viasat/">satellite internet provider's</a> hardware. It replaced the Standard Actuated kit with a more straightforward design that doesn't require the motorized stand. It is larger and more powerful than the Mini, designed to achieve higher speeds in stationary use. The Starlink Mini is ideal for portability and can be used on the go, but it's more expensive and less powerful than the Standard. In this guide, we'll break down all the key differences between the Starlink Standard and the Starlink Mini. </p>
-  </body>
-</html></div>]]></content:encoded>
-            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2024/12/IMG_9931-copy.webp" />
             <snf:analytics><![CDATA[
                 <script>
                   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -405,33 +431,6 @@
   </body>
 </html></div>]]></content:encoded>
             <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2020/07/SAT_Big-Foot-Sightings.jpg" />
-            <snf:analytics><![CDATA[
-                <script>
-                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
-                  })(window,document,'script','dataLayer','G-4RNELPQG75');
-                  window.dataLayer = window.dataLayer || [];
-                  function gtag(){dataLayer.push(arguments);}
-                  gtag('js', new Date());
-                  gtag('config', 'G-4RNELPQG75');
-                </script>
-]]></snf:analytics>
-        </item>
-        <item>
-            <title>2026 RV Connectivity Report: Survey Reveals Surprising Mobile Internet Trends on the Road</title>
-            <link>https://www.satelliteinternet.com/resources/rv-connectivity-report-survey-mobile-internet-trends/</link>
-            <guid>https://www.satelliteinternet.com/resources/rv-connectivity-report-survey-mobile-internet-trends/</guid>
-            <pubDate>Mon, 22 Jun 2026 17:45:41 +0000</pubDate>
-            <content:encoded><![CDATA[<div><html>
-  <body>
-    <p>Getting away from the city and exploring the beautiful, rugged places of the U.S. has long been a national pastime. Whether in an RV, a van, or a tent, camping used to mean becoming completely disconnected from most of the world, but now it's become easier than ever to bring the World Wide Web along for the ride. Now more than ever, it's become harder to disconnect, whether for reasons of safety or entertainment.</p>
-    <p>So how are campers connecting, why are they connecting, and what are the biggest obstacles for those who wish to stay connected? We examine the different types of traveling internet users, including weekend warriors, seasonal RVers, and even those living the nomadic lifestyle.</p>
-    <p>It's clear that the safety/emergency use case is loud and consistent. Unprompted, dozens of respondents mentioned the internet primarily as a safety tool — not entertainment. Phrases like "dead zones are scary," "it's for emergencies," and "some places where safety is not guaranteed," were common among respondents.</p>
-  </body>
-</html></div>]]></content:encoded>
-            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2026/06/featured-image.webp" />
             <snf:analytics><![CDATA[
                 <script>
                   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':

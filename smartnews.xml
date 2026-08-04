@@ -10,6 +10,32 @@
         <snf:logo><url>https://raw.githubusercontent.com/natassiacoelho-cmyk/satellite-internet-smartnews/main/satelliteinternet-logo_smartnews.png</url></snf:logo>
         
         <item>
+            <title>Hughesnet Enters Bankruptcy: What Customers Need to Know About Their Internet</title>
+            <link>https://www.satelliteinternet.com/resources/hughesnet-enters-bankruptcy/</link>
+            <guid>https://www.satelliteinternet.com/resources/hughesnet-enters-bankruptcy/</guid>
+            <pubDate>Tue, 04 Aug 2026 22:29:46 +0000</pubDate>
+            <content:encoded><![CDATA[<div><html>
+  <body>
+    <p>After declining subscriber counts and financial issues, the Hughes Satellite Systems Corporation, the operator of Hughesnet satellite internet, has filed for Chapter 11 bankruptcy. A Chapter 11 bankruptcy is a reorganization of a company as it attempts to deal with its debt. As of right now, the company has no plans to shut its doors, but the move represents a big shift as it likely winds down its consumer internet businesses, which have been quickly overtaken by fierce competition.</p>
+    <p>Despite the financial headwinds and a loss of subscribers, Hughesnet still serves about 622,000 customers as of 2026, and customers may be concerned about what this means for their internet service. Hughesnet customers, especially those in rural areas, may be wondering what their options are.</p>
+  </body>
+</html></div>]]></content:encoded>
+            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2024/10/si-hughesnet-review.webp" />
+            <snf:analytics><![CDATA[
+                <script>
+                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                  })(window,document,'script','dataLayer','G-4RNELPQG75');
+                  window.dataLayer = window.dataLayer || [];
+                  function gtag(){dataLayer.push(arguments);}
+                  gtag('js', new Date());
+                  gtag('config', 'G-4RNELPQG75');
+                </script>
+]]></snf:analytics>
+        </item>
+        <item>
             <title>Starlink Roam vs. Starlink Residential: Which Plan Fits Your Lifestyle?</title>
             <link>https://www.satelliteinternet.com/resources/starlink-roam-vs-residential-internet/</link>
             <guid>https://www.satelliteinternet.com/resources/starlink-roam-vs-residential-internet/</guid>
@@ -137,6 +163,7 @@
     <h2>How does Starlink's rental plan work?</h2>
     <p>Under the new plan, customers no longer own their Starlink dish and must return it if they cancel their plan. However, they will have the opportunity to purchase their dish for the regular price of $349. If the customer cancels and fails to return the dish in an acceptable condition, Starlink will charge them the full cost. Customers have 30 days to return the dish.</p>
     <p>It’s a drastic change in how Starlink does business, as it has been a notable outlier among internet providers by requiring an upfront cost to purchase its hardware. The vast majority of internet providers typically lease or include hardware with their service. Starlink has offered rental kits sporadically in some markets before, but this is the first time it’s been this widespread in the U.S.</p>
+    <h2>Starlink plans and pricing</h2>
     <p>Top speeds not guaranteed during peak hours<br/>*Plan not available in all regions</p>
     <p>Like many of Starlink’s recent deals, the rental plan is only available in designated regions with excess capacity. Starlink doesn’t give exact locations for where the rental option is available, but it’s likely within the <a href="https://www.satelliteinternet.com/resources/starlink-2025-regional-discount/">Regional Discount area.</a> When ordering from outside the discount area, the rental option isn’t available, and you may be subject to paying a congestion charge of up to $1,000. You need to input your address and see if the rental option is available at checkout.</p>
     <p>While skipping the $349 purchase price of a dish is nice, renting the dish at $10 per month over three years will ultimately cost you more. With a fee, ownership is more appealing than renting if you're planning to stick with Starlink in the long run.  Plus, owning the Starlink kit lets you transfer/sell it in the future. It is also not compatible with the <a href="https://www.satelliteinternet.com/resources/starlink-roam-review/">Roam plan, which lets you take your dish and use it anywhere</a>. Starlink lets you purchase the dish after you receive it by submitting a support ticket, which transfers full ownership to you.</p>
@@ -202,6 +229,7 @@
     <p>Peak download speed is up to 375 Mbps, compared to the 400+ Mbps the V4 is rated for. This is likely due to reduced power consumption (from 75-100 Watts to 35-50 Watts). If the V5 is to be the new standard dish for residential use, it's likely cheaper for Starlink to manufacture, which has been attempting to raise revenue since its summer IPO.</p>
     <p>The V5 dish is bundled with a pipe adapter for home installation and the Starlink Router Mini, which is less powerful than the standard Gen 3 router, but also smaller. It's currently available in select areas, but will get a wider release as more are manufactured, according to Starlink. While it's listed as currently available, no pricing for this dish without the rental option has been confirmed. <a href="http://satelliteinternet.com">SatelliteInternet.com</a> will update this once it's confirmed.</p>
     <p>To see if the new Starlink V5 is available in your area, check your address with Starlink below.</p>
+    <h2>Starlink plans and pricing</h2>
     <p>Top speeds not guaranteed during peak hours<br/>*Plan not available in all regions</p>
     <h2>What to know about the rumored battery-powered Starlink Mini</h2>
     <p>The V5 dish may not be the only upcoming product. Starlink has left breadcrumbs revealing a massive upgrade to its ultra-portable internet solution: <a href="https://www.satelliteinternet.com/providers/starlink/starlink-mini-review/">a new Mini dish</a> featuring a built-in battery and USB-C power support. Based on recent firmware code spotted by a computer science research team, SpaceX appears to be developing a truly wireless version of its popular travel dish.</p>
@@ -427,36 +455,6 @@
   </body>
 </html></div>]]></content:encoded>
             <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2026/07/MemphisCommunityDiscount.webp" />
-            <snf:analytics><![CDATA[
-                <script>
-                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
-                  })(window,document,'script','dataLayer','G-4RNELPQG75');
-                  window.dataLayer = window.dataLayer || [];
-                  function gtag(){dataLayer.push(arguments);}
-                  gtag('js', new Date());
-                  gtag('config', 'G-4RNELPQG75');
-                </script>
-]]></snf:analytics>
-        </item>
-        <item>
-            <title>Starlink Mobile: Everything We Know About SpaceX’s Satellite Cell Service</title>
-            <link>https://www.satelliteinternet.com/resources/starlink-mobile/</link>
-            <guid>https://www.satelliteinternet.com/resources/starlink-mobile/</guid>
-            <pubDate>Tue, 30 Jun 2026 22:05:44 +0000</pubDate>
-            <content:encoded><![CDATA[<div><html>
-  <body>
-    <div  ><p>Starlink Mobile (sometimes referred to as Starlink Direct-to-Cell) is the wing of the internet that deals with the satellite-to-mobile service, which the company officially launched in mid-2025. It uses Starlink's DTC satellites as orbiting cell towers to connect to most modern mobile phones. Currently, the system is being used with partnered carriers, with T-Mobile leading the way in the U.S. with its <a href="https://www.satelliteinternet.com/providers/starlink/starlink-direct-to-cell/">T-Satellite add-on feature</a>. </p>
-<p>T-Satellite allows users who leave cellular range to connect to satellites and retain a signal automatically. Currently, it supports text messaging, location sharing, and select apps, mostly geared for navigation and emergency communication. Starlink has said it will soon offer voice and video calling, as well as stronger, more reliable connections. This will likely happen when Starlink launches its next-generation fleet of satellites and gains access to more spectrum. </p>
-</div>
-    <div  ><p>Starlink hasn't officially announced a stand-alone mobile service, but recent moves demonstrate they're all-in on direct-to-device connectivity, making a new offering make sense, and sooner than you may think. In fall 2025, SpaceX filed for an official trademark on "Starlink Mobile." Furthermore, it recently acquired spectrum licenses previously owned by the Boost Mobile operator EchoStar. This deal will be completed in 2027, allowing Starlink to leverage additional bands to boost its capacity.</p>
-<p>Next-generation Starlink DTC satellites are also awaiting launch once SpaceX's Starship heavy rocket is in full service to expedite satellite deployment. As these things align, Starlink Mobile could become a full-fledged service provider as early as 2027 if that's indeed the plan.</p>
-</div>
-  </body>
-</html></div>]]></content:encoded>
-            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2026/06/iStock-2216515357.webp" />
             <snf:analytics><![CDATA[
                 <script>
                   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':

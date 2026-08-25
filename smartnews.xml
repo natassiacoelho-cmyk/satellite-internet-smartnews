@@ -10,6 +10,38 @@
         <snf:logo><url>https://raw.githubusercontent.com/natassiacoelho-cmyk/satellite-internet-smartnews/main/satelliteinternet-logo_smartnews.png</url></snf:logo>
         
         <item>
+            <title>Starlink Is Now Paying Customers Cash to Refer a Friend</title>
+            <link>https://www.satelliteinternet.com/resources/starlink-referral-program-free-month/</link>
+            <guid>https://www.satelliteinternet.com/resources/starlink-referral-program-free-month/</guid>
+            <pubDate>Tue, 25 Aug 2026 18:33:34 +0000</pubDate>
+            <content:encoded><![CDATA[<div><html>
+  <body>
+    <div  ><p>SpaceX is now paying you to refer Starlink to family and friends through its revamped customer referral program, which lets current users earn a free service credit or $100 in cash for every friend they refer to Starlink residential service. Both the customer and the referee will get a credit for a month of standard service, 60 days after the friend activates and keeps their Starlink service. </p>
+<p>Customers who log into their Starlink account will immediately see the referral feature. In the Starlink app, the option appears as "Free month for you and them." Starlink offers several ways to share referral links with new buyers, including email, text messages, and QR codes. The referee needs to use the provided link to purchase their Starlink dish and service plan on the website, just as they normally would. </p>
+</div>
+    <div  ><p>The referral link applies to any Starlink plan and offers credits for both Residential and Roam plans. Priority plans are excluded. The person must pay for the dish and the first two months of service using the link before using the credit. The offer won't apply to Starlink kits purchased at retail locations. Also, remember that new customers will still need to pay any regional congestion fee if they live in a high-bandwidth area.</p>
+<p>There’s currently no limit on how many people a customer can refer. The account even keeps a tally of the referrals and credits earned, incentivizing customers to seek out as many referrals as possible. However, they warn that using the referral to make money is against the terms of service and grounds for suspension. </p>
+
+<p>The new program is currently available to customers in the U.S., Australia, Brazil, Chile, Mexico, New Zealand, Portugal, and Spain. Starlink does not specify how long the program will run, but it reserves the right to cancel the feature at any time. </p>
+</div>
+  </body>
+</html></div>]]></content:encoded>
+            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2023/08/Starlink-Mobility-Review-featured.jpg" />
+            <snf:analytics><![CDATA[
+                <script>
+                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                  })(window,document,'script','dataLayer','G-4RNELPQG75');
+                  window.dataLayer = window.dataLayer || [];
+                  function gtag(){dataLayer.push(arguments);}
+                  gtag('js', new Date());
+                  gtag('config', 'G-4RNELPQG75');
+                </script>
+]]></snf:analytics>
+        </item>
+        <item>
             <title>How to Get Free Starlink Service After a Natural Disaster</title>
             <link>https://www.satelliteinternet.com/resources/starlink-natural-disaster-response/</link>
             <guid>https://www.satelliteinternet.com/resources/starlink-natural-disaster-response/</guid>
@@ -432,65 +464,6 @@
   </body>
 </html></div>]]></content:encoded>
             <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2026/07/PXL_20260707_152007968.webp" />
-            <snf:analytics><![CDATA[
-                <script>
-                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
-                  })(window,document,'script','dataLayer','G-4RNELPQG75');
-                  window.dataLayer = window.dataLayer || [];
-                  function gtag(){dataLayer.push(arguments);}
-                  gtag('js', new Date());
-                  gtag('config', 'G-4RNELPQG75');
-                </script>
-]]></snf:analytics>
-        </item>
-        <item>
-            <title>Best RV Internet Options (2026): Starlink and T-Mobile Compared</title>
-            <link>https://www.satelliteinternet.com/resources/get-satellite-internet-for-your-rv/</link>
-            <guid>https://www.satelliteinternet.com/resources/get-satellite-internet-for-your-rv/</guid>
-            <pubDate>Mon, 13 Jul 2026 18:00:25 +0000</pubDate>
-            <content:encoded><![CDATA[<div><html>
-  <body>
-    <div  ><p>Once you've chosen your preferred RV internet provider, it's time to get it ready for your trip. Luckily, both of our preferred solutions are incredibly easy to set up in your vehicle. </p>
-<h3>Starlink RV setup</h3>
-<p>When using Starlink on the road, there's a bit of DIY and some extra hardware, but it's still simple.  </p>
-<p>Starlink sells vehicle-mounting kits for all its dish models, with a detachable option for roof racks or a permanent mount. The official kits come with step-by-step installation guides for mounting, with a list of tools you'll need. </p>
-<p>There are also third-party mounting kits available online, including less invasive options like suction cup mounts that attach to sunroofs. The Starlink Mini is much easier to set up, and sometimes only needs to be secured to your dashboard.</p>
-<h3>Powering the Starlink Mini</h3>
-<p>The Starlink Mini is incredibly power-efficient. While standard Starlink LEO dishes draw 75 to 100 watts of continuous power, the Mini operates at a mere 20 to 40 watts and drops to about 15 watts when idle. This makes it a game-changer for off-grid power management.</p>
-<ul>
-<li>
-<p>Standard Power: The base kit includes a standard AC power supply and a heavy 50-foot direct current cable.</p>
-</li>
-<li>
-<p>12V Vehicle Adaptor: If you want to work from your dashboard or power the dish directly from your RV’s 12V or 24V socket, Starlink sells an official Mini Car Adaptor for $45, which includes the necessary USB-C cable.</p>
-</li>
-<li>
-<p>Power Banks and Third-Party Batteries: The Starlink Mini requires a 100W power source functioning precisely at 20V and 5A. High-capacity laptop power banks work perfectly for this. Alternatively, third-party battery bases that clip directly onto the back of the dish are now available for an all-in-one cord-free setup.</p>
-</li>
-<li>
-<p>The Cable Catch: If you’re opting for a USB-C setup, use Starlink’s official 16-foot USB-C cable. Generic third-party cables often fail to deliver the very specific power profile required to maintain the satellite connection.</p>
-</li>
-</ul>
-</div>
-    <div  ><h3>T-Mobile AWAY RV setup
-</h3><p>The T-Mobile AWAY Gateway device is even easier to set up in your vehicle. Since it uses a 5G signal, which isn't as affected by obstructions as a satellite signal, it doesn't need to be installed outside the vehicle. It just needs to be secured somewhere in your RV, preferably near a window, to get the best signal.
-</p><h3>Powering T-Mobile AWAY in Your RV</h3>
-<p>The T-Mobile AWAY 5G Gateway is primarily designed to run on standard 100–240V household electricity. While this is easy if your rig is plugged in at an RV park, you'll need to get a little creative if you're traveling off the grid:</p>
-<ul>
-<li>
-<p>DC Power Inverters: If you want to run the gateway while driving or off your RV’s 12-volt battery bank, you will need a DC power inverter. A basic 100-watt inverter plugged into a 12V auxiliary socket (cigarette lighter) is more than enough to keep the gateway running smoothly.</p>
-</li>
-<li>
-<p>Portable Power Banks: For maximum portability, the T-Mobile AWAY gateway can be powered by a portable power bank connected via a USB-C cable. You need a battery rated for at least 100 watts (the kind used to charge laptops, like the Anker 737). The gateway is relatively power-efficient; running it off a 100W bank for 30 minutes typically drains less than 10% of the battery.</p>
-</li>
-</ul>
-</div>
-  </body>
-</html></div>]]></content:encoded>
-            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2026/01/iStock-2207465273.webp" />
             <snf:analytics><![CDATA[
                 <script>
                   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':

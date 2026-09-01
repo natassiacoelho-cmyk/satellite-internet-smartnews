@@ -10,6 +10,35 @@
         <snf:logo><url>https://raw.githubusercontent.com/natassiacoelho-cmyk/satellite-internet-smartnews/main/satelliteinternet-logo_smartnews.png</url></snf:logo>
         
         <item>
+            <title>Best Internet for Boats: Starlink Roam vs. Maritime &amp; 5G Alternatives</title>
+            <link>https://www.satelliteinternet.com/resources/satellite-internet-for-boats/</link>
+            <guid>https://www.satelliteinternet.com/resources/satellite-internet-for-boats/</guid>
+            <pubDate>Tue, 01 Sep 2026 16:00:57 +0000</pubDate>
+            <content:encoded><![CDATA[<div><html>
+  <body>
+    <div  ><p>As much as we love dedicated satellite hotspots, the smartphones already in our pockets are quickly becoming capable satellite communicators on their own. If you’re boating just outside of cell range, these built-in direct-to-device features are excellent, hassle-free backups.</p>
+<p>Apple iPhone Satellite Features Starting with the iPhone 14 lineup, Apple revolutionized mobile safety by introducing built-in satellite connectivity via the Globalstar network. If you are entirely outside of traditional cellular and Wi-Fi coverage, your iPhone can connect directly to a moving satellite (provided you have a clear view of the sky). With the recent iOS 18 update, this suite of features now includes Emergency SOS, Messages via satellite (for texting friends off the grid), and Find My via satellite. It takes a little longer to send a text this way, but as a built-in safety net, it’s an incredible value.</p>
+<p>Starlink Direct to Cell (T-Satellite) The mobile industry is also seeing a massive shift toward carrier-provided satellite networks, spearheaded by SpaceX’s Starlink. Through a partnership with T-Mobile, Starlink recently launched T-Satellite, which uses specialized direct-to-cell satellites that act like orbiting cell towers.</p>
+<p>If you sail out of terrestrial cell range, your phone can automatically connect to Starlink to send SMS texts, use WhatsApp, and access essential navigation and weather apps. T-Satellite is included on T-Mobile’s top-tier Experience Beyond plan, but it's also available as a $10/month add-on for other T-Mobile users—and surprisingly, even compatible AT&amp;amp;T and Verizon customers with an open, unlocked eSIM slot. While it won't give you the broadband speeds of a mounted Starlink Roam dish, it's a game-changer for keeping your personal phone connected on the water.</p>
+</div>
+  </body>
+</html></div>]]></content:encoded>
+            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2021/03/internet-on-boats.jpg" />
+            <snf:analytics><![CDATA[
+                <script>
+                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                  })(window,document,'script','dataLayer','G-4RNELPQG75');
+                  window.dataLayer = window.dataLayer || [];
+                  function gtag(){dataLayer.push(arguments);}
+                  gtag('js', new Date());
+                  gtag('config', 'G-4RNELPQG75');
+                </script>
+]]></snf:analytics>
+        </item>
+        <item>
             <title>Mint Mobile MINTernet vs. T-Mobile 5G Home Internet: Which Wireless Provider Wins?</title>
             <link>https://www.satelliteinternet.com/resources/mint-mobile-minternet-vs-t-mobile-5g-home-internet/</link>
             <guid>https://www.satelliteinternet.com/resources/mint-mobile-minternet-vs-t-mobile-5g-home-internet/</guid>
@@ -390,47 +419,6 @@
   </body>
 </html></div>]]></content:encoded>
             <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2025/09/si-starlink-mini-at-beach-featured.webp" />
-            <snf:analytics><![CDATA[
-                <script>
-                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
-                  })(window,document,'script','dataLayer','G-4RNELPQG75');
-                  window.dataLayer = window.dataLayer || [];
-                  function gtag(){dataLayer.push(arguments);}
-                  gtag('js', new Date());
-                  gtag('config', 'G-4RNELPQG75');
-                </script>
-]]></snf:analytics>
-        </item>
-        <item>
-            <title>Starlink V5 Has Arrived. Here’s How to Get The Newest Dish</title>
-            <link>https://www.satelliteinternet.com/resources/starlink-v5-dish/</link>
-            <guid>https://www.satelliteinternet.com/resources/starlink-v5-dish/</guid>
-            <pubDate>Thu, 16 Jul 2026 16:45:11 +0000</pubDate>
-            <content:encoded><![CDATA[<div><html>
-  <body>
-    <p>The new V5 dish may also be followed soon by a new Starlink Mini model.</p>
-    <h1>Starlink V5 Has Arrived. Here’s How to Get The Newest Dish</h1>
-    <graphic src="https://www.satelliteinternet.com/app/uploads/2026/07/Starlink_Standard_4_5_Comparison-1024x576.webp"/>
-    <p>The Standard V4 Starlink dish (left) compared to the newly announced V5 dish (right). The smaller dish is more energy efficient for Starlink customers on a lower-speed plan. | Image by Starlink</p>
-    <p>Starlink has released the newest version of its satellite internet equipment, dubbed the Starlink V5. The fifth generation of its personal terminals is significantly smaller, lighter, and more power-efficient. <a href="https://www.satelliteinternet.com/resources/new-starlink-mini/">We got a sneak peek</a> of the dish at a Starlink event hosted by CEO Elon Musk, where he showed off two new dishes, one of which is the V5. </p>
-    <p>The dish is available for rental in select areas on the 100Mbps Residential plan ($55/mo.) for no extra cost.</p>
-    <h2>What's the difference between Starlink V4 and V5?</h2>
-    <p>At nearly half the size of the preceding <a href="https://www.satelliteinternet.com/resources/starlink-standard-vs-mini/">V4 dish and slightly bigger than the Starlink Mini</a>, it's even more portable and easier to set up on your own. Its dimensions are 15.12 in by 12.05 in, and it weighs 2.4 lbs. However, according to available specifications, the trade-offs are slightly slower speeds and the loss of in-motion usage. </p>
-    <p>Peak download speed is up to 375 Mbps, compared to the 400+ Mbps the V4 is rated for. This is likely due to reduced power consumption (from 75-100 Watts to 35-50 Watts). If the V5 is to be the new standard dish for residential use, it's likely cheaper for Starlink to manufacture, which has been attempting to raise revenue since its summer IPO.</p>
-    <p>The V5 dish is bundled with a pipe adapter for home installation and the Starlink Router Mini, which is less powerful than the standard Gen 3 router, but also smaller. It's currently available in select areas, but will get a wider release as more are manufactured, according to Starlink. While it's listed as currently available, no pricing for this dish without the rental option has been confirmed. <a href="http://satelliteinternet.com">SatelliteInternet.com</a> will update this once it's confirmed.</p>
-    <p>To see if the new Starlink V5 is available in your area, check your address with Starlink below.</p>
-    <h2>Starlink plans and pricing</h2>
-    <p>Top speeds not guaranteed during peak hours<br/>*Plan not available in all regions</p>
-    <h2>What to know about the rumored battery-powered Starlink Mini</h2>
-    <p>The V5 dish may not be the only upcoming product. Starlink has left breadcrumbs revealing a massive upgrade to its ultra-portable internet solution: <a href="https://www.satelliteinternet.com/providers/starlink/starlink-mini-review/">a new Mini dish</a> featuring a built-in battery and USB-C power support. Based on recent firmware code spotted by a computer science research team, SpaceX appears to be developing a truly wireless version of its popular travel dish.</p>
-    <p>If released, a built-in battery would be a game-changer for off-grid users, bypassing the current model's biggest pain point: power. Right now, taking the Mini off the grid requires a specialized 100W portable power bank with an exact 20V/5A output and an official 16-foot USB-C cable just to maintain a stable connection. A self-contained unit would eliminate external batteries and dangling cables, making it the ultimate tool for hikers, RVers, and backcountry campers.</p>
-    <p>While Starlink hasn't officially announced the new dish, the company is notorious for quietly dropping updates and immediately putting them on sale. If it hits the market, the main factor determining its success will be how long a fully charged battery lasts in the wild.</p>
-  </body>
-</html></div>]]></content:encoded>
-            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2026/07/Starlink_Standard_4_5_Comparison.webp" />
             <snf:analytics><![CDATA[
                 <script>
                   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':

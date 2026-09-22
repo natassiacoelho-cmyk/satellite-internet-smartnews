@@ -10,6 +10,36 @@
         <snf:logo><url>https://raw.githubusercontent.com/natassiacoelho-cmyk/satellite-internet-smartnews/main/satelliteinternet-logo_smartnews.png</url></snf:logo>
         
         <item>
+            <title>Starlink Quietly Expands Free Mini Rentals Beyond the Max Plan</title>
+            <link>https://www.satelliteinternet.com/resources/starlink-mini-free-rental-expansion/</link>
+            <guid>https://www.satelliteinternet.com/resources/starlink-mini-free-rental-expansion/</guid>
+            <pubDate>Tue, 22 Sep 2026 17:46:51 +0000</pubDate>
+            <content:encoded><![CDATA[<div><html>
+  <body>
+    <div  ><p>What's confusing is that Starlink isn't actively advertising the Mini kit perk, and it doesn't show up on its site when signing up for a new 100Mbps or 200Mbps plan, though it still appears as part of the MAX plan. Many customers who shared the email online were surprised by the offer and assumed they weren't eligible when signing up. All this to say, it's hard to guarantee that every new Starlink Residential sign-up will get this offer.</p>
+<p>The free Starlink Mini rental first started in early 2026, with the <a href="https://www.satelliteinternet.com/resources/starlink-max-100-mbps-plans/">rebrand of the Residential Max</a> plan, which <a href="https://www.satelliteinternet.com/providers/starlink/deals/">included other perks</a> like a free Router Mini and free professional installation. New customers were told they would get an email within a couple of weeks to claim the optional rental deal. However, some customers reported waiting months for the email, and even Starlink acknowledged the delays, citing high demand. Then the deal suddenly disappeared over the summer, <a href="https://www.satelliteinternet.com/resources/starlink-rental/">only to reappear a few months later</a>. </p>
+</div>
+    <div  ><p>In a discussion of the surprise offer, <a href="https://www.reddit.com/r/Starlink/comments/1wmmsly/starlink_mini_just_residential_100/">one Reddit poster</a> suggested Starlink is clearing inventory ahead of the next Starlink Mini. A new version of the Mini has been teased for months, and experts point to evidence that it will be battery-powered, making it even more portable. Earlier this summer, SpaceX CEO <a href="https://www.satelliteinternet.com/resources/new-starlink-mini/">Elon Musk showed off a new Mini device</a>, but didn't share details like features, pricing, or a release date. </p>
+<p>Starlink may be trying to ship more Mini kits before formally introducing a Starlink Mini 2 and ramping up marketing. Along with extending the Mini perk to more users, Starlink also introduced a monthly payment plan rather than a $199 upfront cost for a new Mini kit. Keeping the offer for lower-tier plan customers low-key may mean it won't be available for long, so we advise you to proceed at your own risk if you're interested in Starlink and the Mini kit incentive is a major selling point. Starlink's support page advises you to contact support to find out whether you are eligible.</p>
+</div>
+  </body>
+</html></div>]]></content:encoded>
+            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2025/09/si-starlink-mini-at-beach-featured.webp" />
+            <snf:analytics><![CDATA[
+                <script>
+                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                  })(window,document,'script','dataLayer','G-4RNELPQG75');
+                  window.dataLayer = window.dataLayer || [];
+                  function gtag(){dataLayer.push(arguments);}
+                  gtag('js', new Date());
+                  gtag('config', 'G-4RNELPQG75');
+                </script>
+]]></snf:analytics>
+        </item>
+        <item>
             <title>When Can We Realistically Expect Amazon Leo?</title>
             <link>https://www.satelliteinternet.com/resources/amazon-leo-satellite-internet-timeline/</link>
             <guid>https://www.satelliteinternet.com/resources/amazon-leo-satellite-internet-timeline/</guid>
@@ -406,32 +436,6 @@
   </body>
 </html></div>]]></content:encoded>
             <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2024/12/IMG_9931-copy.webp" />
-            <snf:analytics><![CDATA[
-                <script>
-                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
-                  })(window,document,'script','dataLayer','G-4RNELPQG75');
-                  window.dataLayer = window.dataLayer || [];
-                  function gtag(){dataLayer.push(arguments);}
-                  gtag('js', new Date());
-                  gtag('config', 'G-4RNELPQG75');
-                </script>
-]]></snf:analytics>
-        </item>
-        <item>
-            <title>Starlink Satellite Dish Guide: What Dish Do I Have?</title>
-            <link>https://www.satelliteinternet.com/resources/starlink-satellite-dish/</link>
-            <guid>https://www.satelliteinternet.com/resources/starlink-satellite-dish/</guid>
-            <pubDate>Tue, 21 Jul 2026 16:00:10 +0000</pubDate>
-            <content:encoded><![CDATA[<div><html>
-  <body>
-    <p><a href="https://www.satelliteinternet.com/providers/starlink/">Starlink</a> hardware comes in several variations, so it can sometimes be confusing when you’re interested in signing up but don’t know what equipment you need for your specific use case. We’ll discuss the different plans we recommend for what dishes. Brand-new Starlink kits are expensive, so you need to be sure you’re getting the right one. However, there are also many aftermarket kits for sale that are older models and will serve your needs while saving you money. </p>
-    <p>We’ll explain what Starlink kits are available, how to tell them apart, and which are best suited for all use cases.</p>
-  </body>
-</html></div>]]></content:encoded>
-            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2023/08/Starlink-Mobility-Review-featured.jpg" />
             <snf:analytics><![CDATA[
                 <script>
                   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':

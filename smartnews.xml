@@ -10,6 +10,37 @@
         <snf:logo><url>https://raw.githubusercontent.com/natassiacoelho-cmyk/satellite-internet-smartnews/main/satelliteinternet-logo_smartnews.png</url></snf:logo>
         
         <item>
+            <title>Share Your Starlink Internet With the Community and Earn Income</title>
+            <link>https://www.satelliteinternet.com/resources/starlink-community-site-program/</link>
+            <guid>https://www.satelliteinternet.com/resources/starlink-community-site-program/</guid>
+            <pubDate>Thu, 01 Oct 2026 22:20:03 +0000</pubDate>
+            <content:encoded><![CDATA[<div><html>
+  <body>
+    <div  ><p>It's also unclear whether the program will be available in all regions. Also, there are no details on pass prices or what the host's payout would look like.</p>
+</div>
+    <div  ><p>Reselling services on a <a href="https://www.satelliteinternet.com/resources/starlink-roam-vs-residential-internet/">Residential or Roam</a> plan violates Starlink's Terms of Service. Starlink has been known to suspend service for accounts if it detects higher-than-normal data usage, determines the user may be using it for business purposes, and urges them to switch to a <a href="https://www.satelliteinternet.com/providers/starlink/business/">Priority/Enterprise plan</a> to resume service. </p>
+<p>The community site plan may be a compromise for users who don't want a full business plan but want to distribute access to a modest number of people in their community. Plus, it's another revenue source for Starlink. It's also a way for the company to combat the secondary market for its service, such as owners who rent out their Starlink kits for a profit, another violation of its Terms.  </p>
+<p>Depending on the scope of usage you describe in your sign-up form, Starlink may recommend a business plan. The program seems geared toward spaces like community centers, public spaces, rural businesses, single buildings with multiple residences, or multiple households in close proximity. </p>
+<p>An ideal use case could be low-income areas without reliable internet access, where the host's Starlink income contributes to subscription costs and other community needs. It's still hard to tell, since it's unclear what the host's share of the pass revenue will be. </p>
+</div>
+  </body>
+</html></div>]]></content:encoded>
+            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2025/06/Screenshot-2025-06-18-143142-e1785431097790.webp" />
+            <snf:analytics><![CDATA[
+                <script>
+                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                  })(window,document,'script','dataLayer','G-4RNELPQG75');
+                  window.dataLayer = window.dataLayer || [];
+                  function gtag(){dataLayer.push(arguments);}
+                  gtag('js', new Date());
+                  gtag('config', 'G-4RNELPQG75');
+                </script>
+]]></snf:analytics>
+        </item>
+        <item>
             <title>Starship Kicks-Off Next-Generation Starlink</title>
             <link>https://www.satelliteinternet.com/resources/starship-kicks-off-next-generation-starlink/</link>
             <guid>https://www.satelliteinternet.com/resources/starship-kicks-off-next-generation-starlink/</guid>
@@ -385,32 +416,6 @@
   </body>
 </html></div>]]></content:encoded>
             <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2024/10/si-viasat-review.webp" />
-            <snf:analytics><![CDATA[
-                <script>
-                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
-                  })(window,document,'script','dataLayer','G-4RNELPQG75');
-                  window.dataLayer = window.dataLayer || [];
-                  function gtag(){dataLayer.push(arguments);}
-                  gtag('js', new Date());
-                  gtag('config', 'G-4RNELPQG75');
-                </script>
-]]></snf:analytics>
-        </item>
-        <item>
-            <title>Hughesnet Enters Bankruptcy: What Customers Need to Know About Their Internet</title>
-            <link>https://www.satelliteinternet.com/resources/hughesnet-enters-bankruptcy/</link>
-            <guid>https://www.satelliteinternet.com/resources/hughesnet-enters-bankruptcy/</guid>
-            <pubDate>Tue, 04 Aug 2026 22:29:46 +0000</pubDate>
-            <content:encoded><![CDATA[<div><html>
-  <body>
-    <p>After declining subscriber counts and financial issues, the Hughes Satellite Systems Corporation, the operator of Hughesnet satellite internet, has filed for Chapter 11 bankruptcy. A Chapter 11 bankruptcy is a reorganization of a company as it attempts to deal with its debt. As of right now, the company has no plans to shut its doors, but the move represents a big shift as it likely winds down its consumer internet businesses, which have been quickly overtaken by fierce competition.</p>
-    <p>Despite the financial headwinds and a loss of subscribers, Hughesnet still serves about 622,000 customers as of 2026, and customers may be concerned about what this means for their internet service. Hughesnet customers, especially those in rural areas, may be wondering what their options are.</p>
-  </body>
-</html></div>]]></content:encoded>
-            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2024/10/si-hughesnet-review.webp" />
             <snf:analytics><![CDATA[
                 <script>
                   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':

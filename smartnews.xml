@@ -10,6 +10,61 @@
         <snf:logo><url>https://raw.githubusercontent.com/natassiacoelho-cmyk/satellite-internet-smartnews/main/satelliteinternet-logo_smartnews.png</url></snf:logo>
         
         <item>
+            <title>Starlink Mobile is on Its Way to Be Major Carrier</title>
+            <link>https://www.satelliteinternet.com/resources/starlink-mobile-is-on-its-way-to-be-major-carrier/</link>
+            <guid>https://www.satelliteinternet.com/resources/starlink-mobile-is-on-its-way-to-be-major-carrier/</guid>
+            <pubDate>Thu, 08 Oct 2026 22:29:32 +0000</pubDate>
+            <content:encoded><![CDATA[<div><html>
+  <body>
+    <p>SpaceX has officially thrown its hat in the mobile carrier ring, making clear its intention to become a major U.S. carrier with <a href="https://www.satelliteinternet.com/resources/starlink-mobile/">Starlink Mobile</a>. The company celebrated two major developments that bring it closer to its goal of becoming a mobile carrier that competes with the U.S. big three: T-Mobile, Verizon, and AT&amp;amp;T. </p>
+    <p>The Federal Communications Commission gave the green light for a 15,000-satellite constellation dedicated to Starlink Mobile, consisting of next-generation satellites with more power to take advantage of recent spectrum acquisitions and communicate directly with mobile phone antennas.</p>
+    <p>Most recently, <a href="https://www.spacex.com/updates#starlink-mobile-spectrum">SpaceX announced</a> the acquisition of spectrum in the 800 MHz band, clearing the way for broad deployment of a terrestrial network that works alongside satellite coverage. SpaceX has made it clear it will need both to be a carrier with comprehensive coverage. Starlink's satellite coverage makes it available nearly anywhere, eliminating dead zones, but more ground spectrum, including from towers, will be necessary for phones to work in buildings. </p>
+  </body>
+</html></div>]]></content:encoded>
+            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2026/03/starlinkMobile_beam_d-e1772564907402.webp" />
+            <snf:analytics><![CDATA[
+                <script>
+                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                  })(window,document,'script','dataLayer','G-4RNELPQG75');
+                  window.dataLayer = window.dataLayer || [];
+                  function gtag(){dataLayer.push(arguments);}
+                  gtag('js', new Date());
+                  gtag('config', 'G-4RNELPQG75');
+                </script>
+]]></snf:analytics>
+        </item>
+        <item>
+            <title>Starlink vs. Viasat: How Do LEO and GEO Satellite Internet Compare?</title>
+            <link>https://www.satelliteinternet.com/resources/starlink-vs-viasat/</link>
+            <guid>https://www.satelliteinternet.com/resources/starlink-vs-viasat/</guid>
+            <pubDate>Thu, 08 Oct 2026 16:00:05 +0000</pubDate>
+            <content:encoded><![CDATA[<div><html>
+  <body>
+    <p>Starlink and Viasat will likely top your search results if you're choosing a satellite internet provider. While Starlink is the frontrunner for speed and convenience, Viasat may be a more affordable option with decent speeds. I found this out myself after using both providers for several months. I also interviewed several current and former customers.</p>
+    <p>Starlink offers the fastest speeds and lowest latency among all satellite ISPs. However, Starlink's hands-off support approach may turn off some customers, and you have to pay extra upfront for Starlink hardware.</p>
+    <p>Viasat has flexible plans for budget-conscious, low-usage customers and for those who need unlimited data and high download speeds. While Viasat has download speeds on par with most providers, it's held back by the high latency inherent in its satellite technology and higher monthly price.</p>
+    <p>I tested Starlink and Viasat at my family cabin in rural Utah to compare the satellite internet providers. What I found was surprising.</p>
+  </body>
+</html></div>]]></content:encoded>
+            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2024/11/si-starlink-vs-viasat.webp" />
+            <snf:analytics><![CDATA[
+                <script>
+                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                  })(window,document,'script','dataLayer','G-4RNELPQG75');
+                  window.dataLayer = window.dataLayer || [];
+                  function gtag(){dataLayer.push(arguments);}
+                  gtag('js', new Date());
+                  gtag('config', 'G-4RNELPQG75');
+                </script>
+]]></snf:analytics>
+        </item>
+        <item>
             <title>Starlink Mini vs. Standard (2026): Price, Speed &amp; Which to Buy</title>
             <link>https://www.satelliteinternet.com/resources/starlink-standard-vs-mini/</link>
             <guid>https://www.satelliteinternet.com/resources/starlink-standard-vs-mini/</guid>
@@ -311,65 +366,6 @@
   </body>
 </html></div>]]></content:encoded>
             <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2026/08/Vermilion_Parish_Map.webp" />
-            <snf:analytics><![CDATA[
-                <script>
-                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
-                  })(window,document,'script','dataLayer','G-4RNELPQG75');
-                  window.dataLayer = window.dataLayer || [];
-                  function gtag(){dataLayer.push(arguments);}
-                  gtag('js', new Date());
-                  gtag('config', 'G-4RNELPQG75');
-                </script>
-]]></snf:analytics>
-        </item>
-        <item>
-            <title>Starlink Is Now Paying Customers Cash to Refer a Friend</title>
-            <link>https://www.satelliteinternet.com/resources/starlink-referral-program-free-month/</link>
-            <guid>https://www.satelliteinternet.com/resources/starlink-referral-program-free-month/</guid>
-            <pubDate>Tue, 25 Aug 2026 18:33:34 +0000</pubDate>
-            <content:encoded><![CDATA[<div><html>
-  <body>
-    <div  ><p>SpaceX is now paying you to refer Starlink to family and friends through its revamped customer referral program, which lets current users earn a free service credit or $100 in cash for every friend they refer to Starlink residential service. Both the customer and the referee will get a credit for a month of standard service, 60 days after the friend activates and keeps their Starlink service. </p>
-<p>Customers who log into their Starlink account will immediately see the referral feature. In the Starlink app, the option appears as "Free month for you and them." Starlink offers several ways to share referral links with new buyers, including email, text messages, and QR codes. The referee needs to use the provided link to purchase their Starlink dish and service plan on the website, just as they normally would. </p>
-</div>
-    <div  ><p>The referral link applies to any Starlink plan and offers credits for both Residential and Roam plans. Priority plans are excluded. The person must pay for the dish and the first two months of service using the link before using the credit. The offer won't apply to Starlink kits purchased at retail locations. Also, remember that new customers will still need to pay any regional congestion fee if they live in a high-bandwidth area.</p>
-<p>There’s currently no limit on how many people a customer can refer. The account even keeps a tally of the referrals and credits earned, incentivizing customers to seek out as many referrals as possible. However, they warn that using the referral to make money is against the terms of service and grounds for suspension. </p>
-
-<p>The new program is currently available to customers in the U.S., Australia, Brazil, Chile, Mexico, New Zealand, Portugal, and Spain. Starlink does not specify how long the program will run, but it reserves the right to cancel the feature at any time. </p>
-</div>
-  </body>
-</html></div>]]></content:encoded>
-            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2023/08/Starlink-Mobility-Review-featured.jpg" />
-            <snf:analytics><![CDATA[
-                <script>
-                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
-                  })(window,document,'script','dataLayer','G-4RNELPQG75');
-                  window.dataLayer = window.dataLayer || [];
-                  function gtag(){dataLayer.push(arguments);}
-                  gtag('js', new Date());
-                  gtag('config', 'G-4RNELPQG75');
-                </script>
-]]></snf:analytics>
-        </item>
-        <item>
-            <title>How to Get Free Starlink Service After a Natural Disaster</title>
-            <link>https://www.satelliteinternet.com/resources/starlink-natural-disaster-response/</link>
-            <guid>https://www.satelliteinternet.com/resources/starlink-natural-disaster-response/</guid>
-            <pubDate>Tue, 18 Aug 2026 21:12:14 +0000</pubDate>
-            <content:encoded><![CDATA[<div><html>
-  <body>
-    <p>SpaceX and Starlink have historically been proactive in providing emergency assistance during natural disasters, often offering free internet service during and after these events. Hurricanes, earthquakes, flooding, and wildfires have prompted Starlink to activate free service when local infrastructure is damaged. Traditional ISPs often suffer outages during and after a natural disaster and can take time to resume operations. Since Starlink only needs a reliable</p>
-    <p>This response has made owning a Starlink dish worth it if you live in an area susceptible to one of these events, even if it's not your primary internet provider. Starlink has previously deployed free service to the Southern U.S. after multiple hurricanes and during the 2025 Los Angeles fires, as well as dozens of others worldwide.</p>
-    <p>Follow this page for the latest information on where Starlink is available for free in the event of a natural disaster in the U.S.</p>
-  </body>
-</html></div>]]></content:encoded>
-            
             <snf:analytics><![CDATA[
                 <script>
                   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':

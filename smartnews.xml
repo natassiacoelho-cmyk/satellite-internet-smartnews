@@ -10,6 +10,65 @@
         <snf:logo><url>https://raw.githubusercontent.com/natassiacoelho-cmyk/satellite-internet-smartnews/main/satelliteinternet-logo_smartnews.png</url></snf:logo>
         
         <item>
+            <title>Best RV Internet Options (2026): Starlink, T-Mobile, &amp; TravlFi Compared</title>
+            <link>https://www.satelliteinternet.com/resources/get-satellite-internet-for-your-rv/</link>
+            <guid>https://www.satelliteinternet.com/resources/get-satellite-internet-for-your-rv/</guid>
+            <pubDate>Tue, 20 Oct 2026 18:00:25 +0000</pubDate>
+            <content:encoded><![CDATA[<div><html>
+  <body>
+    <div  ><p>Once you've chosen your preferred RV internet provider, it's time to get it ready for your trip. Luckily, both of our preferred solutions are incredibly easy to set up in your vehicle. </p>
+<h3>Starlink RV setup</h3>
+<p>When using Starlink on the road, there's a bit of DIY and some extra hardware, but it's still simple.  </p>
+<p>Starlink sells vehicle-mounting kits for all its dish models, with a detachable option for roof racks or a permanent mount. The official kits come with step-by-step installation guides for mounting, with a list of tools you'll need. </p>
+<p>There are also third-party mounting kits available online, including less invasive options like suction cup mounts that attach to sunroofs. The Starlink Mini is much easier to set up, and sometimes only needs to be secured to your dashboard.</p>
+<h3>Powering the Starlink Mini</h3>
+<p>The Starlink Mini is incredibly power-efficient. While standard Starlink LEO dishes draw 75 to 100 watts of continuous power, the Mini operates at a mere 20 to 40 watts and drops to about 15 watts when idle. This makes it a game-changer for off-grid power management.</p>
+<ul>
+<li>
+<p>Standard Power: The base kit includes a standard AC power supply and a heavy 50-foot direct current cable.</p>
+</li>
+<li>
+<p>12V Vehicle Adaptor: If you want to work from your dashboard or power the dish directly from your RV’s 12V or 24V socket, Starlink sells an official Mini Car Adaptor for $45, which includes the necessary USB-C cable.</p>
+</li>
+<li>
+<p>Power Banks and Third-Party Batteries: The Starlink Mini requires a 100W power source functioning precisely at 20V and 5A. High-capacity laptop power banks work perfectly for this. Alternatively, third-party battery bases that clip directly onto the back of the dish are now available for an all-in-one cord-free setup.</p>
+</li>
+<li>
+<p>The Cable Catch: If you’re opting for a USB-C setup, use Starlink’s official 16-foot USB-C cable. Generic third-party cables often fail to deliver the very specific power profile required to maintain the satellite connection.</p>
+</li>
+</ul>
+</div>
+    <div  ><h3>T-Mobile AWAY RV setup
+</h3><p>The T-Mobile AWAY Gateway device is even easier to set up in your vehicle. Since it uses a 5G signal, which isn't as affected by obstructions as a satellite signal, it doesn't need to be installed outside the vehicle. It just needs to be secured somewhere in your RV, preferably near a window, to get the best signal.
+</p><h3>Powering T-Mobile AWAY in Your RV</h3>
+<p>The T-Mobile AWAY 5G Gateway is primarily designed to run on standard 100–240V household electricity. While this is easy if your rig is plugged in at an RV park, you'll need to get a little creative if you're traveling off the grid:</p>
+<ul>
+<li>
+<p>DC Power Inverters: If you want to run the gateway while driving or off your RV’s 12-volt battery bank, you will need a DC power inverter. A basic 100-watt inverter plugged into a 12V auxiliary socket (cigarette lighter) is more than enough to keep the gateway running smoothly.</p>
+</li>
+<li>
+<p>Portable Power Banks: For maximum portability, the T-Mobile AWAY gateway can be powered by a portable power bank connected via a USB-C cable. You need a battery rated for at least 100 watts (the kind used to charge laptops, like the Anker 737). The gateway is relatively power-efficient; running it off a 100W bank for 30 minutes typically drains less than 10% of the battery.</p>
+</li>
+</ul>
+</div>
+  </body>
+</html></div>]]></content:encoded>
+            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2026/01/iStock-2207465273.webp" />
+            <snf:analytics><![CDATA[
+                <script>
+                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                  })(window,document,'script','dataLayer','G-4RNELPQG75');
+                  window.dataLayer = window.dataLayer || [];
+                  function gtag(){dataLayer.push(arguments);}
+                  gtag('js', new Date());
+                  gtag('config', 'G-4RNELPQG75');
+                </script>
+]]></snf:analytics>
+        </item>
+        <item>
             <title>Best Satellite Phones for Hiking and Off-Grid Travel (2026)</title>
             <link>https://www.satelliteinternet.com/resources/best-satellite-phones/</link>
             <guid>https://www.satelliteinternet.com/resources/best-satellite-phones/</guid>
@@ -330,36 +389,6 @@
   </body>
 </html></div>]]></content:encoded>
             <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2026/09/si-small-towns-with-most-and-least-improved-rural-internet-2026-featured.webp" />
-            <snf:analytics><![CDATA[
-                <script>
-                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
-                  })(window,document,'script','dataLayer','G-4RNELPQG75');
-                  window.dataLayer = window.dataLayer || [];
-                  function gtag(){dataLayer.push(arguments);}
-                  gtag('js', new Date());
-                  gtag('config', 'G-4RNELPQG75');
-                </script>
-]]></snf:analytics>
-        </item>
-        <item>
-            <title>Starlink Quietly Expands Free Mini Rentals Beyond the Max Plan</title>
-            <link>https://www.satelliteinternet.com/resources/starlink-mini-free-rental-expansion/</link>
-            <guid>https://www.satelliteinternet.com/resources/starlink-mini-free-rental-expansion/</guid>
-            <pubDate>Tue, 22 Sep 2026 17:46:51 +0000</pubDate>
-            <content:encoded><![CDATA[<div><html>
-  <body>
-    <div  ><p>What's confusing is that Starlink isn't actively advertising the Mini kit perk, and it doesn't show up on its site when signing up for a new 100Mbps or 200Mbps plan, though it still appears as part of the MAX plan. Many customers who shared the email online were surprised by the offer and assumed they weren't eligible when signing up. All this to say, it's hard to guarantee that every new Starlink Residential sign-up will get this offer.</p>
-<p>The free Starlink Mini rental first started in early 2026, with the <a href="https://www.satelliteinternet.com/resources/starlink-max-100-mbps-plans/">rebrand of the Residential Max</a> plan, which <a href="https://www.satelliteinternet.com/providers/starlink/deals/">included other perks</a> like a free Router Mini and free professional installation. New customers were told they would get an email within a couple of weeks to claim the optional rental deal. However, some customers reported waiting months for the email, and even Starlink acknowledged the delays, citing high demand. Then the deal suddenly disappeared over the summer, <a href="https://www.satelliteinternet.com/resources/starlink-rental/">only to reappear a few months later</a>. </p>
-</div>
-    <div  ><p>In a discussion of the surprise offer, <a href="https://www.reddit.com/r/Starlink/comments/1wmmsly/starlink_mini_just_residential_100/">one Reddit poster</a> suggested Starlink is clearing inventory ahead of the next Starlink Mini. A new version of the Mini has been teased for months, and experts point to evidence that it will be battery-powered, making it even more portable. Earlier this summer, SpaceX CEO <a href="https://www.satelliteinternet.com/resources/new-starlink-mini/">Elon Musk showed off a new Mini device</a>, but didn't share details like features, pricing, or a release date. </p>
-<p>Starlink may be trying to ship more Mini kits before formally introducing a Starlink Mini 2 and ramping up marketing. Along with extending the Mini perk to more users, Starlink also introduced a monthly payment plan rather than a $199 upfront cost for a new Mini kit. Keeping the offer for lower-tier plan customers low-key may mean it won't be available for long, so we advise you to proceed at your own risk if you're interested in Starlink and the Mini kit incentive is a major selling point. Starlink's support page advises you to contact support to find out whether you are eligible.</p>
-</div>
-  </body>
-</html></div>]]></content:encoded>
-            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2025/09/si-starlink-mini-at-beach-featured.webp" />
             <snf:analytics><![CDATA[
                 <script>
                   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':

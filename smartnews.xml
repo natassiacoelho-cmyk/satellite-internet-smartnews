@@ -10,6 +10,33 @@
         <snf:logo><url>https://raw.githubusercontent.com/natassiacoelho-cmyk/satellite-internet-smartnews/main/satelliteinternet-logo_smartnews.png</url></snf:logo>
         
         <item>
+            <title>Starlink Speed Test</title>
+            <link>https://www.satelliteinternet.com/resources/starlink-speed-test/</link>
+            <guid>https://www.satelliteinternet.com/resources/starlink-speed-test/</guid>
+            <pubDate>Wed, 28 Oct 2026 15:33:11 +0000</pubDate>
+            <content:encoded><![CDATA[<div><html>
+  <body>
+    <p>Download speed is usually what providers and experts refer to when they talk about "internet speed." It measures how your connection performs when data travels from the web server to your device. It determines how fast web pages and files load. You'll want fast download speeds to watch Netflix in 4K.</p>
+    <p>Upload speed is how quickly data travels from your device to the web server. Upload examples include sharing photos and videos to social media, backing up files to cloud storage, sending emails, and other outgoing tasks. Upload speed can also impact video calls, such as Zoom and FaceTime.</p>
+    <p>Latency measures how long it takes data to travel from your device to the server and back. It's measured in milliseconds, and the lower the better. One of the biggest contributors to high latency is distance—latency increases the farther you are from the tower or web server you're connected to. It matters most in online gaming, where quick response times are needed.</p>
+  </body>
+</html></div>]]></content:encoded>
+            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2024/06/News-Starlink-Global-Price-Jump-featured.jpg" />
+            <snf:analytics><![CDATA[
+                <script>
+                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                  })(window,document,'script','dataLayer','G-4RNELPQG75');
+                  window.dataLayer = window.dataLayer || [];
+                  function gtag(){dataLayer.push(arguments);}
+                  gtag('js', new Date());
+                  gtag('config', 'G-4RNELPQG75');
+                </script>
+]]></snf:analytics>
+        </item>
+        <item>
             <title>Satellite Phone vs. Direct-to-Cell Smartphone: Which Do You Need Off the Grid? (2026)</title>
             <link>https://www.satelliteinternet.com/resources/satellite-phone-vs-direct-to-cell/</link>
             <guid>https://www.satelliteinternet.com/resources/satellite-phone-vs-direct-to-cell/</guid>
@@ -365,33 +392,6 @@
   </body>
 </html></div>]]></content:encoded>
             <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2025/06/Screenshot-2025-06-18-143142-e1785431097790.webp" />
-            <snf:analytics><![CDATA[
-                <script>
-                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
-                  })(window,document,'script','dataLayer','G-4RNELPQG75');
-                  window.dataLayer = window.dataLayer || [];
-                  function gtag(){dataLayer.push(arguments);}
-                  gtag('js', new Date());
-                  gtag('config', 'G-4RNELPQG75');
-                </script>
-]]></snf:analytics>
-        </item>
-        <item>
-            <title>Starship Kicks-Off Next-Generation Starlink</title>
-            <link>https://www.satelliteinternet.com/resources/starship-kicks-off-next-generation-starlink/</link>
-            <guid>https://www.satelliteinternet.com/resources/starship-kicks-off-next-generation-starlink/</guid>
-            <pubDate>Wed, 30 Sep 2026 17:31:17 +0000</pubDate>
-            <content:encoded><![CDATA[<div><html>
-  <body>
-    <p>SpaceX has taken a major step toward its many ambitions, including delivering gigabit satellite internet and becoming a dominant broadband provider worldwide. SpaceX launched its 14th Starship flight on September 28, successfully deploying 24 next-generation <a href="https://www.satelliteinternet.com/providers/starlink/">Starlink</a> satellites that the company claims will greatly improve satellite internet performance.</p>
-    <p>The fully reusable Starship vehicle is central to Starlink's future roadmap. Engineered for mass deployment and rapid reusability, Starship is the only launch vehicle capable of carrying the heavier payloads required for Starlink's third-generation constellation upgrades.</p>
-    <p>Supported by the “Mechazilla” launch tower, which is designed to catch the returning booster, SpaceX aims to achieve a cadence where Starship can launch, land, refuel, and fly again within hours.<a href="https://x.com/xdNiBoR/status/1857866735698792646"> According to SpaceX President Gwynne Shotwell</a>, the company envisions flying Starship up to 400 times over the next four years.</p>
-  </body>
-</html></div>]]></content:encoded>
-            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2026/09/HTU8grvWQAAXhSn.webp" />
             <snf:analytics><![CDATA[
                 <script>
                   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':

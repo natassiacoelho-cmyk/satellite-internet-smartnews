@@ -10,6 +10,35 @@
         <snf:logo><url>https://raw.githubusercontent.com/natassiacoelho-cmyk/satellite-internet-smartnews/main/satelliteinternet-logo_smartnews.png</url></snf:logo>
         
         <item>
+            <title>Starlink Customers Hit With Price Changes Based on Location</title>
+            <link>https://www.satelliteinternet.com/resources/starlink-introduces-dynamic-pricing/</link>
+            <guid>https://www.satelliteinternet.com/resources/starlink-introduces-dynamic-pricing/</guid>
+            <pubDate>Thu, 29 Oct 2026 21:55:25 +0000</pubDate>
+            <content:encoded><![CDATA[<div><html>
+  <body>
+    <p><a href="https://www.satelliteinternet.com/providers/starlink/">Starlink</a> appears to be rolling out a dynamic pricing model, meaning monthly pricing may increase or decrease based on a customer's location. Multiple customers shared Starlink emails on social media showing their monthly fees being raised and lowered. The new pricing applies to current and new customers in affected areas.</p>
+    <p>Customers are reporting <a href="https://www.facebook.com/groups/177859700191023/posts/1824574825519494">increases of up to 20 percent</a>, bringing a $130 Residential Max plan to $156 per month. Meanwhile, some customers reported a discount on their monthly subscription. One user received a <a href="https://www.reddit.com/r/Starlink/comments/1xisley/price_decrease/">10 percent discount</a>, bringing their monthly fee to $117. </p>
+    <p>"Starlink prices are dynamic, based on supply of capacity and demand from customers," the email reads. "As our constellation grows and network capacity changes, service pricing may change from time to time."</p>
+    <p><a href="https://www.satelliteinternet.com/resources/starlink-2026-price-increase/">Starlink increased prices</a> for most U.S. customers in the first half of 2026, marking this the second price increase for some customers within a year. Starlink claims it will evaluate pricing on a quarterly basis. It also reiterates that customers pay month to month and can change or cancel their subscriptions at any time.    </p>
+    <p>Starlink says network capacity is driving the changes, also coinciding with its current priority of building its third-generation fleet of Starlink satellites with the Starship rocket. <a href="https://www.satelliteinternet.com/resources/spacex-ipo-starlink/">SpaceX also recently became publicly traded</a>, making revenue an important factor in decision-making. </p>
+  </body>
+</html></div>]]></content:encoded>
+            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2026/10/HS3kpdsbMAAQfgu-e1793311489437.webp" />
+            <snf:analytics><![CDATA[
+                <script>
+                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                  })(window,document,'script','dataLayer','G-4RNELPQG75');
+                  window.dataLayer = window.dataLayer || [];
+                  function gtag(){dataLayer.push(arguments);}
+                  gtag('js', new Date());
+                  gtag('config', 'G-4RNELPQG75');
+                </script>
+]]></snf:analytics>
+        </item>
+        <item>
             <title>Starlink Speed Test</title>
             <link>https://www.satelliteinternet.com/resources/starlink-speed-test/</link>
             <guid>https://www.satelliteinternet.com/resources/starlink-speed-test/</guid>
@@ -361,37 +390,6 @@
   </body>
 </html></div>]]></content:encoded>
             <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2024/12/IMG_9931-copy.webp" />
-            <snf:analytics><![CDATA[
-                <script>
-                  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-                  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-                  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-                  'https://www.googletagmanager.com/gtag/js?id='+i+dl;f.parentNode.insertBefore(j,f);
-                  })(window,document,'script','dataLayer','G-4RNELPQG75');
-                  window.dataLayer = window.dataLayer || [];
-                  function gtag(){dataLayer.push(arguments);}
-                  gtag('js', new Date());
-                  gtag('config', 'G-4RNELPQG75');
-                </script>
-]]></snf:analytics>
-        </item>
-        <item>
-            <title>Earn Income With Your Starlink With Community Share</title>
-            <link>https://www.satelliteinternet.com/resources/starlink-community-site-program/</link>
-            <guid>https://www.satelliteinternet.com/resources/starlink-community-site-program/</guid>
-            <pubDate>Thu, 01 Oct 2026 22:20:03 +0000</pubDate>
-            <content:encoded><![CDATA[<div><html>
-  <body>
-    <div  ><p>It's also unclear whether the program will be available in all regions. Also, there are no details on pass prices or what the host's payout would look like.</p>
-</div>
-    <div  ><p>Reselling services on a <a href="https://www.satelliteinternet.com/resources/starlink-roam-vs-residential-internet/">Residential or Roam</a> plan violates Starlink's Terms of Service. Starlink has been known to suspend service for accounts if it detects higher-than-normal data usage, determines the user may be using it for business purposes, and urges them to switch to a <a href="https://www.satelliteinternet.com/providers/starlink/business/">Priority/Enterprise plan</a> to resume service. </p>
-<p>The community site plan may be a compromise for users who don't want a full business plan but want to distribute access to a modest number of people in their community. Plus, it's another revenue source for Starlink. It's also a way for the company to combat the secondary market for its service, such as owners who rent out their Starlink kits for a profit, another violation of its Terms.  </p>
-<p>Depending on the scope of usage you describe in your sign-up form, Starlink may recommend a business plan. The program seems geared toward spaces like community centers, public spaces, rural businesses, single buildings with multiple residences, or multiple households in close proximity. </p>
-<p>An ideal use case could be low-income areas without reliable internet access, where the host's Starlink income contributes to subscription costs and other community needs. It's still hard to tell, since it's unclear what the host's share of the pass revenue will be. </p>
-</div>
-  </body>
-</html></div>]]></content:encoded>
-            <media:thumbnail url="https://www.satelliteinternet.com/app/uploads/2025/06/Screenshot-2025-06-18-143142-e1785431097790.webp" />
             <snf:analytics><![CDATA[
                 <script>
                   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
